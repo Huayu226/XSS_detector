@@ -4,3 +4,5 @@ poetry.lock
 *__pycache__/
 *.pyc
 *.pth
+*.png
+*.xlsx

