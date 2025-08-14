@@ -2,7 +2,7 @@ import pandas as pd
 
 # 讀三個 CSV（無標題）
 df1 = pd.read_csv(f"res/success/success_payloads_all.csv", header=None)
-df2 = pd.read_csv(f"res/model/model_payloads.csv", header=None)
+df2 = pd.read_csv(f"res/model/xss_dataset.csv", header=None)
 df3 = pd.read_csv(f"res/benign/benign.csv", header=None)
 
 # 合併三個並去重（完全相同的列會刪）
