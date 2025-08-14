@@ -3,7 +3,7 @@ import csv
 import random
 
 # 目標路徑
-outfile = r"E:\XSS_detector\res\benign\benign.csv"
+outfile = f"res/benign/benign.csv"
 
 # 常見標籤、屬性、字
 TAGS  = ["div", "span", "a", "p", "img", "ul", "li", "table", "tr", "td"]
