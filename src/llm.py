@@ -34,7 +34,7 @@ def get_recent_failed_payloads(limit=10):
 load_dotenv()
 temp = 0.7
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-total_rounds = 15
+total_rounds = 2
 timestamp = datetime.now().strftime("%m%d%H%M")
 
 for i in range(total_rounds):
@@ -59,7 +59,7 @@ for i in range(total_rounds):
             "   - Unicode 編碼（如 \\u0061\\u006c\\u0065\\u0072\\u0074）\n"
             "   - HTML 實體編碼（如 &#x61;&#x6C;&#x65;&#x72;&#x74;）\n"
             "   - Base64 編碼搭配 atob 解碼\n"
-            "   - 或其他變形方式\n"
+            "   - 或其他變形方式\n" 
             "4. Payload 應具備繞過機器學習模型（例如 CNN、RNN）檢測的能力，避免使用常見模板（如 <script>alert(1)</script>）或明顯可辨識的語法結構。\n\n"
             "請只輸出 payload 字串，每一筆一行，不要加入任何解釋、描述或標示，除了 HTML 標籤本身外，不要加入任何文字。"
         )}
