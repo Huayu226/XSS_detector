@@ -95,7 +95,7 @@ async def main():
     results = []
 
     temp_str = "0.7"  # 指定溫度，這裡可以自由改變
-    for i in range(2):
+    for i in range(1):
         print(i)
         time_str = f"08131703_{i}"
         result = await process_file(temp_str, time_str)
@@ -103,7 +103,7 @@ async def main():
         results.append(result)
 
     df = pd.DataFrame(results[:15])
-    df.to_excel(f"XSS_{temp_str}_2rounds_stats.xlsx", index=False)
+    df.to_excel(f"XSS_{temp_str}_1rounds_stats.xlsx", index=False)
 
     # Plotting
     temp_label = df["Temperature"].iloc[0]
