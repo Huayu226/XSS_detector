@@ -41,15 +41,13 @@ for i in range(total_rounds):
     print(f"[INFO] 正在產生第 {i + 1} 輪的 payload（temp={temp}）...")
 
     # ✅ 成功範例 + 失敗語法範例作為提示
-    successful_examples = get_top_successful_payloads()
-    failed_examples = get_recent_failed_payloads()
-    example_text = "\n".join(successful_examples)
-    fail_text = "\n".join(failed_examples)
+    #successful_examples = get_top_successful_payloads()
+    #failed_examples = get_recent_failed_payloads()
+    #example_text = "\n".join(successful_examples)
+    #fail_text = "\n".join(failed_examples)
 
     messages = [
         {"role": "system", "content": "你是一位 Web 資安專家，擅長製作對抗性 XSS 攻擊樣本"},
-        {"role": "user", "content": f"以下是成功繞過偵測與語法測試的 XSS payload 範例：\n{example_text}"},
-        {"role": "user", "content": f"以下是語法錯誤、無法執行的 payload 範例，請避免這些風格：\n{fail_text}"},
         {"role": "user", "content": (
             "請幫我生成 30 筆語法正確、能在現代瀏覽器（如 Chrome）中自動觸發執行的 XSS payload，需符合以下條件：\n\n"
             "1. 不需任何使用者互動就能自動執行（不能使用 onclick、onmouseover、onfocus 等互動事件）。\n"
