@@ -10,6 +10,15 @@ import matplotlib
 matplotlib.rcParams['font.family'] = 'Microsoft JhengHei'
 import csv
 
+# ✅ 檢查 HTML 結構是否正確（事前過濾語法錯誤 payload）
+def is_valid_html(payload):
+    try:
+        soup = BeautifulSoup(payload, "html.parser")
+        return bool(soup.find()) and '<' in payload and '>' in payload
+    except:
+        return False
+
+#讀取已存在的 payload（防止重複新增）       
 def _read_existing_payloads_from_csv(path: str) -> set:
     if not os.path.exists(path):
         return set()
@@ -22,6 +31,7 @@ def _read_existing_payloads_from_csv(path: str) -> set:
             existing.add(row[0].strip())
     return existing
 
+#將新的 payload 加入到 CSV 裡面
 def _append_payload_csv(path: str, payload: str, label: int = 1):
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, "a", encoding="utf-8", newline="") as f:
@@ -95,9 +105,9 @@ async def main():
     results = []
 
     temp_str = "0.7"  # 指定溫度，這裡可以自由改變
-    for i in range(2):
+    for i in range(1):
         print(i)
-        time_str = f"08131703_{i}"
+        time_str = f"08180313_{i}"
         result = await process_file(temp_str, time_str)
         result["Round"] = i + 1
         results.append(result)

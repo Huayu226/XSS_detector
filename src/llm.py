@@ -1,4 +1,6 @@
 import os
+import csv
+from collections import Counter
 from openai import OpenAI
 from dotenv import load_dotenv
 from datetime import datetime
@@ -7,34 +9,25 @@ from collections import Counter
 
 # ✅ 擷取最常見成功 payload（Top-N）
 def get_top_successful_payloads(limit=10):
-    file_path = "res/success/success_payloads_all.txt"
+    file_path = "res/success/success_payloads_all.csv"
     if not os.path.exists(file_path):
         return []
-    with open(file_path, "r", encoding="utf-8") as f:
-        lines = [line.strip() for line in f if line.strip()]
-    freq = Counter(lines)
-    return [payload for payload, _ in freq.most_common(limit)]
 
-# ✅ 讀取最新一輪語法錯誤 payload（語法測試未通過者）
-def get_recent_failed_payloads(limit=10):
-    fail_dir = "res/fail"
-    files = sorted(
-        [f for f in os.listdir(fail_dir) if f.startswith("fail_payloads_temp_")],
-        key=lambda x: os.path.getmtime(os.path.join(fail_dir, x)),
-        reverse=True
-    )
-    if not files:
-        return []
-    latest_file = os.path.join(fail_dir, files[0])
-    with open(latest_file, "r", encoding="utf-8") as f:
-        lines = [line.strip() for line in f if line.strip()]
-    return lines[-limit:]
+    payloads = []
+    with open(file_path, "r", encoding="utf-8") as f:
+        reader = csv.reader(f)
+        for row in reader:
+            if row and row[0].strip():  # 確保第一欄有資料
+                payloads.append(row[0].strip())
+
+    freq = Counter(payloads)
+    return [payload for payload, _ in freq.most_common(limit)]
 
 # ✅ 初始化 API 與參數
 load_dotenv()
 temp = 0.7
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-total_rounds = 2
+total_rounds = 15
 timestamp = datetime.now().strftime("%m%d%H%M")
 
 for i in range(total_rounds):
@@ -42,14 +35,11 @@ for i in range(total_rounds):
 
     # ✅ 成功範例 + 失敗語法範例作為提示
     successful_examples = get_top_successful_payloads()
-    failed_examples = get_recent_failed_payloads()
     example_text = "\n".join(successful_examples)
-    fail_text = "\n".join(failed_examples)
 
     messages = [
         {"role": "system", "content": "你是一位 Web 資安專家，擅長製作對抗性 XSS 攻擊樣本"},
         {"role": "user", "content": f"以下是成功繞過偵測與語法測試的 XSS payload 範例：\n{example_text}"},
-        {"role": "user", "content": f"以下是語法錯誤、無法執行的 payload 範例，請避免這些風格：\n{fail_text}"},
         {"role": "user", "content": (
             "請幫我生成 30 筆語法正確、能在現代瀏覽器（如 Chrome）中自動觸發執行的 XSS payload，需符合以下條件：\n\n"
             "1. 不需任何使用者互動就能自動執行（不能使用 onclick、onmouseover、onfocus 等互動事件）。\n"

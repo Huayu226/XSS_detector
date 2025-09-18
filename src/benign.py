@@ -25,7 +25,7 @@ def write_rows_csv(path, rows):
         writer = csv.writer(f)
         writer.writerows(rows)
 
-def main(n=29, label=0):
+def main(n=217, label=0):
     # 產生 n 筆不重複的樣本（避免重複行）
     seen = set()
     rows = []

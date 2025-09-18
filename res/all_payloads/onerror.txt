@@ -1,0 +1,5 @@
+alert(`XSS_onerror_1`)
+alert(String.fromCharCode(88,83,83))
+confirm(document.domain)
+fetch(`http://127.0.0.1:8000/ping?from=onerror`)
+setTimeout(`alert(1)`, 100)
