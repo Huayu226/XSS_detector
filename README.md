@@ -56,6 +56,7 @@ Payload 在處理時會先進行標準化，包含：移除 host/path 資訊、�
 </details>
 
 <details> <summary>3. 最終版本</summary>
+ 
 ```json
 "role": "system", "content": "你是一位 Web 資安專家，擅長製作對抗性 XSS 攻擊樣本"
 "role": "user", "content": f"以下是成功繞過偵測與語法測試的 XSS payload 範例：\n{example_text}"
